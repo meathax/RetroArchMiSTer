@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ikari III - The Rescue (World, 8-Way Joystick)</name>
+	<setname>ikari3nr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ikari3nr. ROM archive: games/mame2003plus/ikari3nr.zip. -->
+</misterromdescription>

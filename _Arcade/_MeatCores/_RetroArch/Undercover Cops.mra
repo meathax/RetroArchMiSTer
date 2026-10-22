@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Undercover Cops (World)</name>
+	<setname>uccops</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set uccops. ROM archive: games/mame2003plus/uccops.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ataxx (Japan)</name>
+	<setname>ataxxj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ataxxj. ROM archive: games/mame2003plus/ataxxj.zip. -->
+</misterromdescription>

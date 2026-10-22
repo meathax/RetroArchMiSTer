@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Astro Blaster (version 2)</name>
+	<setname>astrob2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set astrob2. ROM archive: games/mame2003plus/astrob2.zip. -->
+</misterromdescription>

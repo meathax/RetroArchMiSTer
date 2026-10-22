@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Magical Spot II</name>
+	<setname>magspot2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Universal</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set magspot2. ROM archive: games/mame2003plus/magspot2.zip. -->
+</misterromdescription>

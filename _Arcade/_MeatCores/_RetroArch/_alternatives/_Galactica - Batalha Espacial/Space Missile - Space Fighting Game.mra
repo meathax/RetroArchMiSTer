@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Missile - Space Fighting Game</name>
+	<setname>spacmiss</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spacmiss. ROM archive: games/mame2003plus/spacmiss.zip. -->
+</misterromdescription>

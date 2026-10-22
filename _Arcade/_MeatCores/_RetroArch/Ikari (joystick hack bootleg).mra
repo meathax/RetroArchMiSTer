@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ikari (joystick hack bootleg)</name>
+	<setname>ikarijpb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ikarijpb. ROM archive: games/mame2003plus/ikarijpb.zip. -->
+</misterromdescription>

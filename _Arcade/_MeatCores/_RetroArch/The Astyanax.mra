@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Astyanax</name>
+	<setname>astyanax</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set astyanax. ROM archive: games/mame2003plus/astyanax.zip. -->
+</misterromdescription>

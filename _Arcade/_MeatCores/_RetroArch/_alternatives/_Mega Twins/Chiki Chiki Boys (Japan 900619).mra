@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chiki Chiki Boys (Japan 900619)</name>
+	<setname>chikij</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chikij. ROM archive: games/mame2003plus/chikij.zip. -->
+</misterromdescription>

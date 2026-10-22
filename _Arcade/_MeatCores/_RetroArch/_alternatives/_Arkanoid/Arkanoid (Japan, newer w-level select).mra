@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Arkanoid (Japan, newer w/level select)</name>
+	<setname>arknoidj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arknoidj. ROM archive: games/mame2003plus/arknoidj.zip. -->
+</misterromdescription>

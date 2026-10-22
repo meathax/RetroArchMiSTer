@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Senjyo</name>
+	<setname>senjyo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Tehkan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set senjyo. ROM archive: games/mame2003plus/senjyo.zip. -->
+</misterromdescription>

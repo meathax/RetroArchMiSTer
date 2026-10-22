@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Oli-Boo-Chu</name>
+	<setname>olibochu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Irem + GDI</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set olibochu. ROM archive: games/mame2003plus/olibochu.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>All American Football (rev E)</name>
+	<setname>aafb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aafb. ROM archive: games/mame2003plus/aafb.zip. -->
+</misterromdescription>

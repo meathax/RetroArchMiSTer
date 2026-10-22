@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gratia - Second Earth (91022-10 version)</name>
+	<setname>gratiaa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gratiaa. ROM archive: games/mame2003plus/gratiaa.zip. -->
+</misterromdescription>

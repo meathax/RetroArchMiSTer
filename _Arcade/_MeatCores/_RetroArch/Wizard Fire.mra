@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Wizard Fire (US v1.1)</name>
+	<setname>wizdfire</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wizdfire. ROM archive: games/mame2003plus/wizdfire.zip. -->
+</misterromdescription>

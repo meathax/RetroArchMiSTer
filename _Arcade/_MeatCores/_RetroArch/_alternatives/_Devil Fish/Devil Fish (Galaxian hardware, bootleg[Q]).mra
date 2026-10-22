@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Devil Fish (Galaxian hardware, bootleg[Q])</name>
+	<setname>devilfsg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Vision / Artic</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set devilfsg. ROM archive: games/mame2003plus/devilfsg.zip. -->
+</misterromdescription>

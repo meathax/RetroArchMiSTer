@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Whizz</name>
+	<setname>whizz</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Philko</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set whizz. ROM archive: games/mame2003plus/whizz.zip. -->
+</misterromdescription>

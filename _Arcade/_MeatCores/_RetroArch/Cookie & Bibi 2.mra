@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cookie &amp; Bibi 2</name>
+	<setname>cookbib2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>SemiCom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cookbib2. ROM archive: games/mame2003plus/cookbib2.zip. -->
+</misterromdescription>

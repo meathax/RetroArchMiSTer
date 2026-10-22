@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Makaimura - Maiden Artoria Edition (Enhanced) (Japan revision B)</name>
+	<setname>makmaidenbenh</setname>
+	<rbf>RetroArch</rbf>
+	<year>2026</year>
+	<manufacturer>GoodLuckTrying</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set makmaidenbenh. ROM archive: games/mame2003plus/makmaidenbenh.zip. -->
+</misterromdescription>

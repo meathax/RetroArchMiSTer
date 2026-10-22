@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Flying Tiger</name>
+	<setname>flytiger</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Dooyong</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set flytiger. ROM archive: games/mame2003plus/flytiger.zip. -->
+</misterromdescription>

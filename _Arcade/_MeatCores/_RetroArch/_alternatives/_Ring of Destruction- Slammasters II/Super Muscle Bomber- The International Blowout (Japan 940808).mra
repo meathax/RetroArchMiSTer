@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Muscle Bomber: The International Blowout (Japan 940808)</name>
+	<setname>smbombr1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set smbombr1. ROM archive: games/mame2003plus/smbombr1.zip. -->
+</misterromdescription>

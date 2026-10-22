@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Street Fighter II Turbo (Asia 940223)</name>
+	<setname>ssf2ta</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssf2ta. ROM archive: games/mame2003plus/ssf2ta.zip. -->
+</misterromdescription>

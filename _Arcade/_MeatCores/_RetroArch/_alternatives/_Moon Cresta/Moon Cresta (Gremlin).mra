@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Moon Cresta (Gremlin)</name>
+	<setname>mooncrsg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Gremlin</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mooncrsg. ROM archive: games/mame2003plus/mooncrsg.zip. -->
+</misterromdescription>

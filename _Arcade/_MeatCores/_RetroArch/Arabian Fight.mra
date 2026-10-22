@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Arabian Fight</name>
+	<setname>arabfgt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arabfgt. ROM archive: games/mame2003plus/arabfgt.zip. -->
+</misterromdescription>

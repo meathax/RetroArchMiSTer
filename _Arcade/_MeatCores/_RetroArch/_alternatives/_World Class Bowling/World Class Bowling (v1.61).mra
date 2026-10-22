@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>World Class Bowling (v1.61)</name>
+	<setname>wcbwl161</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wcbwl161. ROM archive: games/mame2003plus/wcbwl161.zip. -->
+</misterromdescription>

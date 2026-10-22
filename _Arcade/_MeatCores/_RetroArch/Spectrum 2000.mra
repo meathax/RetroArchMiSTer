@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Spectrum 2000 (Euro)</name>
+	<setname>spec2k</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Yonatech</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spec2k. ROM archive: games/mame2003plus/spec2k.zip. -->
+</misterromdescription>

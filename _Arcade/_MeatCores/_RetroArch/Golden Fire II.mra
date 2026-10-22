@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Golden Fire II</name>
+	<setname>gfire2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Topis Corp</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gfire2. ROM archive: games/mame2003plus/gfire2.zip. -->
+</misterromdescription>

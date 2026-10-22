@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Battle Circuit (Japan 970319)</name>
+	<setname>batcirj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set batcirj. ROM archive: games/mame2003plus/batcirj.zip. -->
+</misterromdescription>

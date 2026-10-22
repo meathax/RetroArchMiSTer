@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Spelunker II</name>
+	<setname>spelunk2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Irem (licensed from Broderbund)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spelunk2. ROM archive: games/mame2003plus/spelunk2.zip. -->
+</misterromdescription>

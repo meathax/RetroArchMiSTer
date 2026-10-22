@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Majestic Twelve - The Space Invaders Part IV (Japan)</name>
+	<setname>majest12</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set majest12. ROM archive: games/mame2003plus/majest12.zip. -->
+</misterromdescription>

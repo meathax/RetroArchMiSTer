@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>800 Fathoms</name>
+	<setname>800fath</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Amenip (US Billiards Inc. license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 800fath. ROM archive: games/mame2003plus/800fath.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Beezer (set 2)</name>
+	<setname>beezer1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Tong Electronic</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set beezer1. ROM archive: games/mame2003plus/beezer1.zip. -->
+</misterromdescription>

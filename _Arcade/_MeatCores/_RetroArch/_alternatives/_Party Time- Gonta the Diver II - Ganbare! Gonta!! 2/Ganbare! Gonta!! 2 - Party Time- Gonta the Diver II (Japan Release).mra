@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II (Japan Release)</name>
+	<setname>gangonta</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Mitchell</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gangonta. ROM archive: games/mame2003plus/gangonta.zip. -->
+</misterromdescription>

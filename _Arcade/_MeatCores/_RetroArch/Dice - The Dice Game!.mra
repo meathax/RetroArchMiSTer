@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dice - The Dice Game!</name>
+	<setname>dicegame</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>bootleg (Tuning)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dicegame. ROM archive: games/mame2003plus/dicegame.zip. -->
+</misterromdescription>

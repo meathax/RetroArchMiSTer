@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chase Bombers (World)</name>
+	<setname>cbombers</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cbombers. ROM archive: games/mame2003plus/cbombers.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Suzuka 8 Hours (World[Q])</name>
+	<setname>suzuka8h</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set suzuka8h. ROM archive: games/mame2003plus/suzuka8h.zip. -->
+</misterromdescription>

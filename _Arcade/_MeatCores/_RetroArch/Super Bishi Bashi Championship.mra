@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Bishi Bashi Championship (ver JAA, 2 Players)</name>
+	<setname>sbishi</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sbishi. ROM archive: games/mame2003plus/sbishi.zip. -->
+</misterromdescription>

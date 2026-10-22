@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong CLUB 90's (set 2) (Japan 900919)</name>
+	<setname>club90sa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set club90sa. ROM archive: games/mame2003plus/club90sa.zip. -->
+</misterromdescription>

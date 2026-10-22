@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Metal Slug 2 - Turbo (Trap15, Hack)</name>
+	<setname>mslug2t</setname>
+	<rbf>RetroArch</rbf>
+	<year>2015</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mslug2t. ROM archive: games/mame2003plus/mslug2t.zip. -->
+</misterromdescription>

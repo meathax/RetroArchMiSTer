@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>PlayChoice-10 - Balloon Fight</name>
+	<setname>pc_bfght</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pc_bfght. ROM archive: games/mame2003plus/pc_bfght.zip. -->
+</misterromdescription>

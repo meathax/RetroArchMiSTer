@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Spectar (revision 3)</name>
+	<setname>spectar</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spectar. ROM archive: games/mame2003plus/spectar.zip. -->
+</misterromdescription>

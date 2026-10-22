@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Top Ranking Stars (Japan new version)</name>
+	<setname>trstarj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set trstarj. ROM archive: games/mame2003plus/trstarj.zip. -->
+</misterromdescription>

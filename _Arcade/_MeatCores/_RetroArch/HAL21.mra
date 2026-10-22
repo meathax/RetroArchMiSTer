@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>HAL21</name>
+	<setname>hal21</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hal21. ROM archive: games/mame2003plus/hal21.zip. -->
+</misterromdescription>

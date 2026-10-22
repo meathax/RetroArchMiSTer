@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Final Star Force (US)</name>
+	<setname>fstarfrc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Tecmo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fstarfrc. ROM archive: games/mame2003plus/fstarfrc.zip. -->
+</misterromdescription>

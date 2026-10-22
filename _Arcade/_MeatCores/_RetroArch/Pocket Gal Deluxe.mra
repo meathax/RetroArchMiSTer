@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pocket Gal Deluxe (Euro v3.00)</name>
+	<setname>pktgaldx</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pktgaldx. ROM archive: games/mame2003plus/pktgaldx.zip. -->
+</misterromdescription>

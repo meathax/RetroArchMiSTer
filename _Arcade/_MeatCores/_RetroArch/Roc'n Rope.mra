@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Roc'n Rope</name>
+	<setname>rocnrope</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rocnrope. ROM archive: games/mame2003plus/rocnrope.zip. -->
+</misterromdescription>

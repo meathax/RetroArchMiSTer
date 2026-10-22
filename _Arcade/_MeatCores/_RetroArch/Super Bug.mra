@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Bug</name>
+	<setname>superbug</setname>
+	<rbf>RetroArch</rbf>
+	<year>1977</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set superbug. ROM archive: games/mame2003plus/superbug.zip. -->
+</misterromdescription>

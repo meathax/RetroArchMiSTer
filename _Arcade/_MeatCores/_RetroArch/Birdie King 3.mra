@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Birdie King 3</name>
+	<setname>bking3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bking3. ROM archive: games/mame2003plus/bking3.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crime City (US)</name>
+	<setname>crimecu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crimecu. ROM archive: games/mame2003plus/crimecu.zip. -->
+</misterromdescription>

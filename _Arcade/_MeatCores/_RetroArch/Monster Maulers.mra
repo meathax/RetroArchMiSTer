@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Monster Maulers (ver EAA)</name>
+	<setname>mmaulers</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mmaulers. ROM archive: games/mame2003plus/mmaulers.zip. -->
+</misterromdescription>

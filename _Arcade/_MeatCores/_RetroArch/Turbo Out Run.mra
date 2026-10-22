@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Turbo Out Run (Out Run upgrade) (bootleg of FD1094 317-0118 set)</name>
+	<setname>toutrun</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set toutrun. ROM archive: games/mame2003plus/toutrun.zip. -->
+</misterromdescription>

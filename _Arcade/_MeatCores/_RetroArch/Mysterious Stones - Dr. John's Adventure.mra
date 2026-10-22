@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mysterious Stones - Dr. John's Adventure</name>
+	<setname>mystston</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mystston. ROM archive: games/mame2003plus/mystston.zip. -->
+</misterromdescription>

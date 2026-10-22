@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sotsugyo Shousho</name>
+	<setname>sotsugyo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Mitchell (Atlus license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sotsugyo. ROM archive: games/mame2003plus/sotsugyo.zip. -->
+</misterromdescription>

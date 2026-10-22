@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Force</name>
+	<setname>spcforce</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Venture Line</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spcforce. ROM archive: games/mame2003plus/spcforce.zip. -->
+</misterromdescription>

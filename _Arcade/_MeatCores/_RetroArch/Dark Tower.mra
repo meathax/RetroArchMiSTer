@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dark Tower</name>
+	<setname>darktowr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Game Room</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set darktowr. ROM archive: games/mame2003plus/darktowr.zip. -->
+</misterromdescription>

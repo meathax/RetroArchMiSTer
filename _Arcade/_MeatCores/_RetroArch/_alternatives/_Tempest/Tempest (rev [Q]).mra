@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tempest (rev [Q])</name>
+	<setname>tempest3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tempest3. ROM archive: games/mame2003plus/tempest3.zip. -->
+</misterromdescription>

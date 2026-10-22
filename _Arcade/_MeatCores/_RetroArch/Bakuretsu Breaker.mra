@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bakuretsu Breaker</name>
+	<setname>bakubrkr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bakubrkr. ROM archive: games/mame2003plus/bakubrkr.zip. -->
+</misterromdescription>

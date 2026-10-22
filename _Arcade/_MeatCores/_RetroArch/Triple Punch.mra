@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Triple Punch</name>
+	<setname>triplep</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>KKI</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set triplep. ROM archive: games/mame2003plus/triplep.zip. -->
+</misterromdescription>

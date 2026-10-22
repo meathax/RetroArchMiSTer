@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gunbarich</name>
+	<setname>gnbarich</setname>
+	<rbf>RetroArch</rbf>
+	<year>2001</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gnbarich. ROM archive: games/mame2003plus/gnbarich.zip. -->
+</misterromdescription>

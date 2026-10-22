@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Jyanshin Densetsu - Quest of Jongmaster</name>
+	<setname>janshin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Aicom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set janshin. ROM archive: games/mame2003plus/janshin.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Blue Hawk (NTC)</name>
+	<setname>bluehawn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>[Dooyong] (NTC license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bluehawn. ROM archive: games/mame2003plus/bluehawn.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Warrior</name>
+	<setname>warrior</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>Vectorbeam</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set warrior. ROM archive: games/mame2003plus/warrior.zip. -->
+</misterromdescription>

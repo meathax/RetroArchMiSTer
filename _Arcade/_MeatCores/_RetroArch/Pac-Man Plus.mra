@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pac-Man Plus</name>
+	<setname>pacplus</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>[Namco] (Midway license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pacplus. ROM archive: games/mame2003plus/pacplus.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ketsui Kizuna Jigoku Tachi (IKD 2007 Special - 2007 Cave Matsuri Version)</name>
+	<setname>ketikd</setname>
+	<rbf>RetroArch</rbf>
+	<year>2007</year>
+	<manufacturer>Cave</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ketikd. ROM archive: games/mame2003plus/ketikd.zip. -->
+</misterromdescription>

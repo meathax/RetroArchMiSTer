@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Got-Ya (12-24-1981, prototype[Q])</name>
+	<setname>gotya</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Game-A-Tron</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gotya. ROM archive: games/mame2003plus/gotya.zip. -->
+</misterromdescription>

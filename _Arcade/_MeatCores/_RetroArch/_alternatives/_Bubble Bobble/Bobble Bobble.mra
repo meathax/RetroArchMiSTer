@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bobble Bobble</name>
+	<setname>boblbobl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set boblbobl. ROM archive: games/mame2003plus/boblbobl.zip. -->
+</misterromdescription>

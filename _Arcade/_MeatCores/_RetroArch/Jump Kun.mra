@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Jump Kun (prototype)</name>
+	<setname>jumpkun</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set jumpkun. ROM archive: games/mame2003plus/jumpkun.zip. -->
+</misterromdescription>

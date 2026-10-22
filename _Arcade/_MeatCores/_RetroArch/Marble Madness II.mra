@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marble Madness II (prototype)</name>
+	<setname>marblmd2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set marblmd2. ROM archive: games/mame2003plus/marblmd2.zip. -->
+</misterromdescription>

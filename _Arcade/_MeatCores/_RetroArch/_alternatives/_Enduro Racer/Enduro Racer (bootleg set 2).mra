@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Enduro Racer (bootleg set 2)</name>
+	<setname>endurob2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set endurob2. ROM archive: games/mame2003plus/endurob2.zip. -->
+</misterromdescription>

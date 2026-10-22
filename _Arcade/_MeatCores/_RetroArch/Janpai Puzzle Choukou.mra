@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Janpai Puzzle Choukou (Japan 010820)</name>
+	<setname>choko</setname>
+	<rbf>RetroArch</rbf>
+	<year>2001</year>
+	<manufacturer>Mitchell (Capcom license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set choko. ROM archive: games/mame2003plus/choko.zip. -->
+</misterromdescription>

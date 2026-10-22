@@ -1,0 +1,31 @@
+# One <core>:<set-or-content-basename> per line. Titles not listed still launch
+# (never blocked); they show a 4 s on-screen note "Speed not yet verified" because no
+# physical-MiSTer full-speed receipt exists for them (docs/LAUNCH_FORMAT.md section 4).
+# Source: docs/fullspeed.md "Confirmed" table (physical MiSTer, fps >= 99.17 % of native).
+# Extend only from a new physical receipt, in step with docs/fullspeed.md.
+# Rows from the 2026-10-07/08 receipt (arm-f8-m123-20261007.json) were measured with the A9 at 1 GHz.
+mame2003plus:beathead
+mame2003plus:blzntrnd
+mame2003plus:chasehq
+mame2003plus:dariusg
+mame2003plus:dbz
+mame2003plus:dfjail
+mame2003plus:ffight
+mame2003plus:goldnaxe
+mame2003plus:gt3d
+mame2003plus:gtmr
+mame2003plus:gundamex
+mame2003plus:hedpanic
+mame2003plus:hydra
+mame2003plus:hyperpac
+mame2003plus:joemacr
+mame2003plus:nost
+mame2003plus:pitfight
+mame2003plus:py2k2
+mame2003plus:sfa3
+mame2003plus:ssriders
+mame2003plus:timekill
+mame2003plus:undrfire
+mame2003plus:viostorm
+mame2003plus:wizdfire
+mame2003plus:xexex

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Astropal</name>
+	<setname>astropal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Sidam</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set astropal. ROM archive: games/mame2003plus/astropal.zip. -->
+</misterromdescription>

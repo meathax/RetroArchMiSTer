@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pollux (set 1)</name>
+	<setname>pollux</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Dooyong</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pollux. ROM archive: games/mame2003plus/pollux.zip. -->
+</misterromdescription>

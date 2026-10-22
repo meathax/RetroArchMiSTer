@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Trivial Pursuit (Young Players Edition)</name>
+	<setname>triviayp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Bally/Sente</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set triviayp. ROM archive: games/mame2003plus/triviayp.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crossed Swords</name>
+	<setname>crsword</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Alpha Denshi Co.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crsword. ROM archive: games/mame2003plus/crsword.zip. -->
+</misterromdescription>

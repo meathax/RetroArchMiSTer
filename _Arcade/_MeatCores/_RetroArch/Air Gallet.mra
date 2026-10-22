@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Air Gallet</name>
+	<setname>agallet</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Banpresto / Gazelle</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set agallet. ROM archive: games/mame2003plus/agallet.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Real Mahjong Haihai Jinji Idou Hen (Japan)</name>
+	<setname>rmhaijin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Alba</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rmhaijin. ROM archive: games/mame2003plus/rmhaijin.zip. -->
+</misterromdescription>

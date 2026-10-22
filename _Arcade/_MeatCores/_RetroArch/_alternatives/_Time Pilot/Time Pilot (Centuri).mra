@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Time Pilot (Centuri)</name>
+	<setname>timepltc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Konami (Centuri license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set timepltc. ROM archive: games/mame2003plus/timepltc.zip. -->
+</misterromdescription>

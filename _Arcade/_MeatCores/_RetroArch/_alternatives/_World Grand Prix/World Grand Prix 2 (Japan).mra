@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>World Grand Prix 2 (Japan)</name>
+	<setname>wgp2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wgp2. ROM archive: games/mame2003plus/wgp2.zip. -->
+</misterromdescription>

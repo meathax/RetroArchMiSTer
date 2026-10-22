@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cassette: Rootin' Tootin' (aka La.Pa.Pa)</name>
+	<setname>clapapa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>DECO</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set clapapa. ROM archive: games/mame2003plus/clapapa.zip. -->
+</misterromdescription>

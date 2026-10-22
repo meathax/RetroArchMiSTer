@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>SD Fighter (Korea)</name>
+	<setname>sdfight</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>SemiCom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sdfight. ROM archive: games/mame2003plus/sdfight.zip. -->
+</misterromdescription>

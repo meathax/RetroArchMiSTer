@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gingateikoku No Gyakushu</name>
+	<setname>gteikoku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gteikoku. ROM archive: games/mame2003plus/gteikoku.zip. -->
+</misterromdescription>

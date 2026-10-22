@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Ten V8.2</name>
+	<setname>usg82</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>U.S. Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set usg82. ROM archive: games/mame2003plus/usg82.zip. -->
+</misterromdescription>

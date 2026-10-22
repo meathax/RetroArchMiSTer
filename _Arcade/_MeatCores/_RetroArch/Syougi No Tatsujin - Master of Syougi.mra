@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Syougi No Tatsujin - Master of Syougi</name>
+	<setname>mosyougi</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>ADK / SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mosyougi. ROM archive: games/mame2003plus/mosyougi.zip. -->
+</misterromdescription>

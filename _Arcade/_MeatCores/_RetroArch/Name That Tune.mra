@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Name That Tune</name>
+	<setname>nametune</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Bally/Sente</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nametune. ROM archive: games/mame2003plus/nametune.zip. -->
+</misterromdescription>

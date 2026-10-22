@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Minesweeper</name>
+	<setname>mineswpr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1977</year>
+	<manufacturer>Amutech</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mineswpr. ROM archive: games/mame2003plus/mineswpr.zip. -->
+</misterromdescription>

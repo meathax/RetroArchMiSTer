@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Wiz</name>
+	<setname>wiz</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Seibu Kaihatsu Inc.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wiz. ROM archive: games/mame2003plus/wiz.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vendetta (Asia 2 Players ver. U)</name>
+	<setname>vendetas</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vendetas. ROM archive: games/mame2003plus/vendetas.zip. -->
+</misterromdescription>

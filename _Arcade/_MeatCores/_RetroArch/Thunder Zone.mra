@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Thunder Zone (World)</name>
+	<setname>thndzone</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set thndzone. ROM archive: games/mame2003plus/thndzone.zip. -->
+</misterromdescription>

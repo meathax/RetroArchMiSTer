@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Block Carnival - Thunder and Lightning 2</name>
+	<setname>blockcar</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Visco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set blockcar. ROM archive: games/mame2003plus/blockcar.zip. -->
+</misterromdescription>

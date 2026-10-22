@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Piranha</name>
+	<setname>piranha</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>GL (US Billiards License)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set piranha. ROM archive: games/mame2003plus/piranha.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai</name>
+	<setname>fatfury3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fatfury3. ROM archive: games/mame2003plus/fatfury3.zip. -->
+</misterromdescription>

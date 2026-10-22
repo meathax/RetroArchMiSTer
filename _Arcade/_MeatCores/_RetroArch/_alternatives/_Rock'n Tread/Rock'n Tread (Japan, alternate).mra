@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rock'n Tread (Japan, alternate)</name>
+	<setname>rockna</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rockna. ROM archive: games/mame2003plus/rockna.zip. -->
+</misterromdescription>

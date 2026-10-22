@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cloud 9 (prototype)</name>
+	<setname>cloud9</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cloud9. ROM archive: games/mame2003plus/cloud9.zip. -->
+</misterromdescription>

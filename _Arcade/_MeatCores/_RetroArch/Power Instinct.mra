@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Power Instinct (USA bootleg) (set 1)</name>
+	<setname>powerins</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Atlus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set powerins. ROM archive: games/mame2003plus/powerins.zip. -->
+</misterromdescription>

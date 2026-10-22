@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MegaTech - Tommy Lasorda Baseball</name>
+	<setname>mt_tlbba</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mt_tlbba. ROM archive: games/mame2003plus/mt_tlbba.zip. -->
+</misterromdescription>

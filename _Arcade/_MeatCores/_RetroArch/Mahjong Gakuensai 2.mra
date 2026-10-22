@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Gakuensai 2 (Japan)</name>
+	<setname>gakusai2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>MakeSoft</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gakusai2. ROM archive: games/mame2003plus/gakusai2.zip. -->
+</misterromdescription>

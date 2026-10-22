@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Champion Wrestler (US)</name>
+	<setname>champwru</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set champwru. ROM archive: games/mame2003plus/champwru.zip. -->
+</misterromdescription>

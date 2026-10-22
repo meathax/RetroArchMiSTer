@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Parodius DA! (World)</name>
+	<setname>parodius</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set parodius. ROM archive: games/mame2003plus/parodius.zip. -->
+</misterromdescription>

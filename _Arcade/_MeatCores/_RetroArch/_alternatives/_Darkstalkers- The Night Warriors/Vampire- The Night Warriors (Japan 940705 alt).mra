@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vampire: The Night Warriors (Japan 940705 alt)</name>
+	<setname>vampja</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vampja. ROM archive: games/mame2003plus/vampja.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Buccaneers (set 1)</name>
+	<setname>buccanrs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Duintronic</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set buccanrs. ROM archive: games/mame2003plus/buccanrs.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Quiz King of Fighters</name>
+	<setname>quizkof</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Saurus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set quizkof. ROM archive: games/mame2003plus/quizkof.zip. -->
+</misterromdescription>

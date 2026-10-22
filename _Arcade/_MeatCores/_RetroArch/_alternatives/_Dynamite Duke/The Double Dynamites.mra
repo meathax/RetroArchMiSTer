@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Double Dynamites</name>
+	<setname>dbldyn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Seibu Kaihatsu (Fabtek license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dbldyn. ROM archive: games/mame2003plus/dbldyn.zip. -->
+</misterromdescription>

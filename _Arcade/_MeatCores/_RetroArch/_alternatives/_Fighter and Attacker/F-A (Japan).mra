@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>F-A (Japan)</name>
+	<setname>fa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fa. ROM archive: games/mame2003plus/fa.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gauntlet (German, rev 3)</name>
+	<setname>gauntgr3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gauntgr3. ROM archive: games/mame2003plus/gauntgr3.zip. -->
+</misterromdescription>

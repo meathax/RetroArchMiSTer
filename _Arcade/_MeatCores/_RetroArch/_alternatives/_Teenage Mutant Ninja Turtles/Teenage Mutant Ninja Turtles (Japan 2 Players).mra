@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Teenage Mutant Ninja Turtles (Japan 2 Players)</name>
+	<setname>tmnt2pj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tmnt2pj. ROM archive: games/mame2003plus/tmnt2pj.zip. -->
+</misterromdescription>

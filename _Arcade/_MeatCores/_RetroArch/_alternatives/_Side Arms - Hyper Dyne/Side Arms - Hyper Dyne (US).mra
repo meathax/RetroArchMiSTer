@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Side Arms - Hyper Dyne (US)</name>
+	<setname>sidearmr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Capcom (Romstar license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sidearmr. ROM archive: games/mame2003plus/sidearmr.zip. -->
+</misterromdescription>

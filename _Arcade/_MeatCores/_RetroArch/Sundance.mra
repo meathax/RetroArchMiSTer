@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sundance</name>
+	<setname>sundance</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sundance. ROM archive: games/mame2003plus/sundance.zip. -->
+</misterromdescription>

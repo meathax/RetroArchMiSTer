@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kung-Fu Master</name>
+	<setname>kungfum</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kungfum. ROM archive: games/mame2003plus/kungfum.zip. -->
+</misterromdescription>

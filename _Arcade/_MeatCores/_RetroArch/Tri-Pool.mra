@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tri-Pool (Casino Tech)</name>
+	<setname>tripool</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Noma (Casino Tech license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tripool. ROM archive: games/mame2003plus/tripool.zip. -->
+</misterromdescription>

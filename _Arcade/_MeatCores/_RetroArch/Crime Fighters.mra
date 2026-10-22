@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crime Fighters (US 4 players)</name>
+	<setname>crimfght</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crimfght. ROM archive: games/mame2003plus/crimfght.zip. -->
+</misterromdescription>

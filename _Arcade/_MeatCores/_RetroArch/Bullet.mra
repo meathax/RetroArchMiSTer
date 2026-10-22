@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bullet (unprotected of FD1094 317-0041 set)</name>
+	<setname>bulletd</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bulletd. ROM archive: games/mame2003plus/bulletd.zip. -->
+</misterromdescription>

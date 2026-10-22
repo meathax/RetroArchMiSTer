@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Superbike</name>
+	<setname>superbik</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Century Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set superbik. ROM archive: games/mame2003plus/superbik.zip. -->
+</misterromdescription>

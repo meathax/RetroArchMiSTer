@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Metal Slug 2 - Super Vehicle-001-II</name>
+	<setname>mslug2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mslug2. ROM archive: games/mame2003plus/mslug2.zip. -->
+</misterromdescription>

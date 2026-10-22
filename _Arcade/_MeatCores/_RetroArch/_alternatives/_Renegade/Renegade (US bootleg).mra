@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Renegade (US bootleg)</name>
+	<setname>renegadeb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set renegadeb. ROM archive: games/mame2003plus/renegadeb.zip. -->
+</misterromdescription>

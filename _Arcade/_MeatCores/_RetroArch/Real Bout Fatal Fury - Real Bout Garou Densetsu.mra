@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Real Bout Fatal Fury / Real Bout Garou Densetsu</name>
+	<setname>rbff1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rbff1. ROM archive: games/mame2003plus/rbff1.zip. -->
+</misterromdescription>

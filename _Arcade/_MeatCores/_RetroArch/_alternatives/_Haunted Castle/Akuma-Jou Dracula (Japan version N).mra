@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Akuma-Jou Dracula (Japan version N)</name>
+	<setname>hcastljo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hcastljo. ROM archive: games/mame2003plus/hcastljo.zip. -->
+</misterromdescription>

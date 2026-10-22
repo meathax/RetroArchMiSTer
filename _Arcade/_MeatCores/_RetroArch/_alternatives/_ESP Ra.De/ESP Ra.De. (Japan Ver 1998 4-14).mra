@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>ESP Ra.De. (Japan Ver 1998 4-14)</name>
+	<setname>espradeo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Atlus/Cave</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set espradeo. ROM archive: games/mame2003plus/espradeo.zip. -->
+</misterromdescription>

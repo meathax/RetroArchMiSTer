@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mogura Desse</name>
+	<setname>mogura</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mogura. ROM archive: games/mame2003plus/mogura.zip. -->
+</misterromdescription>

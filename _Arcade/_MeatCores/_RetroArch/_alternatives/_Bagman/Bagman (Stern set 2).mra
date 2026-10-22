@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bagman (Stern set 2)</name>
+	<setname>bagmans2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Valadon Automation (Stern license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bagmans2. ROM archive: games/mame2003plus/bagmans2.zip. -->
+</misterromdescription>

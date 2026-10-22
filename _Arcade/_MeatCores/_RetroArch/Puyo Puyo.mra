@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Puyo Puyo (Japan)</name>
+	<setname>puyopuyo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Sega / Compile</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set puyopuyo. ROM archive: games/mame2003plus/puyopuyo.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Genix Family</name>
+	<setname>genix</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>NIX</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set genix. ROM archive: games/mame2003plus/genix.zip. -->
+</misterromdescription>

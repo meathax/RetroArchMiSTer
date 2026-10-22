@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Monsters World (bootleg of Super Pang)</name>
+	<setname>mstworld</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>TCH</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mstworld. ROM archive: games/mame2003plus/mstworld.zip. -->
+</misterromdescription>

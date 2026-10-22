@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hit 'n Miss (version 2.0)</name>
+	<setname>hitnmis2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hitnmis2. ROM archive: games/mame2003plus/hitnmis2.zip. -->
+</misterromdescription>

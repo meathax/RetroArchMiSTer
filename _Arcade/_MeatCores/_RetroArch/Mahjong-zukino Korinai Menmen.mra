@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong-zukino Korinai Menmen (Japan 880425)</name>
+	<setname>korinai</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set korinai. ROM archive: games/mame2003plus/korinai.zip. -->
+</misterromdescription>

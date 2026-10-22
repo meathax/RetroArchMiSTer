@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers (set 2)</name>
+	<setname>rbff2a</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rbff2a. ROM archive: games/mame2003plus/rbff2a.zip. -->
+</misterromdescription>

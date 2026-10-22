@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Halley's Comet (Japan set 1)</name>
+	<setname>halleysc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set halleysc. ROM archive: games/mame2003plus/halleysc.zip. -->
+</misterromdescription>

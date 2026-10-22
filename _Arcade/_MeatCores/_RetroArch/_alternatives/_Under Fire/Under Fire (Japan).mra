@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Under Fire (Japan)</name>
+	<setname>undrfirj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set undrfirj. ROM archive: games/mame2003plus/undrfirj.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shuuz (version 7.1)</name>
+	<setname>shuuz2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shuuz2. ROM archive: games/mame2003plus/shuuz2.zip. -->
+</misterromdescription>

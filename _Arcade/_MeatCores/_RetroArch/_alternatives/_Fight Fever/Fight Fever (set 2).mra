@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Fight Fever (set 2)</name>
+	<setname>fightfva</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Viccom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fightfva. ROM archive: games/mame2003plus/fightfva.zip. -->
+</misterromdescription>

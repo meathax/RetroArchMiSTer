@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gun and Frontier (World)</name>
+	<setname>gunfront</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gunfront. ROM archive: games/mame2003plus/gunfront.zip. -->
+</misterromdescription>

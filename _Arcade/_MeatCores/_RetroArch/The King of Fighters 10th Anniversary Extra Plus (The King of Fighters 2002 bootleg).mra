@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters 10th Anniversary Extra Plus (The King of Fighters 2002 bootleg)</name>
+	<setname>kf10thep</setname>
+	<rbf>RetroArch</rbf>
+	<year>2005</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kf10thep. ROM archive: games/mame2003plus/kf10thep.zip. -->
+</misterromdescription>

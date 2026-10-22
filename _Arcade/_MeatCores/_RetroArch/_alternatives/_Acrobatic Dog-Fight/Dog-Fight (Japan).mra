@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dog-Fight (Japan)</name>
+	<setname>dogfgtj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dogfgtj. ROM archive: games/mame2003plus/dogfgtj.zip. -->
+</misterromdescription>

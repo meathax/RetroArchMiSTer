@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dirt Fox (Japan)</name>
+	<setname>dirtfoxj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dirtfoxj. ROM archive: games/mame2003plus/dirtfoxj.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Scrambled Egg</name>
+	<setname>scregg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set scregg. ROM archive: games/mame2003plus/scregg.zip. -->
+</misterromdescription>

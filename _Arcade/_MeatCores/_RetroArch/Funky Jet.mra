@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Funky Jet</name>
+	<setname>funkyjet</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>[Data East] (Mitchell license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set funkyjet. ROM archive: games/mame2003plus/funkyjet.zip. -->
+</misterromdescription>

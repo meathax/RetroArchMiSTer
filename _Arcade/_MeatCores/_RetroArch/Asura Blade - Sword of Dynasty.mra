@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Asura Blade - Sword of Dynasty</name>
+	<setname>asurabld</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Fuuki</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set asurabld. ROM archive: games/mame2003plus/asurabld.zip. -->
+</misterromdescription>

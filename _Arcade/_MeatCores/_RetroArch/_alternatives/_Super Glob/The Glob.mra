@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Glob</name>
+	<setname>theglob</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Epos Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set theglob. ROM archive: games/mame2003plus/theglob.zip. -->
+</misterromdescription>

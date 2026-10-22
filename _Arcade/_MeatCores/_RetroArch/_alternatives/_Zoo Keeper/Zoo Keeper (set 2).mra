@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zoo Keeper (set 2)</name>
+	<setname>zookeep2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set zookeep2. ROM archive: games/mame2003plus/zookeep2.zip. -->
+</misterromdescription>

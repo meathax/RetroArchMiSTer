@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rockman 2: The Power Fighters (Japan 960708)</name>
+	<setname>rockman2j</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rockman2j. ROM archive: games/mame2003plus/rockman2j.zip. -->
+</misterromdescription>

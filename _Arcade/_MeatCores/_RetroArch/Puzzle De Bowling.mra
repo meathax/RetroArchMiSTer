@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Puzzle De Bowling (Japan)</name>
+	<setname>pzlbowl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Nihon System / Moss</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pzlbowl. ROM archive: games/mame2003plus/pzlbowl.zip. -->
+</misterromdescription>

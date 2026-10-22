@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vampire Savior: The Lord of Vampire (Japan 970519)</name>
+	<setname>vsavj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vsavj. ROM archive: games/mame2003plus/vsavj.zip. -->
+</misterromdescription>

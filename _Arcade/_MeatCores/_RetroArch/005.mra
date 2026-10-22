@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>005</name>
+	<setname>005</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 005. ROM archive: games/mame2003plus/005.zip. -->
+</misterromdescription>

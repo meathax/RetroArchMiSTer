@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Espial (US[Q])</name>
+	<setname>espial</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>[Orca] Thunderbolt</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set espial. ROM archive: games/mame2003plus/espial.zip. -->
+</misterromdescription>

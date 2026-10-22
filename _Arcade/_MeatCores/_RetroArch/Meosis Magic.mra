@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Meosis Magic (Japan)</name>
+	<setname>meosism</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Sammy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set meosism. ROM archive: games/mame2003plus/meosism.zip. -->
+</misterromdescription>

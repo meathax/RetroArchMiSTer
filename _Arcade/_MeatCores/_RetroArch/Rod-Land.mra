@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rod-Land (World)</name>
+	<setname>rodland</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rodland. ROM archive: games/mame2003plus/rodland.zip. -->
+</misterromdescription>

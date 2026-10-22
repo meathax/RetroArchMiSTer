@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Moon Alien</name>
+	<setname>moonaln</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>[Nichibutsu] (Karateco license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set moonaln. ROM archive: games/mame2003plus/moonaln.zip. -->
+</misterromdescription>

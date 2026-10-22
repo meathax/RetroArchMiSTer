@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lethal Justice</name>
+	<setname>lethalj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>The Game Room</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set lethalj. ROM archive: games/mame2003plus/lethalj.zip. -->
+</misterromdescription>

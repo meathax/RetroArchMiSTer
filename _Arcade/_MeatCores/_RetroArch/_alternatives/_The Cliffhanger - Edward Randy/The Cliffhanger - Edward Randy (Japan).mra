@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Cliffhanger - Edward Randy (Japan)</name>
+	<setname>edrandyj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set edrandyj. ROM archive: games/mame2003plus/edrandyj.zip. -->
+</misterromdescription>

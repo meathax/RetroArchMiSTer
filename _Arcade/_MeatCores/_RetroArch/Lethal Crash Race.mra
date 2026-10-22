@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lethal Crash Race (set 1)</name>
+	<setname>crshrace</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Video System Co.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crshrace. ROM archive: games/mame2003plus/crshrace.zip. -->
+</misterromdescription>

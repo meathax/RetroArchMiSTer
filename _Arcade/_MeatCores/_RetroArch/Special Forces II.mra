@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Special Forces II</name>
+	<setname>spcfrcii</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Senko Industries (Magic Eletronics Inc. licence)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spcfrcii. ROM archive: games/mame2003plus/spcfrcii.zip. -->
+</misterromdescription>

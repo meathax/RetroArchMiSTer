@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Jack the Giantkiller (set 3)</name>
+	<setname>jack3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set jack3. ROM archive: games/mame2003plus/jack3.zip. -->
+</misterromdescription>

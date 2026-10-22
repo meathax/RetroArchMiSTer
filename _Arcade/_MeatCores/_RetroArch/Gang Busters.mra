@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gang Busters</name>
+	<setname>gbusters</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gbusters. ROM archive: games/mame2003plus/gbusters.zip. -->
+</misterromdescription>

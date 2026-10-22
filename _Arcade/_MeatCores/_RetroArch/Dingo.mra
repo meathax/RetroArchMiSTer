@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dingo</name>
+	<setname>dingo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Ashby Computers and Graphics LTD. (Jaleco license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dingo. ROM archive: games/mame2003plus/dingo.zip. -->
+</misterromdescription>

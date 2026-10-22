@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters 10th Anniversary 2005 Unique (The King of Fighters 2002 bootleg)</name>
+	<setname>kf2k5uni</setname>
+	<rbf>RetroArch</rbf>
+	<year>2004</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kf2k5uni. ROM archive: games/mame2003plus/kf2k5uni.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>D. D. Crew (US, 4 Player, 317-0186)</name>
+	<setname>ddcrew</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddcrew. ROM archive: games/mame2003plus/ddcrew.zip. -->
+</misterromdescription>

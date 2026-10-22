@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Multi Champ (Korea)</name>
+	<setname>multchmpk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>ESD</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set multchmpk. ROM archive: games/mame2003plus/multchmpk.zip. -->
+</misterromdescription>

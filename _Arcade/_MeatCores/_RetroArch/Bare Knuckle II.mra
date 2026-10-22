@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bare Knuckle II (Chinese bootleg of Megadrive version)</name>
+	<setname>barek2ch</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>bootleg / Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set barek2ch. ROM archive: games/mame2003plus/barek2ch.zip. -->
+</misterromdescription>

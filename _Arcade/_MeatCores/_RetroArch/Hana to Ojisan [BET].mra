@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hana to Ojisan [BET] (Japan 911209)</name>
+	<setname>hanaoji</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hanaoji. ROM archive: games/mame2003plus/hanaoji.zip. -->
+</misterromdescription>

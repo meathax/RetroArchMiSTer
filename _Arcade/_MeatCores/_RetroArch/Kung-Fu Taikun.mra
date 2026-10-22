@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kung-Fu Taikun</name>
+	<setname>kungfut</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Seibu Kaihatsu Inc.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kungfut. ROM archive: games/mame2003plus/kungfut.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Burning Rival (Japan)</name>
+	<setname>brival</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set brival. ROM archive: games/mame2003plus/brival.zip. -->
+</misterromdescription>

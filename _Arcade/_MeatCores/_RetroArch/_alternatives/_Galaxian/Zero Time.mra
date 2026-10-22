@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zero Time</name>
+	<setname>zerotime</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Petaco S.A.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set zerotime. ROM archive: games/mame2003plus/zerotime.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Twin Hawk (US)</name>
+	<setname>twinhwku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set twinhwku. ROM archive: games/mame2003plus/twinhwku.zip. -->
+</misterromdescription>

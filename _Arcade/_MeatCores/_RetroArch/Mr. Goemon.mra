@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mr. Goemon (Japan)</name>
+	<setname>mrgoemon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mrgoemon. ROM archive: games/mame2003plus/mrgoemon.zip. -->
+</misterromdescription>

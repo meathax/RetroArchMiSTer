@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tiger Road (US)</name>
+	<setname>tigeroad</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Capcom (Romstar license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tigeroad. ROM archive: games/mame2003plus/tigeroad.zip. -->
+</misterromdescription>

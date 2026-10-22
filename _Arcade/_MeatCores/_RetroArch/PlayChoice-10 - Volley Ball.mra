@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>PlayChoice-10 - Volley Ball</name>
+	<setname>pc_vball</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pc_vball. ROM archive: games/mame2003plus/pc_vball.zip. -->
+</misterromdescription>

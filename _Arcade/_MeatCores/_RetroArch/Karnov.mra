@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Karnov (US)</name>
+	<setname>karnov</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Data East USA</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set karnov. ROM archive: games/mame2003plus/karnov.zip. -->
+</misterromdescription>

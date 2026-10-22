@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Power Instinct Matrimelee</name>
+	<setname>matrim</setname>
+	<rbf>RetroArch</rbf>
+	<year>2003</year>
+	<manufacturer>Atlus / Noise Factory</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set matrim. ROM archive: games/mame2003plus/matrim.zip. -->
+</misterromdescription>

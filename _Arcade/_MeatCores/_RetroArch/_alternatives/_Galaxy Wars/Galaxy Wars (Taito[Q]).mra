@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Galaxy Wars (Taito[Q])</name>
+	<setname>galxwart</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Taito?</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set galxwart. ROM archive: games/mame2003plus/galxwart.zip. -->
+</misterromdescription>

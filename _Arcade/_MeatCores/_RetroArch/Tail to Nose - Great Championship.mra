@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tail to Nose - Great Championship</name>
+	<setname>tail2nos</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>V-System Co.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tail2nos. ROM archive: games/mame2003plus/tail2nos.zip. -->
+</misterromdescription>

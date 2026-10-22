@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pairs (V1.2, 09-30-94)</name>
+	<setname>pairs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pairs. ROM archive: games/mame2003plus/pairs.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cassette: Boulder Dash</name>
+	<setname>cbdash</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>DECO</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cbdash. ROM archive: games/mame2003plus/cbdash.zip. -->
+</misterromdescription>

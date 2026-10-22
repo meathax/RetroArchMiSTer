@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chuka Taisen (World)</name>
+	<setname>chukatai</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chukatai. ROM archive: games/mame2003plus/chukatai.zip. -->
+</misterromdescription>

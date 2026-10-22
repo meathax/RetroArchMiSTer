@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cannon Ball</name>
+	<setname>cannball</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Yun Sung / Soft Vision</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cannball. ROM archive: games/mame2003plus/cannball.zip. -->
+</misterromdescription>

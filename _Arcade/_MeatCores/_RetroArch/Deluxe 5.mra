@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Deluxe 5 (ver. 0107, 07-01-2000)</name>
+	<setname>deluxe5</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>ESD</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set deluxe5. ROM archive: games/mame2003plus/deluxe5.zip. -->
+</misterromdescription>

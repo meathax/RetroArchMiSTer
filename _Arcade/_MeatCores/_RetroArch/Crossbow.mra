@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crossbow (version 2.0)</name>
+	<setname>crossbow</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crossbow. ROM archive: games/mame2003plus/crossbow.zip. -->
+</misterromdescription>

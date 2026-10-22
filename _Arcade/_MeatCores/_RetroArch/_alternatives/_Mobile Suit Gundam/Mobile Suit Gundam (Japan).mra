@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mobile Suit Gundam (Japan)</name>
+	<setname>msgunda1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Banpresto</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set msgunda1. ROM archive: games/mame2003plus/msgunda1.zip. -->
+</misterromdescription>

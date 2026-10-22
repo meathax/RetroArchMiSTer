@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gladiator (US)</name>
+	<setname>gladiatr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gladiatr. ROM archive: games/mame2003plus/gladiatr.zip. -->
+</misterromdescription>

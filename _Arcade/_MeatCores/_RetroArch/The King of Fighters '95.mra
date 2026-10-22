@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters '95 (set 1)</name>
+	<setname>kof95</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kof95. ROM archive: games/mame2003plus/kof95.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cloak and Dagger (French)</name>
+	<setname>cloakfr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cloakfr. ROM archive: games/mame2003plus/cloakfr.zip. -->
+</misterromdescription>

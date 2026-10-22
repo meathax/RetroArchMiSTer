@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dragon Unit - Castle of Dragon</name>
+	<setname>drgnunit</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Seta</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drgnunit. ROM archive: games/mame2003plus/drgnunit.zip. -->
+</misterromdescription>

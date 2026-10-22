@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>1944: The Loop Master (Euro 000620)</name>
+	<setname>1944</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 1944. ROM archive: games/mame2003plus/1944.zip. -->
+</misterromdescription>

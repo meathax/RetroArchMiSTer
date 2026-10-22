@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Puzzle &amp; Action: Tant-R (Korea)</name>
+	<setname>tantrkor</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tantrkor. ROM archive: games/mame2003plus/tantrkor.zip. -->
+</misterromdescription>

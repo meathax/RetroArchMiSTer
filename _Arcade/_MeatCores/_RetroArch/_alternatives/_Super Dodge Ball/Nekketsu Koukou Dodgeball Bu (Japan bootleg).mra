@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nekketsu Koukou Dodgeball Bu (Japan bootleg)</name>
+	<setname>nkdodgeb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nkdodgeb. ROM archive: games/mame2003plus/nkdodgeb.zip. -->
+</misterromdescription>

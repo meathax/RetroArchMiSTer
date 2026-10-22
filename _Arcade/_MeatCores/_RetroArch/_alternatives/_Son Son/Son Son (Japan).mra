@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Son Son (Japan)</name>
+	<setname>sonsonj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sonsonj. ROM archive: games/mame2003plus/sonsonj.zip. -->
+</misterromdescription>

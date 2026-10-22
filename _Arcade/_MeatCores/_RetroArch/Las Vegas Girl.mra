@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Las Vegas Girl (Girl '94)</name>
+	<setname>lvgirl94</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Comad</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set lvgirl94. ROM archive: games/mame2003plus/lvgirl94.zip. -->
+</misterromdescription>

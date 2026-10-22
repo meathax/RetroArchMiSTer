@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter II! - Champion Edition (V004)</name>
+	<setname>sf2v004</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf2v004. ROM archive: games/mame2003plus/sf2v004.zip. -->
+</misterromdescription>

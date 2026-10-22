@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Arabian Magic (Japan)</name>
+	<setname>arabiamj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arabiamj. ROM archive: games/mame2003plus/arabiamj.zip. -->
+</misterromdescription>

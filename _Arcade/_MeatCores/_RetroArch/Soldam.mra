@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Soldam (Japan)</name>
+	<setname>soldamj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set soldamj. ROM archive: games/mame2003plus/soldamj.zip. -->
+</misterromdescription>

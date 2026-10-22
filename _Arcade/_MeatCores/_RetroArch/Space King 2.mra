@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space King 2</name>
+	<setname>spcking2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spcking2. ROM archive: games/mame2003plus/spcking2.zip. -->
+</misterromdescription>

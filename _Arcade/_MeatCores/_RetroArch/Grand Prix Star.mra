@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Grand Prix Star</name>
+	<setname>f1gpstar</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set f1gpstar. ROM archive: games/mame2003plus/f1gpstar.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Road Runner (rev 2)</name>
+	<setname>roadrunn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set roadrunn. ROM archive: games/mame2003plus/roadrunn.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sky Smasher</name>
+	<setname>skysmash</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Nihon System</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set skysmash. ROM archive: games/mame2003plus/skysmash.zip. -->
+</misterromdescription>

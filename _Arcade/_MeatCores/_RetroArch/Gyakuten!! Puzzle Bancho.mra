@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gyakuten!! Puzzle Bancho (Japan)</name>
+	<setname>pbancho</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Fuuki</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pbancho. ROM archive: games/mame2003plus/pbancho.zip. -->
+</misterromdescription>

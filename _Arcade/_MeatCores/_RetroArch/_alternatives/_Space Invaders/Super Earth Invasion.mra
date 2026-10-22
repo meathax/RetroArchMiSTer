@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Earth Invasion</name>
+	<setname>earthinv</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set earthinv. ROM archive: games/mame2003plus/earthinv.zip. -->
+</misterromdescription>

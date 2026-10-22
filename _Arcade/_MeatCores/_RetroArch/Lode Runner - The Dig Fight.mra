@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lode Runner - The Dig Fight (ver. B)</name>
+	<setname>loderndf</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set loderndf. ROM archive: games/mame2003plus/loderndf.zip. -->
+</misterromdescription>

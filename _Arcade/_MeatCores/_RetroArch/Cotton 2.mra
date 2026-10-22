@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cotton 2</name>
+	<setname>cotton2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Success</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cotton2. ROM archive: games/mame2003plus/cotton2.zip. -->
+</misterromdescription>

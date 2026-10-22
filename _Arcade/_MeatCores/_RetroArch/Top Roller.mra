@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Top Roller</name>
+	<setname>toprollr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set toprollr. ROM archive: games/mame2003plus/toprollr.zip. -->
+</misterromdescription>

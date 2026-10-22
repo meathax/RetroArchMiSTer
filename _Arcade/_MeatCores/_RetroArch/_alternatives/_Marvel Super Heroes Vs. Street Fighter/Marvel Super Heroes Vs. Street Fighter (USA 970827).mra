@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marvel Super Heroes Vs. Street Fighter (USA 970827)</name>
+	<setname>mshvsfu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mshvsfu. ROM archive: games/mame2003plus/mshvsfu.zip. -->
+</misterromdescription>

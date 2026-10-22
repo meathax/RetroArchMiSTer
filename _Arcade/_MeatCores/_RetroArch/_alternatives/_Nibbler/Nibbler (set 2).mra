@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nibbler (set 2)</name>
+	<setname>nibblera</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Rock-ola</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nibblera. ROM archive: games/mame2003plus/nibblera.zip. -->
+</misterromdescription>

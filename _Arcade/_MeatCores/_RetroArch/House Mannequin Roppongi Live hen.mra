@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>House Mannequin Roppongi Live hen (Japan 870418)</name>
+	<setname>housemn2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set housemn2. ROM archive: games/mame2003plus/housemn2.zip. -->
+</misterromdescription>

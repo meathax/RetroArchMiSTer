@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>U.S. Classic</name>
+	<setname>usclssic</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Seta</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set usclssic. ROM archive: games/mame2003plus/usclssic.zip. -->
+</misterromdescription>

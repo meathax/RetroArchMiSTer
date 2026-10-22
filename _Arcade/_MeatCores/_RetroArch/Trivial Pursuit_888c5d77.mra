@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Trivial Pursuit (Genus I)</name>
+	<setname>triviag1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Bally/Sente</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set triviag1. ROM archive: games/mame2003plus/triviag1.zip. -->
+</misterromdescription>

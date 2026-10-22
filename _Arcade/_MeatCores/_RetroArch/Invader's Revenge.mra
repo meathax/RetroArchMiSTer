@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Invader's Revenge</name>
+	<setname>invrvnge</setname>
+	<rbf>RetroArch</rbf>
+	<year>19??</year>
+	<manufacturer>Zenitone Microsec Ltd.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set invrvnge. ROM archive: games/mame2003plus/invrvnge.zip. -->
+</misterromdescription>

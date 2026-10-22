@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Fortress</name>
+	<setname>spacefrt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Century Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spacefrt. ROM archive: games/mame2003plus/spacefrt.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Caliber 50</name>
+	<setname>calibr50</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Athena / Seta</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set calibr50. ROM archive: games/mame2003plus/calibr50.zip. -->
+</misterromdescription>

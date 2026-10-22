@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Race Drivin' (compact, German, rev 5)</name>
+	<setname>racedrcg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set racedrcg. ROM archive: games/mame2003plus/racedrcg.zip. -->
+</misterromdescription>

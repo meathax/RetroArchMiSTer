@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Radar Scope (TRS02, rev. D)</name>
+	<setname>radarscp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set radarscp. ROM archive: games/mame2003plus/radarscp.zip. -->
+</misterromdescription>

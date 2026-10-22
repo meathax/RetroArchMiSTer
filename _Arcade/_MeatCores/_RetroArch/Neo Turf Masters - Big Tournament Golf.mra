@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Neo Turf Masters / Big Tournament Golf</name>
+	<setname>turfmast</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Nazca</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set turfmast. ROM archive: games/mame2003plus/turfmast.zip. -->
+</misterromdescription>

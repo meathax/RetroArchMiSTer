@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Alpha Mission II / ASO II - Last Guardian</name>
+	<setname>alpham2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set alpham2. ROM archive: games/mame2003plus/alpham2.zip. -->
+</misterromdescription>

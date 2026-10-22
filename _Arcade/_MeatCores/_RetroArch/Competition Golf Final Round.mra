@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Competition Golf Final Round (revision 3)</name>
+	<setname>compgolf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Data East</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set compgolf. ROM archive: games/mame2003plus/compgolf.zip. -->
+</misterromdescription>

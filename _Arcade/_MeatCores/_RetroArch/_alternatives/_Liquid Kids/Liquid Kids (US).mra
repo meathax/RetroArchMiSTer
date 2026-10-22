@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Liquid Kids (US)</name>
+	<setname>liquidku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set liquidku. ROM archive: games/mame2003plus/liquidku.zip. -->
+</misterromdescription>

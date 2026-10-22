@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Strategy X (Stern)</name>
+	<setname>stratgys</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>[Konami] (Stern license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set stratgys. ROM archive: games/mame2003plus/stratgys.zip. -->
+</misterromdescription>

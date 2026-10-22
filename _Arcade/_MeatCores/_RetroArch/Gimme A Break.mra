@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gimme A Break</name>
+	<setname>gimeabrk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Bally/Sente</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gimeabrk. ROM archive: games/mame2003plus/gimeabrk.zip. -->
+</misterromdescription>

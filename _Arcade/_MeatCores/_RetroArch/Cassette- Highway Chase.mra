@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cassette: Highway Chase</name>
+	<setname>chwy</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>DECO</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chwy. ROM archive: games/mame2003plus/chwy.zip. -->
+</misterromdescription>

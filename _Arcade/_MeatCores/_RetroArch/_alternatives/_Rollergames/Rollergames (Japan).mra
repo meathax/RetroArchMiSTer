@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rollergames (Japan)</name>
+	<setname>rollergj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rollergj. ROM archive: games/mame2003plus/rollergj.zip. -->
+</misterromdescription>

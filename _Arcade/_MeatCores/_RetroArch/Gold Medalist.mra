@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gold Medalist</name>
+	<setname>goldmedl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set goldmedl. ROM archive: games/mame2003plus/goldmedl.zip. -->
+</misterromdescription>

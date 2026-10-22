@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Intrepid (set 1)</name>
+	<setname>intrepid</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Nova Games Ltd.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set intrepid. ROM archive: games/mame2003plus/intrepid.zip. -->
+</misterromdescription>

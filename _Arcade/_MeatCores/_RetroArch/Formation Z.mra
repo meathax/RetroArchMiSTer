@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Formation Z</name>
+	<setname>formatz</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set formatz. ROM archive: games/mame2003plus/formatz.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Gal no Kaika (Japan)</name>
+	<setname>galkaika</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Nichibutsu/T.R.TEC</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set galkaika. ROM archive: games/mame2003plus/galkaika.zip. -->
+</misterromdescription>

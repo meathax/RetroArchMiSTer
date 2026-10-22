@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>F-1 Dream</name>
+	<setname>f1dream</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Capcom (Romstar license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set f1dream. ROM archive: games/mame2003plus/f1dream.zip. -->
+</misterromdescription>

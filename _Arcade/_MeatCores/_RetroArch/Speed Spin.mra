@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Speed Spin</name>
+	<setname>speedspn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>TCH</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set speedspn. ROM archive: games/mame2003plus/speedspn.zip. -->
+</misterromdescription>

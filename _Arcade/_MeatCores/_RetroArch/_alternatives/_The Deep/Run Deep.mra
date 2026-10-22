@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Run Deep</name>
+	<setname>rundeep</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Cream</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rundeep. ROM archive: games/mame2003plus/rundeep.zip. -->
+</misterromdescription>

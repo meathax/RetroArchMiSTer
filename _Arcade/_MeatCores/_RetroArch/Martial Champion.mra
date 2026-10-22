@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Martial Champion (Europe ver EAA)</name>
+	<setname>mtlchamp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mtlchamp. ROM archive: games/mame2003plus/mtlchamp.zip. -->
+</misterromdescription>

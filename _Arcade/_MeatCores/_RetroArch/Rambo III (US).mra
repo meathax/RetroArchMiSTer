@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rambo III (US)</name>
+	<setname>rambo3a</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rambo3a. ROM archive: games/mame2003plus/rambo3a.zip. -->
+</misterromdescription>

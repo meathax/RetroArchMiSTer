@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Burnin' Rubber</name>
+	<setname>brubber</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Data East</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set brubber. ROM archive: games/mame2003plus/brubber.zip. -->
+</misterromdescription>

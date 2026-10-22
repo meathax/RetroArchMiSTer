@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Arabian</name>
+	<setname>arabian</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Sun Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arabian. ROM archive: games/mame2003plus/arabian.zip. -->
+</misterromdescription>

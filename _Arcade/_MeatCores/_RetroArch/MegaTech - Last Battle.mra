@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MegaTech - Last Battle.</name>
+	<setname>mt_lastb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mt_lastb. ROM archive: games/mame2003plus/mt_lastb.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Metal Slug X - Super Vehicle-001</name>
+	<setname>mslugx</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mslugx. ROM archive: games/mame2003plus/mslugx.zip. -->
+</misterromdescription>

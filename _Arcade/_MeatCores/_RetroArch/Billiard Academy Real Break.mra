@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Billiard Academy Real Break (Japan)</name>
+	<setname>realbrk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Nakanihon</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set realbrk. ROM archive: games/mame2003plus/realbrk.zip. -->
+</misterromdescription>

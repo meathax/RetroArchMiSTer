@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Triple Wars (Japan)</name>
+	<setname>triplew1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set triplew1. ROM archive: games/mame2003plus/triplew1.zip. -->
+</misterromdescription>

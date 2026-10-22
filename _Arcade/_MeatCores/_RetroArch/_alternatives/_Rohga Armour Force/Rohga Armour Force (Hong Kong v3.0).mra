@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rohga Armour Force (Hong Kong v3.0)</name>
+	<setname>rohgah</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rohgah. ROM archive: games/mame2003plus/rohgah.zip. -->
+</misterromdescription>

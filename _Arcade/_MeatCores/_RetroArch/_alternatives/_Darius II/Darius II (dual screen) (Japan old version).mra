@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Darius II (dual screen) (Japan old version)</name>
+	<setname>drius2do</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drius2do. ROM archive: games/mame2003plus/drius2do.zip. -->
+</misterromdescription>

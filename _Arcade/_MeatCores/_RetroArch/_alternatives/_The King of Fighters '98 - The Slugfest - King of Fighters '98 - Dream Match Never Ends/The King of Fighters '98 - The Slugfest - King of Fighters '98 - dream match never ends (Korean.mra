@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board)</name>
+	<setname>kof98k</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kof98k. ROM archive: games/mame2003plus/kof98k.zip. -->
+</misterromdescription>

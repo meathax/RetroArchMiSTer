@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dr. Micro</name>
+	<setname>drmicro</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Sanritsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drmicro. ROM archive: games/mame2003plus/drmicro.zip. -->
+</misterromdescription>

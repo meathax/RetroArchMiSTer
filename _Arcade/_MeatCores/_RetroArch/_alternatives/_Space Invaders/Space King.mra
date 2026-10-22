@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space King</name>
+	<setname>spceking</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>Leijac (Konami)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spceking. ROM archive: games/mame2003plus/spceking.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>19XX: The War Against Destiny (USA 951207)</name>
+	<setname>19xxu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 19xxu. ROM archive: games/mame2003plus/19xxu.zip. -->
+</misterromdescription>

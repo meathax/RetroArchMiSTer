@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tournament Arkanoid (US)</name>
+	<setname>arkatour</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arkatour. ROM archive: games/mame2003plus/arkatour.zip. -->
+</misterromdescription>

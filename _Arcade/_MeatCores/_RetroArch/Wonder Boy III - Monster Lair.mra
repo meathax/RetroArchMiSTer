@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Wonder Boy III - Monster Lair (set 1)</name>
+	<setname>wb3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Sega / Westone</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wb3. ROM archive: games/mame2003plus/wb3.zip. -->
+</misterromdescription>

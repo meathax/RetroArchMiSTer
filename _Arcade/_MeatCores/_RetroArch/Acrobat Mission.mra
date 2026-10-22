@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Acrobat Mission</name>
+	<setname>acrobatm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>UPL (Taito license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set acrobatm. ROM archive: games/mame2003plus/acrobatm.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sky Lancer</name>
+	<setname>skylancr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Orca (Esco Trading Co license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set skylancr. ROM archive: games/mame2003plus/skylancr.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Jikken Love Story (Japan)</name>
+	<setname>mjlstory</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mjlstory. ROM archive: games/mame2003plus/mjlstory.zip. -->
+</misterromdescription>

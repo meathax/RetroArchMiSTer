@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters 2004 Ultra Plus (The King of Fighters 2003 bootleg)</name>
+	<setname>kf2k3upl</setname>
+	<rbf>RetroArch</rbf>
+	<year>2003</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kf2k3upl. ROM archive: games/mame2003plus/kf2k3upl.zip. -->
+</misterromdescription>

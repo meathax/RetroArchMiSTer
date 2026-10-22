@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gomoku Narabe Renju</name>
+	<setname>gomoku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gomoku. ROM archive: games/mame2003plus/gomoku.zip. -->
+</misterromdescription>

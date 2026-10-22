@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Rampage (revision 2)</name>
+	<setname>rampage2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rampage2. ROM archive: games/mame2003plus/rampage2.zip. -->
+</misterromdescription>

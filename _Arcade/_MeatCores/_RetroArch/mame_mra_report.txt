@@ -1,0 +1,20 @@
+MRAs: 2658 root ZIPs, 2093 clone ZIPs (4751 total)
+Alternatives folder: _alternatives
+DAT entries marked non-runnable: 16
+Present ZIP sets with DAT-listed CHD media: 0
+  acpsx
+  cpzn1
+  cpzn2
+  cvs
+  decocass
+  konamigx
+  megaplay
+  megatech
+  neogeo
+  nss
+  pgm
+  playch10
+  skns
+  stvbios
+  taitofx1
+  tps

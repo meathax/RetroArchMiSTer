@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Midnight Resistance (World)</name>
+	<setname>midres</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set midres. ROM archive: games/mame2003plus/midres.zip. -->
+</misterromdescription>

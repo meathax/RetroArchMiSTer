@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bijokko Gakuen (Japan 880116)</name>
+	<setname>bijokkog</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bijokkog. ROM archive: games/mame2003plus/bijokkog.zip. -->
+</misterromdescription>

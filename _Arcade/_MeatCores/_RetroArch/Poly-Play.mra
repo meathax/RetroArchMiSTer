@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Poly-Play</name>
+	<setname>polyplay</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>VEB Polytechnik Karl-Marx-Stadt</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set polyplay. ROM archive: games/mame2003plus/polyplay.zip. -->
+</misterromdescription>

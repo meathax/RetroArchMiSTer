@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aero Fighters (Turbo Force hardware set 2)</name>
+	<setname>aerofgtc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Video System Co.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aerofgtc. ROM archive: games/mame2003plus/aerofgtc.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Violent Storm (US ver UAB)</name>
+	<setname>viostrmu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set viostrmu. ROM archive: games/mame2003plus/viostrmu.zip. -->
+</misterromdescription>

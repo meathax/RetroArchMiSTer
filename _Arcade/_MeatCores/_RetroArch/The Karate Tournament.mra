@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Karate Tournament</name>
+	<setname>karatour</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Mitchell</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set karatour. ROM archive: games/mame2003plus/karatour.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Apparel Night (Japan 860929)</name>
+	<setname>apparel</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Central Denshi</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set apparel. ROM archive: games/mame2003plus/apparel.zip. -->
+</misterromdescription>

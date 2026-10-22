@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Steel Talons (rev 2)</name>
+	<setname>steeltal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set steeltal. ROM archive: games/mame2003plus/steeltal.zip. -->
+</misterromdescription>

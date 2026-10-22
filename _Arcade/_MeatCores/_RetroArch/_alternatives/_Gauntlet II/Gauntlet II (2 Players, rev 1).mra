@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gauntlet II (2 Players, rev 1)</name>
+	<setname>gaun22p1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gaun22p1. ROM archive: games/mame2003plus/gaun22p1.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kuri Kinton (World)</name>
+	<setname>kurikint</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kurikint. ROM archive: games/mame2003plus/kurikint.zip. -->
+</misterromdescription>

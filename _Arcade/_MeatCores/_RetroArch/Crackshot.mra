@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crackshot (version 2.0)</name>
+	<setname>cracksht</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cracksht. ROM archive: games/mame2003plus/cracksht.zip. -->
+</misterromdescription>

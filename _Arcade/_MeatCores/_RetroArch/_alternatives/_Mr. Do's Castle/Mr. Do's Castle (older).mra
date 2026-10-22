@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mr. Do's Castle (older)</name>
+	<setname>docastlo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Universal</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set docastlo. ROM archive: games/mame2003plus/docastlo.zip. -->
+</misterromdescription>

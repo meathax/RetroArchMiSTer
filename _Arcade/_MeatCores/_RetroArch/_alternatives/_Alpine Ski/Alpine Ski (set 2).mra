@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Alpine Ski (set 2)</name>
+	<setname>alpinea</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set alpinea. ROM archive: games/mame2003plus/alpinea.zip. -->
+</misterromdescription>

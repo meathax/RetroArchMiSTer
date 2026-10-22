@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Armor Attack (prototype)</name>
+	<setname>armorap</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set armorap. ROM archive: games/mame2003plus/armorap.zip. -->
+</misterromdescription>

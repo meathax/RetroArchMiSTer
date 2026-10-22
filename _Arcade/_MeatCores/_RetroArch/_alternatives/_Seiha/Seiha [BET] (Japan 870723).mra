@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Seiha [BET] (Japan 870723)</name>
+	<setname>seiham</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set seiham. ROM archive: games/mame2003plus/seiham.zip. -->
+</misterromdescription>

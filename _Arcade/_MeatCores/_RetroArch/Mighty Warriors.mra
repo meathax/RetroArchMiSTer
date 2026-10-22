@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mighty Warriors</name>
+	<setname>mwarr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Elettronica Video-Games S.R.L</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mwarr. ROM archive: games/mame2003plus/mwarr.zip. -->
+</misterromdescription>

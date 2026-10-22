@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mega Man: The Power Battle (CPS2, USA 951006, SAMPLE Version)</name>
+	<setname>mmancp2u</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mmancp2u. ROM archive: games/mame2003plus/mmancp2u.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Donkey Kong Jr. (Moon Cresta hardware)</name>
+	<setname>dkongjrm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dkongjrm. ROM archive: games/mame2003plus/dkongjrm.zip. -->
+</misterromdescription>

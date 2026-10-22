@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ginga NinkyouDen</name>
+	<setname>ginganin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ginganin. ROM archive: games/mame2003plus/ginganin.zip. -->
+</misterromdescription>

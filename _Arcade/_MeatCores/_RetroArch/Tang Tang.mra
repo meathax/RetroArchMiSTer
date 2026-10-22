@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tang Tang (ver. 0526, 26-05-2000)</name>
+	<setname>tangtang</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>ESD</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tangtang. ROM archive: games/mame2003plus/tangtang.zip. -->
+</misterromdescription>

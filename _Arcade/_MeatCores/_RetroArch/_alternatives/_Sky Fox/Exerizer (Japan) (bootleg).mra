@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Exerizer (Japan) (bootleg)</name>
+	<setname>exerizrb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set exerizrb. ROM archive: games/mame2003plus/exerizrb.zip. -->
+</misterromdescription>

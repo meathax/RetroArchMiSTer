@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Defense (System 16B, FD1089A 317-0028)</name>
+	<setname>defense</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set defense. ROM archive: games/mame2003plus/defense.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Alien vs. Predator (Hispanic 940520)</name>
+	<setname>avsph</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set avsph. ROM archive: games/mame2003plus/avsph.zip. -->
+</misterromdescription>

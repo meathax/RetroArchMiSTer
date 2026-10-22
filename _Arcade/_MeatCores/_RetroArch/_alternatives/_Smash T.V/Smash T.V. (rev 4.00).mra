@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Smash T.V. (rev 4.00)</name>
+	<setname>smashtv4</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Williams</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set smashtv4. ROM archive: games/mame2003plus/smashtv4.zip. -->
+</misterromdescription>

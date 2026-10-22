@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cassette: Sweet Heart</name>
+	<setname>csweetht</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>DECO</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set csweetht. ROM archive: games/mame2003plus/csweetht.zip. -->
+</misterromdescription>

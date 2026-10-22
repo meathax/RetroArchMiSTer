@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter II' - Hyper Fighting (US 921209)</name>
+	<setname>sf2t</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf2t. ROM archive: games/mame2003plus/sf2t.zip. -->
+</misterromdescription>

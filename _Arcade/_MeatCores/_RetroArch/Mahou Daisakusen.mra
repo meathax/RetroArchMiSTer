@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahou Daisakusen (Japan)</name>
+	<setname>mahoudai</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Raizing (Able license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mahoudai. ROM archive: games/mame2003plus/mahoudai.zip. -->
+</misterromdescription>

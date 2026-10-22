@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Stompin'</name>
+	<setname>stompin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Bally/Sente</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set stompin. ROM archive: games/mame2003plus/stompin.zip. -->
+</misterromdescription>

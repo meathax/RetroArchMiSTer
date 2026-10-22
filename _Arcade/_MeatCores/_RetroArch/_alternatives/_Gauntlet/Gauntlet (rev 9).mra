@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gauntlet (rev 9)</name>
+	<setname>gauntr9</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gauntr9. ROM archive: games/mame2003plus/gauntr9.zip. -->
+</misterromdescription>

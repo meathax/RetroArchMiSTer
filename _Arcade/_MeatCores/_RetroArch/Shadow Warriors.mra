@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shadow Warriors (World set 1)</name>
+	<setname>shadoww</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Tecmo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shadoww. ROM archive: games/mame2003plus/shadoww.zip. -->
+</misterromdescription>

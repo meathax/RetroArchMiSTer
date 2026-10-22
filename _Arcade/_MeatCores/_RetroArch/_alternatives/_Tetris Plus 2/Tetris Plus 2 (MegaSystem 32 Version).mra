@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris Plus 2 (MegaSystem 32 Version)</name>
+	<setname>tp2m32</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tp2m32. ROM archive: games/mame2003plus/tp2m32.zip. -->
+</misterromdescription>

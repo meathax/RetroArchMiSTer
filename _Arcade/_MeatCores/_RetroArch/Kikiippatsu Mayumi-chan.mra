@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kikiippatsu Mayumi-chan (Japan)</name>
+	<setname>mayumi</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>[Sanritsu] Victory L.L.C.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mayumi. ROM archive: games/mame2003plus/mayumi.zip. -->
+</misterromdescription>

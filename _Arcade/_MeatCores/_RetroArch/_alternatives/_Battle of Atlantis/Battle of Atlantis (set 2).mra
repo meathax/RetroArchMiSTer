@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Battle of Atlantis (set 2)</name>
+	<setname>atlants2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Comsoft</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set atlants2. ROM archive: games/mame2003plus/atlants2.zip. -->
+</misterromdescription>

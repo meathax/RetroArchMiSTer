@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ultra X Weapons - Ultra Keibitai</name>
+	<setname>ultrax</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Banpresto + Tsuburaya Prod.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ultrax. ROM archive: games/mame2003plus/ultrax.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Bomber (ver. B)</name>
+	<setname>sbomberb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sbomberb. ROM archive: games/mame2003plus/sbomberb.zip. -->
+</misterromdescription>

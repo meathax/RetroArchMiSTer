@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Asterix (World ver. EAC)</name>
+	<setname>astrxeac</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set astrxeac. ROM archive: games/mame2003plus/astrxeac.zip. -->
+</misterromdescription>

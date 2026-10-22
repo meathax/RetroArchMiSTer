@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Euro Champ '92 (World)</name>
+	<setname>euroch92</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set euroch92. ROM archive: games/mame2003plus/euroch92.zip. -->
+</misterromdescription>

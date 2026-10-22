@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Indiana Jones and the Temple of Doom (set 3)</name>
+	<setname>indytem3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set indytem3. ROM archive: games/mame2003plus/indytem3.zip. -->
+</misterromdescription>

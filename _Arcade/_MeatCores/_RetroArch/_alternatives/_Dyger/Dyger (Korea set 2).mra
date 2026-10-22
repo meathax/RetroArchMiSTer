@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dyger (Korea set 2)</name>
+	<setname>dygera</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Philko</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dygera. ROM archive: games/mame2003plus/dygera.zip. -->
+</misterromdescription>

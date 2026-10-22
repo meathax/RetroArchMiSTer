@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter II' - Champion Edition (M6)</name>
+	<setname>sf2m6</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf2m6. ROM archive: games/mame2003plus/sf2m6.zip. -->
+</misterromdescription>

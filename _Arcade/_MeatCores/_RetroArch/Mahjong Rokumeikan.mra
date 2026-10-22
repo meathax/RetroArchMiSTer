@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Rokumeikan (Japan)</name>
+	<setname>mrokumei</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Home Data</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mrokumei. ROM archive: games/mame2003plus/mrokumei.zip. -->
+</misterromdescription>

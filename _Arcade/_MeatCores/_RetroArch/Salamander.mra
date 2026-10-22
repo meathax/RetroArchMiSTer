@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Salamander (version D)</name>
+	<setname>salamand</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set salamand. ROM archive: games/mame2003plus/salamand.zip. -->
+</misterromdescription>

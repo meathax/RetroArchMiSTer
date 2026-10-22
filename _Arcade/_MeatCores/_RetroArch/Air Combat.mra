@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Air Combat (Japan)</name>
+	<setname>aircombj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aircombj. ROM archive: games/mame2003plus/aircombj.zip. -->
+</misterromdescription>

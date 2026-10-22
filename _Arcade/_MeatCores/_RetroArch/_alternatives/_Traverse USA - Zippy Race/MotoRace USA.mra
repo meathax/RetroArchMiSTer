@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MotoRace USA</name>
+	<setname>motorace</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Irem (Williams license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set motorace. ROM archive: games/mame2003plus/motorace.zip. -->
+</misterromdescription>

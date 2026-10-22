@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shanghai - The Great Wall - Shanghai Triple Threat</name>
+	<setname>shanhigw</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Sunsoft / Activision</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shanhigw. ROM archive: games/mame2003plus/shanhigw.zip. -->
+</misterromdescription>

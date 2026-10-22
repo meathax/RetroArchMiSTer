@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Telephone Mahjong (Japan 890111)</name>
+	<setname>telmahjn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set telmahjn. ROM archive: games/mame2003plus/telmahjn.zip. -->
+</misterromdescription>

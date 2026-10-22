@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Funny Bubble</name>
+	<setname>funybubl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Comad</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set funybubl. ROM archive: games/mame2003plus/funybubl.zip. -->
+</misterromdescription>

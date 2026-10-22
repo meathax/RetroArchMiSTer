@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gals Panic S2 (Japan)</name>
+	<setname>galpans2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set galpans2. ROM archive: games/mame2003plus/galpans2.zip. -->
+</misterromdescription>

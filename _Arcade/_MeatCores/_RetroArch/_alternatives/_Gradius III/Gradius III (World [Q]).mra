@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gradius III (World [Q])</name>
+	<setname>grdius3e</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set grdius3e. ROM archive: games/mame2003plus/grdius3e.zip. -->
+</misterromdescription>

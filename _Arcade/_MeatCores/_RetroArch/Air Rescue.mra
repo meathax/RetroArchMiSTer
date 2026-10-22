@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Air Rescue</name>
+	<setname>arescue</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arescue. ROM archive: games/mame2003plus/arescue.zip. -->
+</misterromdescription>

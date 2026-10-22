@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dark Seal 2 (Japan v2.1)</name>
+	<setname>darksel2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set darksel2. ROM archive: games/mame2003plus/darksel2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Warlords</name>
+	<setname>warlords</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set warlords. ROM archive: games/mame2003plus/warlords.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Night Slashers (US Rev 1.2)</name>
+	<setname>nslasheru</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nslasheru. ROM archive: games/mame2003plus/nslasheru.zip. -->
+</misterromdescription>

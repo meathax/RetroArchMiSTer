@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shisensho - Joshiryo-Hen (Japan)</name>
+	<setname>shisen</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Tamtex</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shisen. ROM archive: games/mame2003plus/shisen.zip. -->
+</misterromdescription>

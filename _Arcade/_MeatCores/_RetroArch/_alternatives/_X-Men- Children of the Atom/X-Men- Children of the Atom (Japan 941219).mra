@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>X-Men: Children of the Atom (Japan 941219)</name>
+	<setname>xmcotaj2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set xmcotaj2. ROM archive: games/mame2003plus/xmcotaj2.zip. -->
+</misterromdescription>

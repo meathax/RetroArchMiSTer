@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Position (Japan)</name>
+	<setname>spcpostn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Sega / Nasco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spcpostn. ROM archive: games/mame2003plus/spcpostn.zip. -->
+</misterromdescription>

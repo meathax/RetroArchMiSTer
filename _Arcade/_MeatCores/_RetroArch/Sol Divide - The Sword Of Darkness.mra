@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sol Divide - The Sword Of Darkness</name>
+	<setname>soldivid</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set soldivid. ROM archive: games/mame2003plus/soldivid.zip. -->
+</misterromdescription>

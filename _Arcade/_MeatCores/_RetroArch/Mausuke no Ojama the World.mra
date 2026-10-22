@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mausuke no Ojama the World</name>
+	<setname>mausuke</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Data East</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mausuke. ROM archive: games/mame2003plus/mausuke.zip. -->
+</misterromdescription>

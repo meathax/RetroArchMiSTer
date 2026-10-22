@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Hyouban Musume [BET] (Japan)</name>
+	<setname>hyouban</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Nichibutsu/T.R.TEC</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hyouban. ROM archive: games/mame2003plus/hyouban.zip. -->
+</misterromdescription>

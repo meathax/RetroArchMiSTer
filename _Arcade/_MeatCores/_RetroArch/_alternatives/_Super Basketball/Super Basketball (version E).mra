@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Basketball (version E)</name>
+	<setname>sbasketo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sbasketo. ROM archive: games/mame2003plus/sbasketo.zip. -->
+</misterromdescription>

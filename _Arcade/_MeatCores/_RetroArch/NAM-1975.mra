@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>NAM-1975</name>
+	<setname>nam1975</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nam1975. ROM archive: games/mame2003plus/nam1975.zip. -->
+</misterromdescription>

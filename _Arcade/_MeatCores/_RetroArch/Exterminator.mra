@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Exterminator</name>
+	<setname>exterm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Gottlieb / Premier Technology</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set exterm. ROM archive: games/mame2003plus/exterm.zip. -->
+</misterromdescription>

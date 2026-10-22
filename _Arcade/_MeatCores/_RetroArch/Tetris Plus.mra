@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris Plus</name>
+	<setname>tetrisp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Jaleco / BPS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tetrisp. ROM archive: games/mame2003plus/tetrisp.zip. -->
+</misterromdescription>

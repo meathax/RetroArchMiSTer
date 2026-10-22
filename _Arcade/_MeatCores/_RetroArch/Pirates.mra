@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pirates</name>
+	<setname>pirates</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>NIX</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pirates. ROM archive: games/mame2003plus/pirates.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crystal Castles (joystick version)</name>
+	<setname>ccastlej</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ccastlej. ROM archive: games/mame2003plus/ccastlej.zip. -->
+</misterromdescription>

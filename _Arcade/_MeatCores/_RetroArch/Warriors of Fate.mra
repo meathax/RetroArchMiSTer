@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Warriors of Fate (World 921002)</name>
+	<setname>wof</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wof. ROM archive: games/mame2003plus/wof.zip. -->
+</misterromdescription>

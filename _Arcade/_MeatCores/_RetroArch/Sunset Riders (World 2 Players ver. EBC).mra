@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sunset Riders (World 2 Players ver. EBC)</name>
+	<setname>ssrdrebc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssrdrebc. ROM archive: games/mame2003plus/ssrdrebc.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Desert Assault (US)</name>
+	<setname>dassault</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dassault. ROM archive: games/mame2003plus/dassault.zip. -->
+</misterromdescription>

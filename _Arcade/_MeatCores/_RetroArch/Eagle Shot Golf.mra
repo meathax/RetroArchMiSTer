@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Eagle Shot Golf</name>
+	<setname>eaglshot</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Sammy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set eaglshot. ROM archive: games/mame2003plus/eaglshot.zip. -->
+</misterromdescription>

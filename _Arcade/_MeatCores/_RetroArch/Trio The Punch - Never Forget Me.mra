@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Trio The Punch - Never Forget Me... (Japan)</name>
+	<setname>triothep</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set triothep. ROM archive: games/mame2003plus/triothep.zip. -->
+</misterromdescription>

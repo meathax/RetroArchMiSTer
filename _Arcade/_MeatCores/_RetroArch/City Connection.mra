@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>City Connection (set 1)</name>
+	<setname>citycon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set citycon. ROM archive: games/mame2003plus/citycon.zip. -->
+</misterromdescription>

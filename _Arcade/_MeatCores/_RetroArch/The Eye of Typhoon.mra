@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Eye of Typhoon (Tsunami Edition, beta 7)</name>
+	<setname>teot</setname>
+	<rbf>RetroArch</rbf>
+	<year>2022</year>
+	<manufacturer>OzzyOuzo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set teot. ROM archive: games/mame2003plus/teot.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>WWF WrestleFest (US)</name>
+	<setname>wwfwfest</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wwfwfest. ROM archive: games/mame2003plus/wwfwfest.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tecmo World Cup</name>
+	<setname>mp_twc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mp_twc. ROM archive: games/mame2003plus/mp_twc.zip. -->
+</misterromdescription>

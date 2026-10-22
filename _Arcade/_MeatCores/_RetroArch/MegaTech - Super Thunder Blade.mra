@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MegaTech - Super Thunder Blade</name>
+	<setname>mt_stbld</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mt_stbld. ROM archive: games/mame2003plus/mt_stbld.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Invaders (Logitec)</name>
+	<setname>invaderl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set invaderl. ROM archive: games/mame2003plus/invaderl.zip. -->
+</misterromdescription>

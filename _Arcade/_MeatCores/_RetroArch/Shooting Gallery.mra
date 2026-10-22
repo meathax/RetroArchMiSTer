@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shooting Gallery</name>
+	<setname>shootgal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Seatongrove Ltd (Zaccaria licence)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shootgal. ROM archive: games/mame2003plus/shootgal.zip. -->
+</misterromdescription>

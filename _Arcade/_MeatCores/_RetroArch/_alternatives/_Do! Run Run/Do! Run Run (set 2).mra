@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Do! Run Run (set 2)</name>
+	<setname>dorunru2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Universal</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dorunru2. ROM archive: games/mame2003plus/dorunru2.zip. -->
+</misterromdescription>

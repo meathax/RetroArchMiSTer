@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Hana no Momoko gumi (Japan 881201)</name>
+	<setname>hanamomo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hanamomo. ROM archive: games/mame2003plus/hanamomo.zip. -->
+</misterromdescription>

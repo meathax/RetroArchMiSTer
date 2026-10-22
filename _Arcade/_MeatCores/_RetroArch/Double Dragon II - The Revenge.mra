@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Double Dragon II - The Revenge (World)</name>
+	<setname>ddragon2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddragon2. ROM archive: games/mame2003plus/ddragon2.zip. -->
+</misterromdescription>

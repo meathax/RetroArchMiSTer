@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dungeons &amp; Dragons: Tower of Doom (Japan 940412)</name>
+	<setname>ddtodj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddtodj. ROM archive: games/mame2003plus/ddtodj.zip. -->
+</misterromdescription>

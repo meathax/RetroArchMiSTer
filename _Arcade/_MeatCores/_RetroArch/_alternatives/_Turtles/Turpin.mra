@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Turpin</name>
+	<setname>turpin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>[Konami] (Sega license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set turpin. ROM archive: games/mame2003plus/turpin.zip. -->
+</misterromdescription>

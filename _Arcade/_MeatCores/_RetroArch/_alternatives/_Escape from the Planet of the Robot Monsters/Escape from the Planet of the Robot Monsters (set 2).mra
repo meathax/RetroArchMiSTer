@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Escape from the Planet of the Robot Monsters (set 2)</name>
+	<setname>eprom2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set eprom2. ROM archive: games/mame2003plus/eprom2.zip. -->
+</misterromdescription>

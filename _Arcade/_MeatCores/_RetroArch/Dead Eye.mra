@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dead Eye</name>
+	<setname>deadeye</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>Meadows</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set deadeye. ROM archive: games/mame2003plus/deadeye.zip. -->
+</misterromdescription>

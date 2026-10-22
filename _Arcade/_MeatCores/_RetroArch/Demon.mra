@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Demon</name>
+	<setname>demon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Rock-ola</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set demon. ROM archive: games/mame2003plus/demon.zip. -->
+</misterromdescription>

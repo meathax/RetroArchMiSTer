@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>X-Men: Children of the Atom (Brazil 950331)</name>
+	<setname>xmcotab</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set xmcotab. ROM archive: games/mame2003plus/xmcotab.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Puzzle &amp; Action: Tant-R (Japan) (bootleg set 1)</name>
+	<setname>tantrbl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tantrbl. ROM archive: games/mame2003plus/tantrbl.zip. -->
+</misterromdescription>

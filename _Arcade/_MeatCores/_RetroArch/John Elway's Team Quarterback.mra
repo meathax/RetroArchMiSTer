@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>John Elway's Team Quarterback</name>
+	<setname>teamqb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set teamqb. ROM archive: games/mame2003plus/teamqb.zip. -->
+</misterromdescription>

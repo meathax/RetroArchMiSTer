@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Funny Mouse</name>
+	<setname>funnymou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Chuo Co. Ltd</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set funnymou. ROM archive: games/mame2003plus/funnymou.zip. -->
+</misterromdescription>

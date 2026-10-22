@@ -1,0 +1,8 @@
+mame2003-plus_skip_disclaimer = "enabled"
+mame2003-plus_input_interface = "retropad"
+mame2003-plus_display_artwork = "disabled"
+mame2003-plus_vector_resolution = "640x480"
+mame2003-plus_vector_antialias = "disabled"
+mame2003-plus_vector_translucency = "disabled"
+mame2003-plus_brightness = "1.0"
+mame2003-plus_gamma = "1.0"

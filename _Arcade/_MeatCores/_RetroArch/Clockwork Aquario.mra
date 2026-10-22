@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Clockwork Aquario (prototype)</name>
+	<setname>aquario</setname>
+	<rbf>RetroArch</rbf>
+	<year>2021</year>
+	<manufacturer>Sega / Westone</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aquario. ROM archive: games/mame2003plus/aquario.zip. -->
+</misterromdescription>

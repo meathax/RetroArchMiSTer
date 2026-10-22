@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Toypop</name>
+	<setname>toypop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set toypop. ROM archive: games/mame2003plus/toypop.zip. -->
+</misterromdescription>

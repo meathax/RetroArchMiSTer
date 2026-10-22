@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Viewpoint</name>
+	<setname>viewpoin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Sammy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set viewpoin. ROM archive: games/mame2003plus/viewpoin.zip. -->
+</misterromdescription>

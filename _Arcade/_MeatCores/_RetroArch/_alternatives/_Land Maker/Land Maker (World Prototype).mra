@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Land Maker (World Prototype)</name>
+	<setname>landmkrp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set landmkrp. ROM archive: games/mame2003plus/landmkrp.zip. -->
+</misterromdescription>

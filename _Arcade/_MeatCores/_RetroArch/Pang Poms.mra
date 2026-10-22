@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pang Poms</name>
+	<setname>pangpoms</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Metro</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pangpoms. ROM archive: games/mame2003plus/pangpoms.zip. -->
+</misterromdescription>

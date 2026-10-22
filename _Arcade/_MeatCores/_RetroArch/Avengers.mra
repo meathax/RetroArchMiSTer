@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Avengers (US set 1)</name>
+	<setname>avengers</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set avengers. ROM archive: games/mame2003plus/avengers.zip. -->
+</misterromdescription>

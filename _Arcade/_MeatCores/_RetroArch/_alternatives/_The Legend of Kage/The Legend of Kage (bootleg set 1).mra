@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Legend of Kage (bootleg set 1)</name>
+	<setname>lkageb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set lkageb. ROM archive: games/mame2003plus/lkageb.zip. -->
+</misterromdescription>

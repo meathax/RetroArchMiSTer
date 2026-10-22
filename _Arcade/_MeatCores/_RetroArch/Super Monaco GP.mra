@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Monaco GP (World, Rev B) (bootleg of FD1094 317-0126a set)</name>
+	<setname>smgp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set smgp. ROM archive: games/mame2003plus/smgp.zip. -->
+</misterromdescription>

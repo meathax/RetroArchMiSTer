@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cosmic Chasm (set 2)</name>
+	<setname>cchasm1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Cinematronics / GCE</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cchasm1. ROM archive: games/mame2003plus/cchasm1.zip. -->
+</misterromdescription>

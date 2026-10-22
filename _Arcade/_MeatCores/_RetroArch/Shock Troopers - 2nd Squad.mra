@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shock Troopers - 2nd Squad</name>
+	<setname>shocktr2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Saurus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shocktr2. ROM archive: games/mame2003plus/shocktr2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kaitei Takara Sagashi</name>
+	<setname>kaitei</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>K.K. Tokki</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kaitei. ROM archive: games/mame2003plus/kaitei.zip. -->
+</misterromdescription>

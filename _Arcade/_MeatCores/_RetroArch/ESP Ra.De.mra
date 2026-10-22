@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>ESP Ra.De. (International Ver 1998 4-22)</name>
+	<setname>esprade</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Atlus/Cave</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set esprade. ROM archive: games/mame2003plus/esprade.zip. -->
+</misterromdescription>

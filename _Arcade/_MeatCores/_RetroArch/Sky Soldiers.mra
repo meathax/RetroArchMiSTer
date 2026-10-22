@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sky Soldiers (US)</name>
+	<setname>skysoldr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>[Alpha Denshi Co.] (SNK of America/Romstar license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set skysoldr. ROM archive: games/mame2003plus/skysoldr.zip. -->
+</misterromdescription>

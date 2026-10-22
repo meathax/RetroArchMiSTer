@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Eyes (Techstar)</name>
+	<setname>eyes2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Techstar (Rock-ola license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set eyes2. ROM archive: games/mame2003plus/eyes2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tiger Heli (bootleg set 2)</name>
+	<setname>tigerhb2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tigerhb2. ROM archive: games/mame2003plus/tigerhb2.zip. -->
+</misterromdescription>

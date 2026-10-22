@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crazy Kong (set 2)</name>
+	<setname>ckonga</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Falcon</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ckonga. ROM archive: games/mame2003plus/ckonga.zip. -->
+</misterromdescription>

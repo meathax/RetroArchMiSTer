@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>R-Type (US)</name>
+	<setname>rtypeu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Irem (Nintendo of America license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set rtypeu. ROM archive: games/mame2003plus/rtypeu.zip. -->
+</misterromdescription>

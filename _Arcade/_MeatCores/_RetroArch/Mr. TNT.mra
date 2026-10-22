@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mr. TNT</name>
+	<setname>mrtnt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Telko</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mrtnt. ROM archive: games/mame2003plus/mrtnt.zip. -->
+</misterromdescription>

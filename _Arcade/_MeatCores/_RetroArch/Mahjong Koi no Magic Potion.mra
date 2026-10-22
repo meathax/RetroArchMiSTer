@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Koi no Magic Potion (Japan)</name>
+	<setname>koinomp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set koinomp. ROM archive: games/mame2003plus/koinomp.zip. -->
+</misterromdescription>

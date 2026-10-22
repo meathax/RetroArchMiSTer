@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marble Madness (set 4)</name>
+	<setname>marble4</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set marble4. ROM archive: games/mame2003plus/marble4.zip. -->
+</misterromdescription>

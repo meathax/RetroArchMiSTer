@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Giga Wing (Asia 990222)</name>
+	<setname>gigawinga</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Takumi (Capcom license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gigawinga. ROM archive: games/mame2003plus/gigawinga.zip. -->
+</misterromdescription>

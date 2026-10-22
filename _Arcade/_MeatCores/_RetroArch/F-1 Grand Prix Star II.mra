@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>F-1 Grand Prix Star II</name>
+	<setname>f1gpstr2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set f1gpstr2. ROM archive: games/mame2003plus/f1gpstr2.zip. -->
+</misterromdescription>

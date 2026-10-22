@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hana Fubuki [BET] (Japan)</name>
+	<setname>hnfubuki</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Dynax</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hnfubuki. ROM archive: games/mame2003plus/hnfubuki.zip. -->
+</misterromdescription>

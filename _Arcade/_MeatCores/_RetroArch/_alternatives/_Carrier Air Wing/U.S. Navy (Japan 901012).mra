@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>U.S. Navy (Japan 901012)</name>
+	<setname>cawingj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cawingj. ROM archive: games/mame2003plus/cawingj.zip. -->
+</misterromdescription>

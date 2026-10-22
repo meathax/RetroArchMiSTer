@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Blaze On (Japan)</name>
+	<setname>blazeon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Atlus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set blazeon. ROM archive: games/mame2003plus/blazeon.zip. -->
+</misterromdescription>

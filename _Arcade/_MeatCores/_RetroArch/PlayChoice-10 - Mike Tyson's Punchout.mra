@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>PlayChoice-10 - Mike Tyson's Punchout</name>
+	<setname>pc_miket</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pc_miket. ROM archive: games/mame2003plus/pc_miket.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Top Racer (with MB8841 + MB8842, 1984)</name>
+	<setname>topracer</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set topracer. ROM archive: games/mame2003plus/topracer.zip. -->
+</misterromdescription>

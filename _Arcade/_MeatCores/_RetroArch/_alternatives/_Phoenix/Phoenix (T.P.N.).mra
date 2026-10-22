@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Phoenix (T.P.N.)</name>
+	<setname>phoenix3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set phoenix3. ROM archive: games/mame2003plus/phoenix3.zip. -->
+</misterromdescription>

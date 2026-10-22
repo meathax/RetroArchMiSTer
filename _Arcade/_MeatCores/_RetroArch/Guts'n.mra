@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Guts'n (Japan)</name>
+	<setname>gutsn</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Kaneko / Kouyousha</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gutsn. ROM archive: games/mame2003plus/gutsn.zip. -->
+</misterromdescription>

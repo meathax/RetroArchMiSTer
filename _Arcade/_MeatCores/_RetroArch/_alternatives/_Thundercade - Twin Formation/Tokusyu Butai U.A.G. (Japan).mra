@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tokusyu Butai U.A.G. (Japan)</name>
+	<setname>tndrcadj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>[Seta] (Taito license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tndrcadj. ROM archive: games/mame2003plus/tndrcadj.zip. -->
+</misterromdescription>

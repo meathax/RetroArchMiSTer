@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crush Roller (Kural - bootleg[Q])</name>
+	<setname>crush3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Kural Electric</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crush3. ROM archive: games/mame2003plus/crush3.zip. -->
+</misterromdescription>

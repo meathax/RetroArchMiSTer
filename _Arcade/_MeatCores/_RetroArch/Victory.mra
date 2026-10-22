@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Victory</name>
+	<setname>victory</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set victory. ROM archive: games/mame2003plus/victory.zip. -->
+</misterromdescription>

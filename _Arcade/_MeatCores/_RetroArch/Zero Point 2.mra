@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zero Point 2</name>
+	<setname>zeropnt2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Unico</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set zeropnt2. ROM archive: games/mame2003plus/zeropnt2.zip. -->
+</misterromdescription>

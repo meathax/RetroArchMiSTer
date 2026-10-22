@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter Alpha 2 (Euro 960229)</name>
+	<setname>sfa2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sfa2. ROM archive: games/mame2003plus/sfa2.zip. -->
+</misterromdescription>

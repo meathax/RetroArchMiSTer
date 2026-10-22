@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Strikers 1945</name>
+	<setname>s1945</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set s1945. ROM archive: games/mame2003plus/s1945.zip. -->
+</misterromdescription>

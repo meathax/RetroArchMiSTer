@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Forty-Love</name>
+	<setname>40love</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 40love. ROM archive: games/mame2003plus/40love.zip. -->
+</misterromdescription>

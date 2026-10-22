@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Galactic Warriors</name>
+	<setname>gwarrior</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gwarrior. ROM archive: games/mame2003plus/gwarrior.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bump 'n' Jump</name>
+	<setname>bnj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Data East USA (Bally Midway license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bnj. ROM archive: games/mame2003plus/bnj.zip. -->
+</misterromdescription>

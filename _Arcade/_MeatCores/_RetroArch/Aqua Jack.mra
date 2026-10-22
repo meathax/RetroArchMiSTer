@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aqua Jack (World)</name>
+	<setname>aquajack</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aquajack. ROM archive: games/mame2003plus/aquajack.zip. -->
+</misterromdescription>

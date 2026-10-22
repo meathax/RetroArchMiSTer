@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Driving Force (Galaxian conversion)</name>
+	<setname>drivfrcg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Shinkai Inc. (Magic Eletronics USA licence)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drivfrcg. ROM archive: games/mame2003plus/drivfrcg.zip. -->
+</misterromdescription>

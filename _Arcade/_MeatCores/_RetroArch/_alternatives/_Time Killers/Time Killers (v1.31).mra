@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Time Killers (v1.31)</name>
+	<setname>timek131</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set timek131. ROM archive: games/mame2003plus/timek131.zip. -->
+</misterromdescription>

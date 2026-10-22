@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Karnov's Revenge / Fighter's History Dynamite</name>
+	<setname>karnovr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set karnovr. ROM archive: games/mame2003plus/karnovr.zip. -->
+</misterromdescription>

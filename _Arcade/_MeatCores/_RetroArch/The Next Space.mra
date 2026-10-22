@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Next Space</name>
+	<setname>tnexspce</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tnexspce. ROM archive: games/mame2003plus/tnexspce.zip. -->
+</misterromdescription>

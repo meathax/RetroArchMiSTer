@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Scud Hammer</name>
+	<setname>scudhamm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set scudhamm. ROM archive: games/mame2003plus/scudhamm.zip. -->
+</misterromdescription>

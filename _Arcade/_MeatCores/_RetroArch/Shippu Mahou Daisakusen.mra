@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shippu Mahou Daisakusen (Japan)</name>
+	<setname>shippumd</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Raizing / Eighting</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shippumd. ROM archive: games/mame2003plus/shippumd.zip. -->
+</misterromdescription>

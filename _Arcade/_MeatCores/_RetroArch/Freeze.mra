@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Freeze</name>
+	<setname>freeze</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set freeze. ROM archive: games/mame2003plus/freeze.zip. -->
+</misterromdescription>

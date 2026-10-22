@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Skull and Crossbones (rev 2)</name>
+	<setname>skullxb2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set skullxb2. ROM archive: games/mame2003plus/skullxb2.zip. -->
+</misterromdescription>

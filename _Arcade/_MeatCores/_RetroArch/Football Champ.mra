@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Football Champ (World)</name>
+	<setname>footchmp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set footchmp. ROM archive: games/mame2003plus/footchmp.zip. -->
+</misterromdescription>

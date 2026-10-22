@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>DoDonPachi (Arrange Ver. 1.1) (trap15, hack)</name>
+	<setname>ddonpacha</setname>
+	<rbf>RetroArch</rbf>
+	<year>2012</year>
+	<manufacturer>Other</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddonpacha. ROM archive: games/mame2003plus/ddonpacha.zip. -->
+</misterromdescription>

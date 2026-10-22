@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi</name>
+	<setname>ssideki3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssideki3. ROM archive: games/mame2003plus/ssideki3.zip. -->
+</misterromdescription>

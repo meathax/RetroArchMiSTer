@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mad Motor</name>
+	<setname>madmotor</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Mitchell</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set madmotor. ROM archive: games/mame2003plus/madmotor.zip. -->
+</misterromdescription>

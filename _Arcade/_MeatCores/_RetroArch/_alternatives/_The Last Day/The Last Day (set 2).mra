@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Last Day (set 2)</name>
+	<setname>lastdaya</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Dooyong</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set lastdaya. ROM archive: games/mame2003plus/lastdaya.zip. -->
+</misterromdescription>

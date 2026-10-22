@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Avengers In Galactic Storm (Japan 1.2)</name>
+	<setname>avengrgsj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set avengrgsj. ROM archive: games/mame2003plus/avengrgsj.zip. -->
+</misterromdescription>

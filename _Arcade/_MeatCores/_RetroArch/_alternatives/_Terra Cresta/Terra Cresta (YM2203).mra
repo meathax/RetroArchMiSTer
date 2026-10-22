@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Terra Cresta (YM2203)</name>
+	<setname>terracra</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set terracra. ROM archive: games/mame2003plus/terracra.zip. -->
+</misterromdescription>

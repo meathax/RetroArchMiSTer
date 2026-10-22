@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Capitol</name>
+	<setname>capitol</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Universal Video Spiel</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set capitol. ROM archive: games/mame2003plus/capitol.zip. -->
+</misterromdescription>

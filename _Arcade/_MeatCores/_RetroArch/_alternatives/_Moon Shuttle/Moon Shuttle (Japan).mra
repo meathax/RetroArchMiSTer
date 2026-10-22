@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Moon Shuttle (Japan)</name>
+	<setname>mshuttlj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mshuttlj. ROM archive: games/mame2003plus/mshuttlj.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cross Pang</name>
+	<setname>crospang</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>F2 System</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set crospang. ROM archive: games/mame2003plus/crospang.zip. -->
+</misterromdescription>

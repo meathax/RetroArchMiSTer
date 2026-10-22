@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Torus</name>
+	<setname>torus</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Yun Sung</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set torus. ROM archive: games/mame2003plus/torus.zip. -->
+</misterromdescription>

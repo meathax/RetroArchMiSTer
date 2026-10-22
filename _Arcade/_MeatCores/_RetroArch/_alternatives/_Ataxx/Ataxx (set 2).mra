@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ataxx (set 2)</name>
+	<setname>ataxxa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ataxxa. ROM archive: games/mame2003plus/ataxxa.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Capcom Sports Club (Euro 971017)</name>
+	<setname>csclub</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set csclub. ROM archive: games/mame2003plus/csclub.zip. -->
+</misterromdescription>

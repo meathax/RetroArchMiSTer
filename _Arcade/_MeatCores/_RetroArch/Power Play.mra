@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Power Play</name>
+	<setname>powrplay</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set powrplay. ROM archive: games/mame2003plus/powrplay.zip. -->
+</misterromdescription>

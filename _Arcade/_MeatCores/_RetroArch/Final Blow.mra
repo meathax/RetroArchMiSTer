@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Final Blow (World)</name>
+	<setname>finalb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set finalb. ROM archive: games/mame2003plus/finalb.zip. -->
+</misterromdescription>

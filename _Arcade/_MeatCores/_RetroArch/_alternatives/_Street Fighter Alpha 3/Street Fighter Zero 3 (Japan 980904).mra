@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter Zero 3 (Japan 980904)</name>
+	<setname>sfz3j</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sfz3j. ROM archive: games/mame2003plus/sfz3j.zip. -->
+</misterromdescription>

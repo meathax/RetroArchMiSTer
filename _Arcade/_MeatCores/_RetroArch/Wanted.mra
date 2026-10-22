@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Wanted</name>
+	<setname>wanted</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Sigma Enterprises Inc.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wanted. ROM archive: games/mame2003plus/wanted.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Thunder Blade (deluxe/standing) (unprotected)</name>
+	<setname>thndrbld1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set thndrbld1. ROM archive: games/mame2003plus/thndrbld1.zip. -->
+</misterromdescription>

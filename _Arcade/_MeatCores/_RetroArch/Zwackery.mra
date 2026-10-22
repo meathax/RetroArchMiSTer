@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zwackery</name>
+	<setname>zwackery</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set zwackery. ROM archive: games/mame2003plus/zwackery.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space War Part 3</name>
+	<setname>spacewr3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spacewr3. ROM archive: games/mame2003plus/spacewr3.zip. -->
+</misterromdescription>

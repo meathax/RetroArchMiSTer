@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mr. Do! (Taito)</name>
+	<setname>mrdot</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Universal (Taito license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mrdot. ROM archive: games/mame2003plus/mrdot.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Super Spy</name>
+	<setname>superspy</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set superspy. ROM archive: games/mame2003plus/superspy.zip. -->
+</misterromdescription>

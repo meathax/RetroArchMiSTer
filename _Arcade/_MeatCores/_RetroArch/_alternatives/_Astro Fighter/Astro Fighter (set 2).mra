@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Astro Fighter (set 2)</name>
+	<setname>astrof2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Data East</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set astrof2. ROM archive: games/mame2003plus/astrof2.zip. -->
+</misterromdescription>

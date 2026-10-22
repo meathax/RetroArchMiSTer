@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Raiden (Taiwan)</name>
+	<setname>raident</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Seibu Kaihatsu (Liang HWA Electronics license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set raident. ROM archive: games/mame2003plus/raident.zip. -->
+</misterromdescription>

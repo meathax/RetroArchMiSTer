@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Stratovox</name>
+	<setname>stratvox</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>[Sun Electronics] (Taito license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set stratvox. ROM archive: games/mame2003plus/stratvox.zip. -->
+</misterromdescription>

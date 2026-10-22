@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hat Trick Hero '95 (Japan)</name>
+	<setname>hthero95</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hthero95. ROM archive: games/mame2003plus/hthero95.zip. -->
+</misterromdescription>

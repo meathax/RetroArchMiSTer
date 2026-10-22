@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>X-Men Vs. Street Fighter (Euro 960910)</name>
+	<setname>xmvsfr1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set xmvsfr1. ROM archive: games/mame2003plus/xmvsfr1.zip. -->
+</misterromdescription>

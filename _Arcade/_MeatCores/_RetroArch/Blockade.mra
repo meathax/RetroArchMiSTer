@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Blockade</name>
+	<setname>blockade</setname>
+	<rbf>RetroArch</rbf>
+	<year>1976</year>
+	<manufacturer>Gremlin</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set blockade. ROM archive: games/mame2003plus/blockade.zip. -->
+</misterromdescription>

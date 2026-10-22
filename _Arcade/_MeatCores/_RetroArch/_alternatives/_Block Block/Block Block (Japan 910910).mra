@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Block Block (Japan 910910)</name>
+	<setname>blockj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set blockj. ROM archive: games/mame2003plus/blockj.zip. -->
+</misterromdescription>

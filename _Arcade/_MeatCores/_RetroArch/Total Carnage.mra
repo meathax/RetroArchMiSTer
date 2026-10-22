@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Total Carnage (rev LA1 03-10-92)</name>
+	<setname>totcarn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Midway</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set totcarn. ROM archive: games/mame2003plus/totcarn.zip. -->
+</misterromdescription>

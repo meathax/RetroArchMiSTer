@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Fury (revision C)</name>
+	<setname>spacfury</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spacfury. ROM archive: games/mame2003plus/spacfury.zip. -->
+</misterromdescription>

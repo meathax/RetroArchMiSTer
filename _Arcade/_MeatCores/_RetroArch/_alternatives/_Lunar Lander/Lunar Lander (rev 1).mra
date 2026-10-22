@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lunar Lander (rev 1)</name>
+	<setname>llander1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set llander1. ROM archive: games/mame2003plus/llander1.zip. -->
+</misterromdescription>

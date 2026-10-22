@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sai Yu Gou Ma Roku (Japan bootleg 1)</name>
+	<setname>saiyugb1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set saiyugb1. ROM archive: games/mame2003plus/saiyugb1.zip. -->
+</misterromdescription>

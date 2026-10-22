@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters '97 (set 1)</name>
+	<setname>kof97</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kof97. ROM archive: games/mame2003plus/kof97.zip. -->
+</misterromdescription>

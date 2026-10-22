@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dragon Bowl</name>
+	<setname>drgnbowl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Nics</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drgnbowl. ROM archive: games/mame2003plus/drgnbowl.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cabal (US set 2, Trackball version)</name>
+	<setname>cabalus2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Tad (Fabtek license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cabalus2. ROM archive: games/mame2003plus/cabalus2.zip. -->
+</misterromdescription>

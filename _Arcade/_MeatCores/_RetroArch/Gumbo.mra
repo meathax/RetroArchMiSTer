@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gumbo</name>
+	<setname>gumbo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Min Corp.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gumbo. ROM archive: games/mame2003plus/gumbo.zip. -->
+</misterromdescription>

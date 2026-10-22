@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shuffleshot (v1.37)</name>
+	<setname>sshot137</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sshot137. ROM archive: games/mame2003plus/sshot137.zip. -->
+</misterromdescription>

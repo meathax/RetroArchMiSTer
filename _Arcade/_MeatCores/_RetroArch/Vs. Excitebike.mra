@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vs. Excitebike</name>
+	<setname>excitebk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set excitebk. ROM archive: games/mame2003plus/excitebk.zip. -->
+</misterromdescription>

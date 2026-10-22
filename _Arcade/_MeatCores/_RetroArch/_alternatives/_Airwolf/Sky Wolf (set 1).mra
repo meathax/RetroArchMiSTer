@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sky Wolf (set 1)</name>
+	<setname>skywolf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set skywolf. ROM archive: games/mame2003plus/skywolf.zip. -->
+</misterromdescription>

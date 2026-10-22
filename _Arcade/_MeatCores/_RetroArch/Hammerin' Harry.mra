@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hammerin' Harry (World)</name>
+	<setname>hharry</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hharry. ROM archive: games/mame2003plus/hharry.zip. -->
+</misterromdescription>

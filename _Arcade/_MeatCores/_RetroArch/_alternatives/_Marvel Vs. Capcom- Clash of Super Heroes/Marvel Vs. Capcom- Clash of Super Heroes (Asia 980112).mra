@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marvel Vs. Capcom: Clash of Super Heroes (Asia 980112)</name>
+	<setname>mvscar1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mvscar1. ROM archive: games/mame2003plus/mvscar1.zip. -->
+</misterromdescription>

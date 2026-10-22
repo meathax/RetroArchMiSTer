@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Radical Radial</name>
+	<setname>radrad</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Nichibutsu USA</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set radrad. ROM archive: games/mame2003plus/radrad.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Same! Same! Same!</name>
+	<setname>samesame</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set samesame. ROM archive: games/mame2003plus/samesame.zip. -->
+</misterromdescription>

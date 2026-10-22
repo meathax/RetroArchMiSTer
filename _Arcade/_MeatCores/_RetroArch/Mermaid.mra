@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mermaid</name>
+	<setname>mermaid</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>[Sanritsu] Rock-ola</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mermaid. ROM archive: games/mame2003plus/mermaid.zip. -->
+</misterromdescription>

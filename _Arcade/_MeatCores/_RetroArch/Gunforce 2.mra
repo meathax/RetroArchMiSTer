@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gunforce 2 (US)</name>
+	<setname>gunforc2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gunforc2. ROM archive: games/mame2003plus/gunforc2.zip. -->
+</misterromdescription>

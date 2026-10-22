@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Truxton II - Tatsujin II - Tatsujin Oh (Japan)</name>
+	<setname>truxton2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set truxton2. ROM archive: games/mame2003plus/truxton2.zip. -->
+</misterromdescription>

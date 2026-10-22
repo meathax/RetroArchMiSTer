@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nozokimeguri Mahjong Peep Show (Japan 890404)</name>
+	<setname>peepshow</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>AC</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set peepshow. ROM archive: games/mame2003plus/peepshow.zip. -->
+</misterromdescription>

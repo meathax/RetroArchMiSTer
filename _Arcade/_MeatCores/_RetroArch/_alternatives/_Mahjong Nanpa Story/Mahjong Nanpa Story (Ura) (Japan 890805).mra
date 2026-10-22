@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Nanpa Story (Ura) (Japan 890805)</name>
+	<setname>mjnanpau</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>BROOKS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mjnanpau. ROM archive: games/mame2003plus/mjnanpau.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vandyke (Jaleco, Set 1)</name>
+	<setname>vandyjal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>UPL (Jaleco license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vandyjal. ROM archive: games/mame2003plus/vandyjal.zip. -->
+</misterromdescription>

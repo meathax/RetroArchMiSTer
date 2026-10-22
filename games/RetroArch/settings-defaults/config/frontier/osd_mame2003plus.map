@@ -1,0 +1,110 @@
+# Frontier OSD option map v1 - MAME 2003-Plus (pin 5da0428c).
+# Data only: parsed by launcher/custom_main/osd_options.cpp. See docs/OSD_OPTIONS.md.
+# Every key/value below is checked against the pinned core's option table by
+# tests/test_osd_options.py. Labels <= 15 chars, explicit value labels <= 11.
+#
+# MAME 2003-Plus DIP switches are NOT libretro core options in this pin: they live
+# in MAME's own Tab menu (per-set cfg in the save directory). The only option is
+# the gate below, so DIP editing stays an advanced (RGUI/Tab menu) path.
+
+[core]
+id = mame2003plus
+lp_core = mame2003plus
+config_dir = MAME 2003-Plus
+prefix = mame2003-plus_
+dip_note = MAME DIPs are not core options; use MAME Tab menu
+
+[group region]
+label = Region / BIOS
+
+[group system]
+label = System
+
+[group input]
+label = Input / DIP
+
+[option mame2003-plus_neogeo_bios]
+label = Neo Geo BIOS
+group = region
+default = default
+values = default|euro|euro-s1|us|us-e|asia|japan|japan-s2|asia-aes
+apply = restart
+risk = safe
+note = unibios and debug BIOS sets are left to RGUI
+
+[option mame2003-plus_stv_bios]
+label = ST-V BIOS
+group = region
+default = default
+values = default|japan|japana|us|japan_b|taiwan|europe
+apply = restart
+risk = safe
+
+[option mame2003-plus_skip_disclaimer]
+label = Skip disclaimer
+group = system
+default = enabled
+values = enabled
+qualified = enabled
+apply = live
+risk = qualified
+pin = 1
+note = locked: the copyright disclaimer is never shown at game load
+
+[option mame2003-plus_skip_warnings]
+label = Skip warnings
+group = system
+default = disabled
+values = disabled|enabled
+apply = restart
+risk = safe
+note = read once when the game starts
+
+[option mame2003-plus_autosave_hiscore]
+label = Hiscore save
+group = system
+default = default
+values = default|recursively|disabled
+apply = live
+risk = safe
+
+[option mame2003-plus_cheat_input_ports]
+label = DIP/cheat ports
+group = input
+default = disabled
+values = disabled|enabled
+apply = restart
+risk = safe
+note = exposes DIP/cheat ports in the MAME Tab menu only; the port table is built at game start
+
+[option mame2003-plus_four_way_emulation]
+label = 4-way stick
+group = input
+default = disabled
+values = disabled|enabled
+apply = live
+risk = safe
+
+[option mame2003-plus_input_interface]
+label = Input source
+group = input
+default = simultaneous
+values = simultaneous|retropad|keyboard
+apply = live
+risk = safe
+
+# Guest speed / pacing / accuracy: never exposed or persisted (AGENTS.md).
+[forbid mame2003-plus_cpu_clock_scale]
+reason = changes guest speed
+
+[forbid mame2003-plus_frameskip]
+reason = frameskip is not allowed to manufacture performance
+
+[forbid mame2003-plus_cyclone_mode]
+reason = CPU core selection changes accuracy; RGUI advanced only
+
+[forbid mame2003-plus_sample_rate]
+reason = audio rate is fixed at 48000 by the Frontier transport
+
+[forbid mame2003-plus_tate_mode]
+reason = rotation is owned by the video path

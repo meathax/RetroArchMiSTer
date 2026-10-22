@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Waku Waku 7</name>
+	<setname>wakuwak7</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Sunsoft</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wakuwak7. ROM archive: games/mame2003plus/wakuwak7.zip. -->
+</misterromdescription>

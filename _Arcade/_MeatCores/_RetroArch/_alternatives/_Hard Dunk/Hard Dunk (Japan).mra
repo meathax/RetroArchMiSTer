@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hard Dunk (Japan)</name>
+	<setname>harddunj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set harddunj. ROM archive: games/mame2003plus/harddunj.zip. -->
+</misterromdescription>

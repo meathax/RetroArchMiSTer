@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Radar Zone (Rev.1)</name>
+	<setname>radarzn1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Century Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set radarzn1. ROM archive: games/mame2003plus/radarzn1.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dragon World (World, V040O)</name>
+	<setname>drgnwrld</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>IGS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drgnwrld. ROM archive: games/mame2003plus/drgnwrld.zip. -->
+</misterromdescription>

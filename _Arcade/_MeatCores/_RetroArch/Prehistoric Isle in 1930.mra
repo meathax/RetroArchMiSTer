@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Prehistoric Isle in 1930 (World)</name>
+	<setname>prehisle</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set prehisle. ROM archive: games/mame2003plus/prehisle.zip. -->
+</misterromdescription>

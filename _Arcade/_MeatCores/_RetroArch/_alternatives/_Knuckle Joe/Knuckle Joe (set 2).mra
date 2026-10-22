@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Knuckle Joe (set 2)</name>
+	<setname>kncljoea</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>[Seibu Kaihatsu] (Taito license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kncljoea. ROM archive: games/mame2003plus/kncljoea.zip. -->
+</misterromdescription>

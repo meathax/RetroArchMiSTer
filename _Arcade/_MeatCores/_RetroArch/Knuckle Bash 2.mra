@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Knuckle Bash 2</name>
+	<setname>kbash2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kbash2. ROM archive: games/mame2003plus/kbash2.zip. -->
+</misterromdescription>

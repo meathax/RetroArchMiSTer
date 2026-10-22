@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Angel Kids (Japan)</name>
+	<setname>angelkds</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Sega / Nasco?</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set angelkds. ROM archive: games/mame2003plus/angelkds.zip. -->
+</misterromdescription>

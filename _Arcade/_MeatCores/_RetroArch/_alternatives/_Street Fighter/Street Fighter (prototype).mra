@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter (prototype)</name>
+	<setname>sf1p</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf1p. ROM archive: games/mame2003plus/sf1p.zip. -->
+</misterromdescription>

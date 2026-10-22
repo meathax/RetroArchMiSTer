@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Capcom Bowling (set 2)</name>
+	<setname>capbowl2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Incredible Technologies</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set capbowl2. ROM archive: games/mame2003plus/capbowl2.zip. -->
+</misterromdescription>

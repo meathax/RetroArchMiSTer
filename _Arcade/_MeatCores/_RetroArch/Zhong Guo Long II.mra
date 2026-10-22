@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zhong Guo Long II (ver. 100C, China)</name>
+	<setname>dragwld2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>IGS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dragwld2. ROM archive: games/mame2003plus/dragwld2.zip. -->
+</misterromdescription>

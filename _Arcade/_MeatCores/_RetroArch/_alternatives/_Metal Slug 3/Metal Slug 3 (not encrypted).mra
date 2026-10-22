@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Metal Slug 3 (not encrypted)</name>
+	<setname>mslug3n</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mslug3n. ROM archive: games/mame2003plus/mslug3n.zip. -->
+</misterromdescription>

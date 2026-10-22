@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gate of Doom (US revision 1)</name>
+	<setname>gatedom1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gatedom1. ROM archive: games/mame2003plus/gatedom1.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bomberman (Japan)</name>
+	<setname>bombrman</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bombrman. ROM archive: games/mame2003plus/bombrman.zip. -->
+</misterromdescription>

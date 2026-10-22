@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996)</name>
+	<setname>battlega</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Raizing / Eighting</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set battlega. ROM archive: games/mame2003plus/battlega.zip. -->
+</misterromdescription>

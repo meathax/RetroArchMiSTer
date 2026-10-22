@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Death Brade (Japan Rev 2, JM-3)</name>
+	<setname>deathbrd</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set deathbrd. ROM archive: games/mame2003plus/deathbrd.zip. -->
+</misterromdescription>

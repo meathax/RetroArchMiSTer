@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Meadows Lanes</name>
+	<setname>medlanes</setname>
+	<rbf>RetroArch</rbf>
+	<year>1977</year>
+	<manufacturer>Meadows Games, Inc.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set medlanes. ROM archive: games/mame2003plus/medlanes.zip. -->
+</misterromdescription>

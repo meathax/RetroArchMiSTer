@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Quantum (rev 2)</name>
+	<setname>quantum</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set quantum. ROM archive: games/mame2003plus/quantum.zip. -->
+</misterromdescription>

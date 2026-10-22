@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aurail (set 2, World) (unprotected of FD1089B 317-0168 set)</name>
+	<setname>aurail1d</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Sega / Westone</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aurail1d. ROM archive: games/mame2003plus/aurail1d.zip. -->
+</misterromdescription>

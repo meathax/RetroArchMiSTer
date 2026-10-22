@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ninja-Kid II (set 1)</name>
+	<setname>ninjakd2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>UPL</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ninjakd2. ROM archive: games/mame2003plus/ninjakd2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Double Dragon 3 - The Rosetta Stone (bootleg)</name>
+	<setname>ddrago3b</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddrago3b. ROM archive: games/mame2003plus/ddrago3b.zip. -->
+</misterromdescription>

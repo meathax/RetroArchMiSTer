@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ninja Gaiden (US)</name>
+	<setname>gaiden</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Tecmo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gaiden. ROM archive: games/mame2003plus/gaiden.zip. -->
+</misterromdescription>

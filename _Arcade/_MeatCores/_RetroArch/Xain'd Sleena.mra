@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Xain'd Sleena</name>
+	<setname>xsleena</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set xsleena. ROM archive: games/mame2003plus/xsleena.zip. -->
+</misterromdescription>

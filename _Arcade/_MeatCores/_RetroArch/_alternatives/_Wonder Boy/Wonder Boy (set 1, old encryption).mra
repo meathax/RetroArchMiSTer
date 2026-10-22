@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Wonder Boy (set 1, old encryption)</name>
+	<setname>wboyo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Sega (Escape license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set wboyo. ROM archive: games/mame2003plus/wboyo.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Zero Point (set 1)</name>
+	<setname>zeropnt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Unico</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set zeropnt. ROM archive: games/mame2003plus/zeropnt.zip. -->
+</misterromdescription>

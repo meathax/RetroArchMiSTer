@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MegaTack</name>
+	<setname>megatack</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>GamePlan (Centuri license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set megatack. ROM archive: games/mame2003plus/megatack.zip. -->
+</misterromdescription>

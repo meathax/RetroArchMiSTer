@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Waga Seishun no Arcadia</name>
+	<setname>arcadia</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Sigma Enterprises Inc.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arcadia. ROM archive: games/mame2003plus/arcadia.zip. -->
+</misterromdescription>

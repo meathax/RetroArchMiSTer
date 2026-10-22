@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Q*bert (Japan)</name>
+	<setname>qbertjp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Gottlieb (Konami license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set qbertjp. ROM archive: games/mame2003plus/qbertjp.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Daraku Tenshi - The Fallen Angels</name>
+	<setname>daraku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Psikyo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set daraku. ROM archive: games/mame2003plus/daraku.zip. -->
+</misterromdescription>

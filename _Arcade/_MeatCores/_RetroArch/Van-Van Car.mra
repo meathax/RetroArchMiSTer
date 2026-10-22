@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Van-Van Car</name>
+	<setname>vanvan</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Sanritsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vanvan. ROM archive: games/mame2003plus/vanvan.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bermuda Triangle (Japan)</name>
+	<setname>bermudat</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bermudat. ROM archive: games/mame2003plus/bermudat.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>SvC Chaos - SNK vs Capcom (JAMMA PCB)</name>
+	<setname>svcpcb</setname>
+	<rbf>RetroArch</rbf>
+	<year>2003</year>
+	<manufacturer>Playmore</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set svcpcb. ROM archive: games/mame2003plus/svcpcb.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gun Hohki (Japan)</name>
+	<setname>gunhohki</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gunhohki. ROM archive: games/mame2003plus/gunhohki.zip. -->
+</misterromdescription>

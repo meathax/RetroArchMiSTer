@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Popper</name>
+	<setname>popper</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Omori Electric Co., Ltd.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set popper. ROM archive: games/mame2003plus/popper.zip. -->
+</misterromdescription>

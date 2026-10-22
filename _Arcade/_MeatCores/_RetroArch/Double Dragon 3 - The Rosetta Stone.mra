@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Double Dragon 3 - The Rosetta Stone (US)</name>
+	<setname>ddragon3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddragon3. ROM archive: games/mame2003plus/ddragon3.zip. -->
+</misterromdescription>

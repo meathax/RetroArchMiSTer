@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Final Lap 3 (World)</name>
+	<setname>finalp3a</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set finalp3a. ROM archive: games/mame2003plus/finalp3a.zip. -->
+</misterromdescription>

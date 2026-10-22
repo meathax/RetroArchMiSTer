@@ -1,0 +1,11 @@
+<misterromdescription>
+    <name>Final Fight [RetroArch MAME 2003-Plus]</name>
+    <setname>ffight</setname>
+    <rbf>RetroArch</rbf>
+    <remark>RetroArch core: mame2003plus</remark>
+    <year>1989</year>
+    <manufacturer>Capcom</manufacturer>
+    <!-- No ROM data. The MAME-only sidecar resolves the user's local archive
+         at games/mame2003plus/ffight.zip or a retained compatibility path.
+         Stock Main is unchanged; [RetroArch] main=Mister_RetroArch applies. -->
+</misterromdescription>

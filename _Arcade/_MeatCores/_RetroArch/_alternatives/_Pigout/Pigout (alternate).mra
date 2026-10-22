@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pigout (alternate)</name>
+	<setname>pigouta</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pigouta. ROM archive: games/mame2003plus/pigouta.zip. -->
+</misterromdescription>

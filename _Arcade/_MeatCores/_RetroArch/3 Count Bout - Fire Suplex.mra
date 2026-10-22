@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>3 Count Bout / Fire Suplex (NGM-043 ~ NGH-043)</name>
+	<setname>3countb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 3countb. ROM archive: games/mame2003plus/3countb.zip. -->
+</misterromdescription>

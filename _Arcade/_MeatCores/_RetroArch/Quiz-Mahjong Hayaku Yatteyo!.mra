@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Quiz-Mahjong Hayaku Yatteyo! (Japan)</name>
+	<setname>qmhayaku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set qmhayaku. ROM archive: games/mame2003plus/qmhayaku.zip. -->
+</misterromdescription>

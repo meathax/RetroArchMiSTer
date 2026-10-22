@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kabuki-Z (Japan)</name>
+	<setname>kabukizj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kabukizj. ROM archive: games/mame2003plus/kabukizj.zip. -->
+</misterromdescription>

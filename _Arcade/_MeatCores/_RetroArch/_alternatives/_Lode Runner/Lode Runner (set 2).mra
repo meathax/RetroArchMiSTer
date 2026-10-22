@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lode Runner (set 2)</name>
+	<setname>ldruna</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Irem (licensed from Broderbund)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ldruna. ROM archive: games/mame2003plus/ldruna.zip. -->
+</misterromdescription>

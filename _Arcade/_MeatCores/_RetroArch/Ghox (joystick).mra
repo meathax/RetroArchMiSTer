@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ghox (joystick)</name>
+	<setname>ghoxj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ghoxj. ROM archive: games/mame2003plus/ghoxj.zip. -->
+</misterromdescription>

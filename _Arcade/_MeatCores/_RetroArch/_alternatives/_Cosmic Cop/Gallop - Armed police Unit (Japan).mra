@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gallop - Armed police Unit (Japan)</name>
+	<setname>gallop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gallop. ROM archive: games/mame2003plus/gallop.zip. -->
+</misterromdescription>

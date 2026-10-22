@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Master's Fury</name>
+	<setname>mastfury</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Unico</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mastfury. ROM archive: games/mame2003plus/mastfury.zip. -->
+</misterromdescription>

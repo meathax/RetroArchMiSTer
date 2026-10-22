@@ -1,0 +1,120 @@
+# Frontier OSD option map v1 - DOSBox Pure (pin a4a0bab7). See docs/OSD_OPTIONS.md.
+# Qualified profile (docs/DOSBOX_PURE.md, COMPLETION_PLAN.md): normal CPU core,
+# fixed 4720 guest cycles (386 20 MHz), 48 kHz. `pin = 1` writes the default into
+# the effective options even when no layer sets it, so dynamic AUTO/MAX cycles
+# (which vary guest speed with host load) can never be the launch default.
+
+[core]
+id = dosbox_pure
+lp_core = dosbox_pure
+config_dir = DOSBox-pure
+prefix = dosbox_pure_
+
+[group perf]
+label = CPU speed
+
+[group audio]
+label = Sound / OPL
+
+[group video]
+label = Video
+
+[option dosbox_pure_cycles]
+label = CPU cycles
+group = perf
+default = 4720
+values = 315=8088 4.77M|1320=286 6M|2750=286 12M|4720=386 20M|7800=386DX 33M|13400=486DX 33M|26800=486DX2 66M
+qualified = 4720
+apply = live
+risk = qualified
+pin = 1
+note = AUTO and MAX are excluded: they make guest speed depend on host load
+
+[option dosbox_pure_cycles_max]
+label = Max cycles
+group = perf
+default = none
+values = none
+qualified = none
+apply = live
+risk = qualified
+pin = 1
+note = only meaningful with AUTO/MAX cycles, which are not exposed
+
+[option dosbox_pure_cycles_scale]
+label = Cycle scale
+group = perf
+default = 1.0
+values = 1.0
+qualified = 1.0
+apply = live
+risk = qualified
+pin = 1
+note = locked to 100 percent: scaling changes guest speed
+
+[option dosbox_pure_cpu_core]
+label = CPU core
+group = perf
+default = normal
+values = normal
+qualified = normal
+apply = restart
+risk = qualified
+pin = 1
+note = simple/dynamic produce different output and are experiments only
+
+[option dosbox_pure_sblaster_type]
+label = Sound card
+group = audio
+default = sb16
+values = sb16=SB16|sbpro2=SB Pro 2|sbpro1=SB Pro|sb2=SB 2.0|sb1=SB 1.0|gb=GameBlaster|none=None
+apply = restart
+risk = safe
+
+[option dosbox_pure_sblaster_adlib_mode]
+label = OPL type
+group = audio
+default = auto
+values = auto=Auto|opl2=OPL2|dualopl2=Dual OPL2|opl3=OPL3|opl3gold=OPL3 Gold|cms=CMS
+apply = restart
+risk = safe
+
+[option dosbox_pure_sblaster_adlib_emu]
+label = OPL engine
+group = audio
+default = default
+values = default=Default|nuked=Nuked OPL3
+apply = restart
+risk = safe
+note = Nuked is the qualified alternative for Prince of Persia
+
+[option dosbox_pure_midi]
+label = MIDI
+group = audio
+default = disabled
+values = disabled
+qualified = disabled
+apply = restart
+risk = qualified
+pin = 1
+note = SoundFont list is dynamic; left to RGUI
+
+[option dosbox_pure_aspect_correction]
+label = Aspect ratio
+group = video
+default = false
+values = false=Off|true=On single|doublescan=On double|padded=Padded 4:3
+apply = live
+risk = safe
+
+[forbid dosbox_pure_audiorate]
+reason = audio rate is fixed at 48000 by the Frontier transport
+
+[forbid dosbox_pure_cpu_type]
+reason = restart-only accuracy setting; RGUI advanced only
+
+[forbid dosbox_pure_memory_size]
+reason = changes guest memory map; per-title profile only
+
+[forbid dosbox_pure_voodoo]
+reason = not qualified

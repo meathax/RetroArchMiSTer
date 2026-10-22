@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Neo-Geo Cup '98 - The Road to the Victory</name>
+	<setname>neocup98</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set neocup98. ROM archive: games/mame2003plus/neocup98.zip. -->
+</misterromdescription>

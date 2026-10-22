@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Neo Bomberman</name>
+	<setname>neobombe</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Hudson</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set neobombe. ROM archive: games/mame2003plus/neobombe.zip. -->
+</misterromdescription>

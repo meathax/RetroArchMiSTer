@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris Plus 2 (World[Q])</name>
+	<setname>tetrisp2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Jaleco / The Tetris Company</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tetrisp2. ROM archive: games/mame2003plus/tetrisp2.zip. -->
+</misterromdescription>

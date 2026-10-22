@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Gal 10-renpatsu (Japan)</name>
+	<setname>gal10ren</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>FUJIC</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gal10ren. ROM archive: games/mame2003plus/gal10ren.zip. -->
+</misterromdescription>

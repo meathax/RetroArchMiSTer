@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mega Zone (Kosuka)</name>
+	<setname>megaznik</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Konami / Interlogic + Kosuka</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set megaznik. ROM archive: games/mame2003plus/megaznik.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Splash! (Ver. 1.2 World)</name>
+	<setname>splash</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Gaelco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set splash. ROM archive: games/mame2003plus/splash.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Joust 2 - Survival of the Fittest (set 1)</name>
+	<setname>joust2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Williams</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set joust2. ROM archive: games/mame2003plus/joust2.zip. -->
+</misterromdescription>

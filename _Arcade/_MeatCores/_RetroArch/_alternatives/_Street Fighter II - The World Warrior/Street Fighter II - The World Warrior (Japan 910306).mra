@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter II - The World Warrior (Japan 910306)</name>
+	<setname>sf2jc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf2jc. ROM archive: games/mame2003plus/sf2jc.zip. -->
+</misterromdescription>

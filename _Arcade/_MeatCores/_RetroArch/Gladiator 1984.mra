@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gladiator 1984</name>
+	<setname>sgladiat</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sgladiat. ROM archive: games/mame2003plus/sgladiat.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Moon Alien Part 2</name>
+	<setname>moonal2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set moonal2. ROM archive: games/mame2003plus/moonal2.zip. -->
+</misterromdescription>

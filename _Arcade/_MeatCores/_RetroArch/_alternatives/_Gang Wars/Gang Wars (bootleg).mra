@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gang Wars (bootleg)</name>
+	<setname>gangwarb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gangwarb. ROM archive: games/mame2003plus/gangwarb.zip. -->
+</misterromdescription>

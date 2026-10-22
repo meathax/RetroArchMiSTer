@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gigandes</name>
+	<setname>gigandes</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>East Technology</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gigandes. ROM archive: games/mame2003plus/gigandes.zip. -->
+</misterromdescription>

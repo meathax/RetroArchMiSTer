@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Athena no Hatena [Q]</name>
+	<setname>atehate</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Athena</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set atehate. ROM archive: games/mame2003plus/atehate.zip. -->
+</misterromdescription>

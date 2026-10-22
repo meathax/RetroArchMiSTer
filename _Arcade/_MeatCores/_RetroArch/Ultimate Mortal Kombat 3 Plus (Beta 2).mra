@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ultimate Mortal Kombat 3 Plus (Beta 2)</name>
+	<setname>umk3p</setname>
+	<rbf>RetroArch</rbf>
+	<year>2022</year>
+	<manufacturer>hack</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set umk3p. ROM archive: games/mame2003plus/umk3p.zip. -->
+</misterromdescription>

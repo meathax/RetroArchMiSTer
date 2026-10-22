@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Monster Slider (Japan)</name>
+	<setname>mslider</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Visco / Datt Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mslider. ROM archive: games/mame2003plus/mslider.zip. -->
+</misterromdescription>

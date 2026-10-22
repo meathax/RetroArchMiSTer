@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Fever High Splitter (set 2)</name>
+	<setname>highspla</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set highspla. ROM archive: games/mame2003plus/highspla.zip. -->
+</misterromdescription>

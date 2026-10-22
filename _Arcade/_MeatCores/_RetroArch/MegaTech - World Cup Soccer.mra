@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>MegaTech - World Cup Soccer</name>
+	<setname>mt_wcsoc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mt_wcsoc. ROM archive: games/mame2003plus/mt_wcsoc.zip. -->
+</misterromdescription>

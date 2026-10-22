@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Virtua Bowling (World, V101XCM )</name>
+	<setname>vbowl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Alta / IGS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vbowl. ROM archive: games/mame2003plus/vbowl.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Big Karnak</name>
+	<setname>bigkarnk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Gaelco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bigkarnk. ROM archive: games/mame2003plus/bigkarnk.zip. -->
+</misterromdescription>

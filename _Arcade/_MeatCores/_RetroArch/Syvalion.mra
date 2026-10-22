@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Syvalion (Japan)</name>
+	<setname>syvalion</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set syvalion. ROM archive: games/mame2003plus/syvalion.zip. -->
+</misterromdescription>

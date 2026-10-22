@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Street Fighter II: The Tournament Battle (World 931119)</name>
+	<setname>ssf2tb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssf2tb. ROM archive: games/mame2003plus/ssf2tb.zip. -->
+</misterromdescription>

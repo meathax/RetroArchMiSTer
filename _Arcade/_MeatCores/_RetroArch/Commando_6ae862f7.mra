@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Commando (Sega)</name>
+	<setname>commsega</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set commsega. ROM archive: games/mame2003plus/commsega.zip. -->
+</misterromdescription>

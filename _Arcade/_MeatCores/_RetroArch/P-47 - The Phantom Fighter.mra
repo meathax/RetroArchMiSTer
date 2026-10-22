@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>P-47 - The Phantom Fighter (World)</name>
+	<setname>p47</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set p47. ROM archive: games/mame2003plus/p47.zip. -->
+</misterromdescription>

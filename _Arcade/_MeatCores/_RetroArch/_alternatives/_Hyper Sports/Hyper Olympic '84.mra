@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hyper Olympic '84</name>
+	<setname>hpolym84</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hpolym84. ROM archive: games/mame2003plus/hpolym84.zip. -->
+</misterromdescription>

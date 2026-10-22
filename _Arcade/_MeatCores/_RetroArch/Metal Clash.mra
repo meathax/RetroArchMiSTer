@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Metal Clash (Japan)</name>
+	<setname>metlclsh</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Data East</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set metlclsh. ROM archive: games/mame2003plus/metlclsh.zip. -->
+</misterromdescription>

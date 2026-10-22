@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Diet Go Go (USA v1.1)</name>
+	<setname>dietgou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dietgou. ROM archive: games/mame2003plus/dietgou.zip. -->
+</misterromdescription>

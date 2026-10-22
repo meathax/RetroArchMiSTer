@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>No Man's Land</name>
+	<setname>nomnlnd</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Universal</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nomnlnd. ROM archive: games/mame2003plus/nomnlnd.zip. -->
+</misterromdescription>

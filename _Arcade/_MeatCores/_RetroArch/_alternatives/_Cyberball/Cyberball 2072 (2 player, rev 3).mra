@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cyberball 2072 (2 player, rev 3)</name>
+	<setname>cyberb23</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cyberb23. ROM archive: games/mame2003plus/cyberb23.zip. -->
+</misterromdescription>

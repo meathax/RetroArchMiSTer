@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Puzzle Fighter II Turbo (USA 960620)</name>
+	<setname>spf2tu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spf2tu. ROM archive: games/mame2003plus/spf2tu.zip. -->
+</misterromdescription>

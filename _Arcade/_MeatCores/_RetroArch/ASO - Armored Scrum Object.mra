@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>ASO - Armored Scrum Object</name>
+	<setname>aso</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aso. ROM archive: games/mame2003plus/aso.zip. -->
+</misterromdescription>

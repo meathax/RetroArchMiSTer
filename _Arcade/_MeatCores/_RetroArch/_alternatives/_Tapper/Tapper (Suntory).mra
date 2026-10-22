@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tapper (Suntory)</name>
+	<setname>sutapper</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sutapper. ROM archive: games/mame2003plus/sutapper.zip. -->
+</misterromdescription>

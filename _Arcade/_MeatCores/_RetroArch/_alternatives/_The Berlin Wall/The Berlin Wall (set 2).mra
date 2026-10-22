@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Berlin Wall (set 2)</name>
+	<setname>berlwalt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set berlwalt. ROM archive: games/mame2003plus/berlwalt.zip. -->
+</misterromdescription>

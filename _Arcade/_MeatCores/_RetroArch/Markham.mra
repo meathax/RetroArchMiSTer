@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Markham</name>
+	<setname>markham</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Sun Electronics</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set markham. ROM archive: games/mame2003plus/markham.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marvel Super Heroes (Brazil 951024)</name>
+	<setname>mshbr1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mshbr1. ROM archive: games/mame2003plus/mshbr1.zip. -->
+</misterromdescription>

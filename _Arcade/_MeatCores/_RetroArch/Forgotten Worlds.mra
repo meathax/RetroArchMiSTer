@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Forgotten Worlds (US)</name>
+	<setname>forgottn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set forgottn. ROM archive: games/mame2003plus/forgottn.zip. -->
+</misterromdescription>

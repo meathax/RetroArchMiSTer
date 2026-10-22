@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Art of Fighting / Ryuuko no Ken</name>
+	<setname>aof</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aof. ROM archive: games/mame2003plus/aof.zip. -->
+</misterromdescription>

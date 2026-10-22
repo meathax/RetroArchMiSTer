@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Toki (US)</name>
+	<setname>tokiu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Tad (Fabtek license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tokiu. ROM archive: games/mame2003plus/tokiu.zip. -->
+</misterromdescription>

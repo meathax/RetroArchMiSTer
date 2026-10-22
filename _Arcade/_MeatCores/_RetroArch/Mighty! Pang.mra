@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mighty! Pang (Euro 001010)</name>
+	<setname>mpang</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Mitchell (Capcom license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mpang. ROM archive: games/mame2003plus/mpang.zip. -->
+</misterromdescription>

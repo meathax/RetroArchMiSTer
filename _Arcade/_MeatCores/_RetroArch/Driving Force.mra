@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Driving Force (Pac-Man conversion)</name>
+	<setname>drivfrcp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Shinkai Inc. (Magic Eletronics Inc. licence)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set drivfrcp. ROM archive: games/mame2003plus/drivfrcp.zip. -->
+</misterromdescription>

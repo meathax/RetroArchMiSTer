@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Drag Race</name>
+	<setname>dragrace</setname>
+	<rbf>RetroArch</rbf>
+	<year>1977</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dragrace. ROM archive: games/mame2003plus/dragrace.zip. -->
+</misterromdescription>

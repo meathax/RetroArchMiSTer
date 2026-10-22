@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Big Striker (bootleg)</name>
+	<setname>bigstrkb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bigstrkb. ROM archive: games/mame2003plus/bigstrkb.zip. -->
+</misterromdescription>

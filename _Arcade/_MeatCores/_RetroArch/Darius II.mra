@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Darius II (Japan)</name>
+	<setname>darius2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set darius2. ROM archive: games/mame2003plus/darius2.zip. -->
+</misterromdescription>

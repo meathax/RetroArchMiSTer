@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Arkanoid (US, older)</name>
+	<setname>arknoiuo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set arknoiuo. ROM archive: games/mame2003plus/arknoiuo.zip. -->
+</misterromdescription>

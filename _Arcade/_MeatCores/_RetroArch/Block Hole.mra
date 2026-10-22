@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Block Hole</name>
+	<setname>blockhl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set blockhl. ROM archive: games/mame2003plus/blockhl.zip. -->
+</misterromdescription>

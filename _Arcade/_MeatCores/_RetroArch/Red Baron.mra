@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Red Baron</name>
+	<setname>redbaron</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set redbaron. ROM archive: games/mame2003plus/redbaron.zip. -->
+</misterromdescription>

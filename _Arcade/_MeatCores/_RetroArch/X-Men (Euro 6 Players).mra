@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>X-Men (Euro 6 Players)</name>
+	<setname>xmen6p</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set xmen6p. ROM archive: games/mame2003plus/xmen6p.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mania Challenge (set 1)</name>
+	<setname>maniach</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Technos (Taito America license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set maniach. ROM archive: games/mame2003plus/maniach.zip. -->
+</misterromdescription>

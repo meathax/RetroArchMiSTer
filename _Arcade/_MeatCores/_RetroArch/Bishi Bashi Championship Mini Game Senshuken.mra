@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)</name>
+	<setname>bishi</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bishi. ROM archive: games/mame2003plus/bishi.zip. -->
+</misterromdescription>

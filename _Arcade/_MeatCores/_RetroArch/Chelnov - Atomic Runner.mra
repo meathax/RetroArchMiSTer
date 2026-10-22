@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chelnov - Atomic Runner (World)</name>
+	<setname>chelnov</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chelnov. ROM archive: games/mame2003plus/chelnov.zip. -->
+</misterromdescription>

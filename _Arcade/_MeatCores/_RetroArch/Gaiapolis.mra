@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gaiapolis (Japan ver JAF)</name>
+	<setname>gaiapols</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gaiapols. ROM archive: games/mame2003plus/gaiapols.zip. -->
+</misterromdescription>

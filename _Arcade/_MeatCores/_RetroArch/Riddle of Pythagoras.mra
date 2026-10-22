@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Riddle of Pythagoras (Japan)</name>
+	<setname>ridleofp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Sega / Nasco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ridleofp. ROM archive: games/mame2003plus/ridleofp.zip. -->
+</misterromdescription>

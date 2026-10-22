@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Batsugun</name>
+	<setname>batsugun</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set batsugun. ROM archive: games/mame2003plus/batsugun.zip. -->
+</misterromdescription>

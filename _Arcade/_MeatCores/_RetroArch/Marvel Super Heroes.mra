@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Marvel Super Heroes (Euro 951024)</name>
+	<setname>msh</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set msh. ROM archive: games/mame2003plus/msh.zip. -->
+</misterromdescription>

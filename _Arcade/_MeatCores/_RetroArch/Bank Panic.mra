@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bank Panic</name>
+	<setname>bankp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>[Sanritsu] Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bankp. ROM archive: games/mame2003plus/bankp.zip. -->
+</misterromdescription>

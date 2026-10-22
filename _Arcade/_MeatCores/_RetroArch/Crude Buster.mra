@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Crude Buster (World FX version)</name>
+	<setname>cbuster</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cbuster. ROM archive: games/mame2003plus/cbuster.zip. -->
+</misterromdescription>

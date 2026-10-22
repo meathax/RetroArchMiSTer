@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gradius II - GOFER no Yabou (Japan Older Ver.)</name>
+	<setname>grdius2b</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set grdius2b. ROM archive: games/mame2003plus/grdius2b.zip. -->
+</misterromdescription>

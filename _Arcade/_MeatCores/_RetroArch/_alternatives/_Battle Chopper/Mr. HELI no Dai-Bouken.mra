@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mr. HELI no Dai-Bouken</name>
+	<setname>mrheli</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mrheli. ROM archive: games/mame2003plus/mrheli.zip. -->
+</misterromdescription>

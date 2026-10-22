@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Capcom World 2 (Japan 920611)</name>
+	<setname>cworld2j</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cworld2j. ROM archive: games/mame2003plus/cworld2j.zip. -->
+</misterromdescription>

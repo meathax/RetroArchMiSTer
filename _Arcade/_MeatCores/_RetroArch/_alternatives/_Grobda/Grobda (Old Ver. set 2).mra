@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Grobda (Old Ver. set 2)</name>
+	<setname>grobda3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set grobda3. ROM archive: games/mame2003plus/grobda3.zip. -->
+</misterromdescription>

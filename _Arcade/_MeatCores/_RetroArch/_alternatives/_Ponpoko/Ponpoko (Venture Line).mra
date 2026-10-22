@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ponpoko (Venture Line)</name>
+	<setname>ponpokov</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Sigma Enterprises Inc. (Venture Line license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ponpokov. ROM archive: games/mame2003plus/ponpokov.zip. -->
+</misterromdescription>

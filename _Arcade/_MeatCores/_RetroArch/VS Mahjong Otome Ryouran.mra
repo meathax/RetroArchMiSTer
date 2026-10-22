@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>VS Mahjong Otome Ryouran</name>
+	<setname>ryouran</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Electro Design</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ryouran. ROM archive: games/mame2003plus/ryouran.zip. -->
+</misterromdescription>

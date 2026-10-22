@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dungeons &amp; Dragons: Shadow over Mystara (USA 960209)</name>
+	<setname>ddsomur1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ddsomur1. ROM archive: games/mame2003plus/ddsomur1.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 1)</name>
+	<setname>lastblad</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set lastblad. ROM archive: games/mame2003plus/lastblad.zip. -->
+</misterromdescription>

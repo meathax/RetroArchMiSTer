@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Big Bucks</name>
+	<setname>bigbucks</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Dynasoft Inc.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bigbucks. ROM archive: games/mame2003plus/bigbucks.zip. -->
+</misterromdescription>

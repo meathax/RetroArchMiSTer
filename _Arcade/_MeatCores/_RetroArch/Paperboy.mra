@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Paperboy (rev 3)</name>
+	<setname>paperboy</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set paperboy. ROM archive: games/mame2003plus/paperboy.zip. -->
+</misterromdescription>

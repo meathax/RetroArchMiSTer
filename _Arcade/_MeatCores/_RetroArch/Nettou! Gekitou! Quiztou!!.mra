@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nettou! Gekitou! Quiztou!! (Japan)</name>
+	<setname>quiztou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set quiztou. ROM archive: games/mame2003plus/quiztou.zip. -->
+</misterromdescription>

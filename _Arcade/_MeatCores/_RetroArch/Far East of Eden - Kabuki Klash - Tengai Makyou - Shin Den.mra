@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den</name>
+	<setname>kabukikl</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Hudson</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kabukikl. ROM archive: games/mame2003plus/kabukikl.zip. -->
+</misterromdescription>

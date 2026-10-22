@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shark Attack</name>
+	<setname>sharkatt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Pacific Novelty</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sharkatt. ROM archive: games/mame2003plus/sharkatt.zip. -->
+</misterromdescription>

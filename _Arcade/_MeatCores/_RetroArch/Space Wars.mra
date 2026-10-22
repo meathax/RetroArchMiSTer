@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Wars</name>
+	<setname>spacewar</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set spacewar. ROM archive: games/mame2003plus/spacewar.zip. -->
+</misterromdescription>

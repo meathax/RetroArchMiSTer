@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pretty Soldier Sailor Moon (95-03-22)</name>
+	<setname>sailormo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Banpresto</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sailormo. ROM archive: games/mame2003plus/sailormo.zip. -->
+</misterromdescription>

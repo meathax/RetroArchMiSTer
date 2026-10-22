@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ironman Stewart's Super Off-Road</name>
+	<setname>offroad</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Leland Corp.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set offroad. ROM archive: games/mame2003plus/offroad.zip. -->
+</misterromdescription>

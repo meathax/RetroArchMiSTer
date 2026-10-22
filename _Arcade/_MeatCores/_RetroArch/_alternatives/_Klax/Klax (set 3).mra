@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Klax (set 3)</name>
+	<setname>klax3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set klax3. ROM archive: games/mame2003plus/klax3.zip. -->
+</misterromdescription>

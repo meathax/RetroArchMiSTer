@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Power Drive</name>
+	<setname>powerdrv</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set powerdrv. ROM archive: games/mame2003plus/powerdrv.zip. -->
+</misterromdescription>

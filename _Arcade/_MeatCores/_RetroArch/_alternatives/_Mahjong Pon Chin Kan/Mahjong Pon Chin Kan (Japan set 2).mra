@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Pon Chin Kan (Japan set 2)</name>
+	<setname>ponchina</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Visco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ponchina. ROM archive: games/mame2003plus/ponchina.zip. -->
+</misterromdescription>

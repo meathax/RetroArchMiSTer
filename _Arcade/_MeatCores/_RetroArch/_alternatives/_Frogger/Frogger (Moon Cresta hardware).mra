@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Frogger (Moon Cresta hardware)</name>
+	<setname>froggrmc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>bootleg?</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set froggrmc. ROM archive: games/mame2003plus/froggrmc.zip. -->
+</misterromdescription>

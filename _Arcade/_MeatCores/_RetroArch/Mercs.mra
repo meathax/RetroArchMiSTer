@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mercs (World 900302)</name>
+	<setname>mercs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mercs. ROM archive: games/mame2003plus/mercs.zip. -->
+</misterromdescription>

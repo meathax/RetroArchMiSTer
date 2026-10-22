@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Daimakaimura - Knight Artoria Edition (Japan)</name>
+	<setname>daimakaiknight</setname>
+	<rbf>RetroArch</rbf>
+	<year>2026</year>
+	<manufacturer>hack (GoodLuckTrying)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set daimakaiknight. ROM archive: games/mame2003plus/daimakaiknight.zip. -->
+</misterromdescription>

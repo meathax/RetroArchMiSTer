@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Snow Bros. - Nick &amp; Tom (set 3)</name>
+	<setname>snowbrob</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set snowbrob. ROM archive: games/mame2003plus/snowbrob.zip. -->
+</misterromdescription>

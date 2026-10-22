@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Invasion (Sidam)</name>
+	<setname>invasion</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Sidam</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set invasion. ROM archive: games/mame2003plus/invasion.zip. -->
+</misterromdescription>

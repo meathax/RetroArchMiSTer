@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chiller (version 3.0)</name>
+	<setname>chiller</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chiller. ROM archive: games/mame2003plus/chiller.zip. -->
+</misterromdescription>

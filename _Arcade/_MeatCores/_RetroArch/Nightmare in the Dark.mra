@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nightmare in the Dark</name>
+	<setname>nitd</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Eleven / Gavaking</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nitd. ROM archive: games/mame2003plus/nitd.zip. -->
+</misterromdescription>

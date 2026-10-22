@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Outline</name>
+	<setname>outline</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Century Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set outline. ROM archive: games/mame2003plus/outline.zip. -->
+</misterromdescription>

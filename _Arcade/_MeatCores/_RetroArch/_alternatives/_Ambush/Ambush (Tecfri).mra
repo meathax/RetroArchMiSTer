@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ambush (Tecfri)</name>
+	<setname>ambusht</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Tecfri</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ambusht. ROM archive: games/mame2003plus/ambusht.zip. -->
+</misterromdescription>

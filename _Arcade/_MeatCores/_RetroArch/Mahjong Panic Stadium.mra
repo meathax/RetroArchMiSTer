@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Panic Stadium (Japan)</name>
+	<setname>pstadium</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pstadium. ROM archive: games/mame2003plus/pstadium.zip. -->
+</misterromdescription>

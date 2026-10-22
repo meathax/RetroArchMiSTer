@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sai Yu Gou Ma Roku (Japan)</name>
+	<setname>saiyugou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set saiyugou. ROM archive: games/mame2003plus/saiyugou.zip. -->
+</misterromdescription>

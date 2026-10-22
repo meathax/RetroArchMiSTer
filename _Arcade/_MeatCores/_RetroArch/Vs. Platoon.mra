@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Vs. Platoon</name>
+	<setname>platoon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Ocean Software Limited</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set platoon. ROM archive: games/mame2003plus/platoon.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tetris the Absolute The Grand Master 2</name>
+	<setname>tgm2</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Arika</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tgm2. ROM archive: games/mame2003plus/tgm2.zip. -->
+</misterromdescription>

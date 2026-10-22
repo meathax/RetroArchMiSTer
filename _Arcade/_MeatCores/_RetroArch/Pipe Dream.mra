@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pipe Dream (US)</name>
+	<setname>pipedrm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Video System Co.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pipedrm. ROM archive: games/mame2003plus/pipedrm.zip. -->
+</misterromdescription>

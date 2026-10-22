@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bio Attack</name>
+	<setname>bioatack</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Taito Corporation (Fox Video Games license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bioatack. ROM archive: games/mame2003plus/bioatack.zip. -->
+</misterromdescription>

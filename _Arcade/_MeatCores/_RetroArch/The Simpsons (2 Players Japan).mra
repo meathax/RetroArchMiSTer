@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Simpsons (2 Players Japan)</name>
+	<setname>simps2pj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set simps2pj. ROM archive: games/mame2003plus/simps2pj.zip. -->
+</misterromdescription>

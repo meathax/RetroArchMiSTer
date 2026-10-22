@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mighty! Pang (USA 001010)</name>
+	<setname>mpangu</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Mitchell (Capcom license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mpangu. ROM archive: games/mame2003plus/mpangu.zip. -->
+</misterromdescription>

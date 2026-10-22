@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hebereke no Popoon (Japan)</name>
+	<setname>heberpop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Sunsoft / Atlus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set heberpop. ROM archive: games/mame2003plus/heberpop.zip. -->
+</misterromdescription>

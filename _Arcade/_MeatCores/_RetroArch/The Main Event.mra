@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Main Event (4 Players ver. Y)</name>
+	<setname>mainevt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mainevt. ROM archive: games/mame2003plus/mainevt.zip. -->
+</misterromdescription>

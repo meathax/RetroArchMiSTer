@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Motos</name>
+	<setname>motos</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set motos. ROM archive: games/mame2003plus/motos.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The NewZealand Story (World, old version) (P0-041A PCB)</name>
+	<setname>tnzs2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tnzs2. ROM archive: games/mame2003plus/tnzs2.zip. -->
+</misterromdescription>

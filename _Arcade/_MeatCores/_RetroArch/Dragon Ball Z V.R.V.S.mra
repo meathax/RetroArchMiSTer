@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dragon Ball Z V.R.V.S.</name>
+	<setname>dbzvrvs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Sega / Banpresto</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dbzvrvs. ROM archive: games/mame2003plus/dbzvrvs.zip. -->
+</misterromdescription>

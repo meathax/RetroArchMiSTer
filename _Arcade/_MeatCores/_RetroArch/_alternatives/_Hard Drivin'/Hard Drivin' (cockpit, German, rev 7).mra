@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hard Drivin' (cockpit, German, rev 7)</name>
+	<setname>harddrvg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set harddrvg. ROM archive: games/mame2003plus/harddrvg.zip. -->
+</misterromdescription>

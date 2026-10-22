@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Blood Storm (v2.22)</name>
+	<setname>bloodstm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Strata/Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bloodstm. ROM archive: games/mame2003plus/bloodstm.zip. -->
+</misterromdescription>

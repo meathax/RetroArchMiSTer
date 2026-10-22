@@ -1,0 +1,283 @@
+{
+  "schema": 1,
+  "status": "PASS_COPY_AUDIT",
+  "retroforge_manifest_sha256": "1d7730829cb2cf73075b6c5f98ac33b3275a12a15f59019e507213e2cdd3956c",
+  "frontend_source_snapshot": {
+    "launcher/custom_main/build.sh": "b93df0c6fa9615499651cb430125c87a9fb2d2f5057a35be2511d61a537a27c8",
+    "launcher/custom_main/frontier_display_page.cpp": "017353621d05b22267d0098960a1de88ba642fac9dd203733d166746654543cf",
+    "launcher/custom_main/frontier_display_page.h": "c311a8fcc56788884f39c8d36cc2933cb0ef6a20ccfd1c5fc545356ae81ab910",
+    "launcher/custom_main/menu_frontier_patch.py": "ae94d3113dd144778f9f062644485a8b1527b1fcee817d68faee9a0c351a6d89",
+    "launcher/custom_main/retroarch_main.cpp": "bf387e31634c173143e2c88ec3b6e5f8ae66dd39f897dab6b673b28fdc392add",
+    "launcher/custom_main/retroforge_main.cpp": "e3cc3c45e77d119735ae834bdabc4572a7fff9b291d13fee61939be2a18c17a1",
+    "retroforge/examples/mame2003master.txt": "b980480fcaeb2fb88adad24ceeaaddb3c5a232850c7c17b4d134f136c481a320",
+    "retroforge/examples/mame2003speed.tsv": "c272ef34f62a1872db497454f9dc76a874b8c11e03a7e4d87dd1577a8e138108",
+    "retroforge/fpga/sources.lock.json": "06808729f2a03b0e88b730bc8f889476d987ebf61a49ecd3855db3ba9940895a",
+    "retroforge/runtime/Makefile": "c1a4fb6d8700617b840a00bbd0861fe8e1151e2a23a119071c13426c9cc575bb",
+    "retroforge/runtime/game_inventory.h": "4b87191f5712db38dc0d0bb0054fb587a869a88aeff7d737236e86745f94c4f2",
+    "retroforge/runtime/library_refresh.h": "50f38455a4f92f41bc3a818ef86ca0a04821cef059bbd2e3ad22a0228c3227f3",
+    "retroforge/runtime/mame2003plus.cpp": "101bb31f03ca4f9e452180218cc789056b8d45c75c2625eda1e6498d26fc1218",
+    "retroforge/runtime/snap_audio.h": "071093e41530ccfe2841c8c3a4e52329c48feb28c5689b47d48de13e9d9c2911",
+    "retroforge/runtime/third_party/pl_mpeg.h": "3a8cb30c83c2a1147719c30fe0c8b93da2987aa43140077c575b39aaa75fc2c9",
+    "retroforge/runtime/third_party/yxml/yxml.c": "1ddc469dc3aeab966b8aa984130b82e7ef619b28a3ffe90a0cce3d201dba58ac",
+    "retroforge/runtime/third_party/yxml/yxml.h": "d885e6aed4e3870f06720f5b5ccd9dc3eab4c7e331b4ddb5e4a09706b09d5d52",
+    "retroforge/runtime/version_prompt.h": "733b3b062bbf6700c256d32ae7f44de43c113090ea488d8593af1da9d67ced38",
+    "retroforge/runtime/video_install.h": "948b387549bb50a887c0f6e3503e7103a2a48ed4e76afb4306028e9756dfb6bf",
+    "retroforge/runtime/video_pack_names.h": "4b45dfff458f59049ed5dc7103b22e53be445ee570d8923bc8ef60d0d434a188",
+    "runtime/games/RetroArch/_handler.sh": "6caaba4e27e82a588a24994a1596f4954ac6ee86c5d52427ae5b827a82faee95",
+    "runtime/games/RetroArch/launch_payload.sh": "cf1737a69cb79d74e1de05ab9fe23faa99a1f898428b96cd0c30e2c869a6d17c",
+    "runtime/games/RetroArch/migrate_frontend.sh": "c0d3732233199a60248e621602491fe0fefc606420520a44b4c01da97411872e",
+    "runtime/games/RetroArch/restore_defaults.sh": "76f74b5d0e4171f2f7945c94243d96daa792f6ed94b0e5dc26b41974f60e0c4e",
+    "tools/build_retroforge_main.py": "ae5a3f5cf21af68be0f577cf6140245784533c1aa2062b4032c397f09f17a878",
+    "tools/prepare_retroforge_fpga.py": "08e456068aa879f499da9fc5b10129b51a06b168c6e5f310bbb4afb30b6135b9"
+  },
+  "step24_release_qualified": false,
+  "stock_mister_main_packaged": false,
+  "roms_packaged": false,
+  "files": [
+    {
+      "path": "Mister_RetroArch",
+      "sha256": "88fff84ae0a2217545689f3d96842f4bee7cf9cbc4cd8b707640178f58651365",
+      "bytes": 2208372
+    },
+    {
+      "path": "Mister_RetroForge",
+      "sha256": "378e986e235688793baa8d3ef9f0da92b35260454410dd88d2f26d5499badc3a",
+      "bytes": 1982880
+    },
+    {
+      "path": "Scripts/Install_RetroArch.sh",
+      "sha256": "fcfd61258cd247979b445296df958859c06e63085db93f167f0fafd9385caf25",
+      "bytes": 13678
+    },
+    {
+      "path": "_Arcade/_MeatCores/_RetroArch/Final Fight.mra",
+      "sha256": "d1f6f5feae5e4710d9f4773551c2437d9c69725f7531684e667873a1c8826919",
+      "bytes": 505
+    },
+    {
+      "path": "_Arcade/cores/RetroArch.rbf",
+      "sha256": "5b43ce5c4501ac0a6ca94deb75238863ef59e1df363b507d791a2f4ad851e173",
+      "bytes": 3354492
+    },
+    {
+      "path": "_Other/RetroArch.rbf",
+      "sha256": "5b43ce5c4501ac0a6ca94deb75238863ef59e1df363b507d791a2f4ad851e173",
+      "bytes": 3354492
+    },
+    {
+      "path": "_Other/RetroForge.rbf",
+      "sha256": "f2cd630f300e0aee34d5aedb6d4a17f8af01d7a04654c958307d24ee509f40b1",
+      "bytes": 2486600
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003master.txt",
+      "sha256": "b980480fcaeb2fb88adad24ceeaaddb3c5a232850c7c17b4d134f136c481a320",
+      "bytes": 297417
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003not.ini",
+      "sha256": "e1b4e56980bed505636e774beeb9991bde6b3c461c6b37edb265fb7b4a3bb9d0",
+      "bytes": 83879
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003paywall.ini",
+      "sha256": "7bd65aa66b7d943000b5a9a0ed73f3d537399dc2dfc84f6029ffa48612cd473c",
+      "bytes": 574
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003plus_crt_15k.ini",
+      "sha256": "ed5741c45f594f49d69b94f4154cfe2d47b9617f787ddfc0d94cef18f555fe4d",
+      "bytes": 253
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003plus_crt_15k_directvideo.ini",
+      "sha256": "4ffc9fa974eaa30863b30595ad64d0fab6ba3e9b19ce7bb354551dd78d773531",
+      "bytes": 273
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003plus_crt_15k_pal.ini",
+      "sha256": "00a917c3b9e1367d5ba5b5af1a18d99e27a4043925d9e237eaef0c2e88a1a5c1",
+      "bytes": 252
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003plus_crt_31k.ini",
+      "sha256": "772dae3217659383dc50e738a983c391b08b9d6246a783a9f295649c1f4bd46c",
+      "bytes": 231
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003plus_crt_setup.txt",
+      "sha256": "86ce4c9976a006d9cd5bfb39acf22da3886dfbbf29f1cd461776199e98e5574a",
+      "bytes": 1272
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003rommap.tsv",
+      "sha256": "fa34edcf81dc3bdcd2833e6ba7f3a62cea0ae0f74cb4001ee3fd9e21a0d8a2c1",
+      "bytes": 230187
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003speed.tsv",
+      "sha256": "c272ef34f62a1872db497454f9dc76a874b8c11e03a7e4d87dd1577a8e138108",
+      "bytes": 68825
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/mame2003years.tsv",
+      "sha256": "df4b28cd7fb3548ada34fc3283696ca58089af4fee4b4f3b7b7683e0882ee67e",
+      "bytes": 62686
+    },
+    {
+      "path": "games/RetroArch/.mamefrontend/retroforge",
+      "sha256": "1b522d029a5d587e81f34ecf078e85c9d79a849b0b8a384f74585ba5d5b0bb67",
+      "bytes": 998944
+    },
+    {
+      "path": "games/RetroArch/.payload/Mister_RetroArch.elf",
+      "sha256": "88fff84ae0a2217545689f3d96842f4bee7cf9cbc4cd8b707640178f58651365",
+      "bytes": 2208372
+    },
+    {
+      "path": "games/RetroArch/.payload/Mister_RetroForge.elf",
+      "sha256": "378e986e235688793baa8d3ef9f0da92b35260454410dd88d2f26d5499badc3a",
+      "bytes": 1982880
+    },
+    {
+      "path": "games/RetroArch/.payload/RetroArch.elf",
+      "sha256": "a240eb8d573852ab70dea750885bdc0ad82302d2b1ce419e2297e24dfbb7d76a",
+      "bytes": 2893192
+    },
+    {
+      "path": "games/RetroArch/.payload/retroforge.elf",
+      "sha256": "1b522d029a5d587e81f34ecf078e85c9d79a849b0b8a384f74585ba5d5b0bb67",
+      "bytes": 998944
+    },
+    {
+      "path": "games/RetroArch/RetroArch",
+      "sha256": "a240eb8d573852ab70dea750885bdc0ad82302d2b1ce419e2297e24dfbb7d76a",
+      "bytes": 2893192
+    },
+    {
+      "path": "games/RetroArch/_handler.sh",
+      "sha256": "6caaba4e27e82a588a24994a1596f4954ac6ee86c5d52427ae5b827a82faee95",
+      "bytes": 9202
+    },
+    {
+      "path": "games/RetroArch/config/MAME 2003-Plus/MAME 2003-Plus.opt",
+      "sha256": "b88106542e3e380795d0e65bef4ec8e983de284569575957f51b28933c611450",
+      "bytes": 324
+    },
+    {
+      "path": "games/RetroArch/config/frontier/osd_dosbox_pure.map",
+      "sha256": "836fc3992d809e7e93740d97afb59fa904c53eb90b62179672a56141f5897601",
+      "bytes": 2909
+    },
+    {
+      "path": "games/RetroArch/config/frontier/osd_mame2003plus.map",
+      "sha256": "c0e7105777614c8f1e5a3fab16f375f6e5ca5a5e241854e3ebfc799d4384f6b1",
+      "bytes": 2985
+    },
+    {
+      "path": "games/RetroArch/config/remaps/MAME 2003-Plus/MAME 2003-Plus.rmp",
+      "sha256": "711b295237ca6f056272702762de1a380b2d1a0b8969ab75d37985267e06903a",
+      "bytes": 140
+    },
+    {
+      "path": "games/RetroArch/config/remaps/MAME 2003-Plus/ffight.rmp",
+      "sha256": "711b295237ca6f056272702762de1a380b2d1a0b8969ab75d37985267e06903a",
+      "bytes": 140
+    },
+    {
+      "path": "games/RetroArch/cores/mame2003_plus_libretro.so",
+      "sha256": "e18525af5ad948045a97a62820204e3914b5c3d020492ef8dc2ae783abc5d481",
+      "bytes": 36669344
+    },
+    {
+      "path": "games/RetroArch/frontier_layout_transaction.sh",
+      "sha256": "1406fc0fb583daab7910fc0fe7bad5961e52a6de91fd4bee178da8b186deb1a9",
+      "bytes": 14094
+    },
+    {
+      "path": "games/RetroArch/generated-mras.sha256",
+      "sha256": "4c40a6877e8b365c91da0bb79452d9f83ca1589a3a926fa642735e0dfe21084c",
+      "bytes": 112
+    },
+    {
+      "path": "games/RetroArch/info/mame2003_plus_libretro.info",
+      "sha256": "e873331c12ac650066902d7680e2033dd3dabbf9a6c01cad0416017a9c728713",
+      "bytes": 635
+    },
+    {
+      "path": "games/RetroArch/launch_payload.sh",
+      "sha256": "cf1737a69cb79d74e1de05ab9fe23faa99a1f898428b96cd0c30e2c869a6d17c",
+      "bytes": 19401
+    },
+    {
+      "path": "games/RetroArch/migrate_frontend.sh",
+      "sha256": "c0d3732233199a60248e621602491fe0fefc606420520a44b4c01da97411872e",
+      "bytes": 3413
+    },
+    {
+      "path": "games/RetroArch/osd_options_hook.sh",
+      "sha256": "ef1382028b9a5af2b7ca703612da9bff20739f45c961d83aad56ef9bc0125c54",
+      "bytes": 2646
+    },
+    {
+      "path": "games/RetroArch/osd_options_tool",
+      "sha256": "5f90f322e388f227ba8817ec70277a0ba1c56177c9f561f670bbf95324848b10",
+      "bytes": 1213788
+    },
+    {
+      "path": "games/RetroArch/qualified_titles.txt",
+      "sha256": "e5aa91a0e08d60753c4df75d5e1d3a7c14bf57b15c674fc550838bb95a6b0ea0",
+      "bytes": 1035
+    },
+    {
+      "path": "games/RetroArch/reset_game_settings.sh",
+      "sha256": "80a695b606b3b56ac790a1b620999cd545e1e3ed2f23e48b370f70889885e829",
+      "bytes": 3905
+    },
+    {
+      "path": "games/RetroArch/restore_defaults.sh",
+      "sha256": "76f74b5d0e4171f2f7945c94243d96daa792f6ed94b0e5dc26b41974f60e0c4e",
+      "bytes": 9754
+    },
+    {
+      "path": "games/RetroArch/retroarch.cfg",
+      "sha256": "552257c94da9c46a007c66a4b6f39fcc1891cba7e911663d5308cb911319613e",
+      "bytes": 9081
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/config/MAME 2003-Plus/MAME 2003-Plus.opt",
+      "sha256": "b88106542e3e380795d0e65bef4ec8e983de284569575957f51b28933c611450",
+      "bytes": 324
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/config/frontier/osd_dosbox_pure.map",
+      "sha256": "836fc3992d809e7e93740d97afb59fa904c53eb90b62179672a56141f5897601",
+      "bytes": 2909
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/config/frontier/osd_mame2003plus.map",
+      "sha256": "c0e7105777614c8f1e5a3fab16f375f6e5ca5a5e241854e3ebfc799d4384f6b1",
+      "bytes": 2985
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/config/remaps/MAME 2003-Plus/MAME 2003-Plus.rmp",
+      "sha256": "711b295237ca6f056272702762de1a380b2d1a0b8969ab75d37985267e06903a",
+      "bytes": 140
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/config/remaps/MAME 2003-Plus/ffight.rmp",
+      "sha256": "711b295237ca6f056272702762de1a380b2d1a0b8969ab75d37985267e06903a",
+      "bytes": 140
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/manifest.sha256",
+      "sha256": "74f4bc7d86a00f04ab60f6b64b12688dd04b1542065c3444b1369872f32ca2d9",
+      "bytes": 612
+    },
+    {
+      "path": "games/RetroArch/settings-defaults/retroarch.cfg",
+      "sha256": "552257c94da9c46a007c66a4b6f39fcc1891cba7e911663d5308cb911319613e",
+      "bytes": 9081
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Moon Cresta (Galaxian hardware)</name>
+	<setname>mooncrgx</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mooncrgx. ROM archive: games/mame2003plus/mooncrgx.zip. -->
+</misterromdescription>

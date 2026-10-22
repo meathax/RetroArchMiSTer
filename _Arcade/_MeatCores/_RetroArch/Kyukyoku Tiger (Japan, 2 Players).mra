@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kyukyoku Tiger (Japan, 2 Players)</name>
+	<setname>ktiger2p</setname>
+	<rbf>RetroArch</rbf>
+	<year>2021</year>
+	<manufacturer>M2 Co Ltd</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ktiger2p. ROM archive: games/mame2003plus/ktiger2p.zip. -->
+</misterromdescription>

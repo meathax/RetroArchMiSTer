@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bang!</name>
+	<setname>bang</setname>
+	<rbf>RetroArch</rbf>
+	<year>1998</year>
+	<manufacturer>Gaelco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bang. ROM archive: games/mame2003plus/bang.zip. -->
+</misterromdescription>

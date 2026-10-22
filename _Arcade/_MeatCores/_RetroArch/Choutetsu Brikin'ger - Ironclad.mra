@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Choutetsu Brikin'ger - Ironclad (Prototype)</name>
+	<setname>ironclad</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Saurus</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ironclad. ROM archive: games/mame2003plus/ironclad.zip. -->
+</misterromdescription>

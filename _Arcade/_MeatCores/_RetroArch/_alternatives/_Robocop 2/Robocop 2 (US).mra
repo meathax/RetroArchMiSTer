@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Robocop 2 (US)</name>
+	<setname>robocp2u</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set robocp2u. ROM archive: games/mame2003plus/robocp2u.zip. -->
+</misterromdescription>

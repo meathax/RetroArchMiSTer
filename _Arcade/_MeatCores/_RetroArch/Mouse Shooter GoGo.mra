@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mouse Shooter GoGo</name>
+	<setname>msgogo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Metro</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set msgogo. ROM archive: games/mame2003plus/msgogo.zip. -->
+</misterromdescription>

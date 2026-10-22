@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Battle Shark (Japan, Joystick)</name>
+	<setname>bsharkjjs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bsharkjjs. ROM archive: games/mame2003plus/bsharkjjs.zip. -->
+</misterromdescription>

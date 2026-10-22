@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ms. Pacman Champion Edition - Super Zola Pac Gal</name>
+	<setname>mschamp</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>hack</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mschamp. ROM archive: games/mame2003plus/mschamp.zip. -->
+</misterromdescription>

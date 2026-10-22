@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Armored Warriors (Asia 941024)</name>
+	<setname>armwara</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set armwara. ROM archive: games/mame2003plus/armwara.zip. -->
+</misterromdescription>

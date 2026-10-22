@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)</name>
+	<setname>prtytime</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Mitchell</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set prtytime. ROM archive: games/mame2003plus/prtytime.zip. -->
+</misterromdescription>

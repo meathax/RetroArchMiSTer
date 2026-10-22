@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hana Oriduru (Japan)</name>
+	<setname>hnoridur</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Dynax</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hnoridur. ROM archive: games/mame2003plus/hnoridur.zip. -->
+</misterromdescription>

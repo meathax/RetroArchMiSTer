@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter II' Turbo - Hyper Fighting (Japan 921209)</name>
+	<setname>sf2tj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sf2tj. ROM archive: games/mame2003plus/sf2tj.zip. -->
+</misterromdescription>

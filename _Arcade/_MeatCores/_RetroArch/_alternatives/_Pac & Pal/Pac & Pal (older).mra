@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pac &amp; Pal (older)</name>
+	<setname>pacnpal2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pacnpal2. ROM archive: games/mame2003plus/pacnpal2.zip. -->
+</misterromdescription>

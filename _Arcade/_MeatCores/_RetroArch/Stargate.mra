@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Stargate</name>
+	<setname>stargate</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Williams</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set stargate. ROM archive: games/mame2003plus/stargate.zip. -->
+</misterromdescription>

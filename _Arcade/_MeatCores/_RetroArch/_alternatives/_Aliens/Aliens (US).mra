@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aliens (US)</name>
+	<setname>aliensu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aliensu. ROM archive: games/mame2003plus/aliensu.zip. -->
+</misterromdescription>

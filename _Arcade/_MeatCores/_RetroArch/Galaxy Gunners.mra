@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Galaxy Gunners</name>
+	<setname>galaxygn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Electronic Devices Italy</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set galaxygn. ROM archive: games/mame2003plus/galaxygn.zip. -->
+</misterromdescription>

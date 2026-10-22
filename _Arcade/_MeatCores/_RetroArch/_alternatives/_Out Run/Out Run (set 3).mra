@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Out Run (set 3)</name>
+	<setname>outrunb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set outrunb. ROM archive: games/mame2003plus/outrunb.zip. -->
+</misterromdescription>

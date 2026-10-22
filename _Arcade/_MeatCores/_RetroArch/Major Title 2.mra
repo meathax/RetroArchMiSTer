@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Major Title 2 (World)</name>
+	<setname>majtitl2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set majtitl2. ROM archive: games/mame2003plus/majtitl2.zip. -->
+</misterromdescription>

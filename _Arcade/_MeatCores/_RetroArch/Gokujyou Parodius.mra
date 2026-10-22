@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gokujyou Parodius (ver JAD)</name>
+	<setname>gokuparo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gokuparo. ROM archive: games/mame2003plus/gokuparo.zip. -->
+</misterromdescription>

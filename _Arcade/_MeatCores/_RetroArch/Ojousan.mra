@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ojousan (Japan 871204)</name>
+	<setname>ojousan</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ojousan. ROM archive: games/mame2003plus/ojousan.zip. -->
+</misterromdescription>

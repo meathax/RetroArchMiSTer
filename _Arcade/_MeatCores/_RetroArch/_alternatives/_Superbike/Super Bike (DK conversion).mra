@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Bike (DK conversion)</name>
+	<setname>sbdk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Century Electronics</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sbdk. ROM archive: games/mame2003plus/sbdk.zip. -->
+</misterromdescription>

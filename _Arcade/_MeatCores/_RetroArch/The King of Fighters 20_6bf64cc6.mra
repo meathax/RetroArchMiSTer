@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The King of Fighters 2003 (World / US, MVS)</name>
+	<setname>kof2003</setname>
+	<rbf>RetroArch</rbf>
+	<year>2003</year>
+	<manufacturer>SNK Playmore</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kof2003. ROM archive: games/mame2003plus/kof2003.zip. -->
+</misterromdescription>

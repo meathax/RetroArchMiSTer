@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Jr. Pac-Man (speedup hack)</name>
+	<setname>jrpacmnf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>hack</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set jrpacmnf. ROM archive: games/mame2003plus/jrpacmnf.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dump Matsumoto (Japan)</name>
+	<setname>dumpmtmt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dumpmtmt. ROM archive: games/mame2003plus/dumpmtmt.zip. -->
+</misterromdescription>

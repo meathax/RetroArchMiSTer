@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cabal (World, Joystick version)</name>
+	<setname>cabal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Tad Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cabal. ROM archive: games/mame2003plus/cabal.zip. -->
+</misterromdescription>

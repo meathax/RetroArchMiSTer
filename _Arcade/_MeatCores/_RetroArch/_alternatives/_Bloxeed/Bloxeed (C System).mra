@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bloxeed (C System)</name>
+	<setname>bloxeedc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega / Elorg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bloxeedc. ROM archive: games/mame2003plus/bloxeedc.zip. -->
+</misterromdescription>

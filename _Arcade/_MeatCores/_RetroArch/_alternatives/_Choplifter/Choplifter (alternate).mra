@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Choplifter (alternate)</name>
+	<setname>chplftb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chplftb. ROM archive: games/mame2003plus/chplftb.zip. -->
+</misterromdescription>

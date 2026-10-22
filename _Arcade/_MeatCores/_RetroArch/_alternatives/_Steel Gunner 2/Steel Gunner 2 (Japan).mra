@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Steel Gunner 2 (Japan)</name>
+	<setname>sgunnr2j</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sgunnr2j. ROM archive: games/mame2003plus/sgunnr2j.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pirate Treasure</name>
+	<setname>piratetr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Tong Electronic</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set piratetr. ROM archive: games/mame2003plus/piratetr.zip. -->
+</misterromdescription>

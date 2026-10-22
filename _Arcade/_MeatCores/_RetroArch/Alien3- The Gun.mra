@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Alien3: The Gun</name>
+	<setname>alien3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set alien3. ROM archive: games/mame2003plus/alien3.zip. -->
+</misterromdescription>

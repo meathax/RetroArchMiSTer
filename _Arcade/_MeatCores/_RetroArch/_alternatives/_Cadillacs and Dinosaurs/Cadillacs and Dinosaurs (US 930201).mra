@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cadillacs and Dinosaurs (US 930201)</name>
+	<setname>dinou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dinou. ROM archive: games/mame2003plus/dinou.zip. -->
+</misterromdescription>

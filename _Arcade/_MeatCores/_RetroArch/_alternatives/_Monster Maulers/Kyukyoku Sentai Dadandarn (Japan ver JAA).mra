@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kyukyoku Sentai Dadandarn (Japan ver JAA)</name>
+	<setname>dadandrn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dadandrn. ROM archive: games/mame2003plus/dadandrn.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cycle Warriors</name>
+	<setname>cyclwarr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Tatsumi</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cyclwarr. ROM archive: games/mame2003plus/cyclwarr.zip. -->
+</misterromdescription>

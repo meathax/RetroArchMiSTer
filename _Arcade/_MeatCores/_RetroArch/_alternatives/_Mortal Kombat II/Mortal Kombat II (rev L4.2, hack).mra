@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mortal Kombat II (rev L4.2, hack)</name>
+	<setname>mk2r42</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>hack</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mk2r42. ROM archive: games/mame2003plus/mk2r42.zip. -->
+</misterromdescription>

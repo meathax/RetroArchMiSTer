@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Golden Axe (set 6, US) (8751 317-123A)</name>
+	<setname>goldnaxa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set goldnaxa. ROM archive: games/mame2003plus/goldnaxa.zip. -->
+</misterromdescription>

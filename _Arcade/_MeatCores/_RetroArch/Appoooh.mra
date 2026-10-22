@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Appoooh</name>
+	<setname>appoooh</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>[Sanritsu] Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set appoooh. ROM archive: games/mame2003plus/appoooh.zip. -->
+</misterromdescription>

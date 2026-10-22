@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nouryoku Koujou Iinkai</name>
+	<setname>nouryoku</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Tecmo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nouryoku. ROM archive: games/mame2003plus/nouryoku.zip. -->
+</misterromdescription>

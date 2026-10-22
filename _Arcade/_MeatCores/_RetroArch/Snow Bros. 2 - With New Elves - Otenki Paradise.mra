@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Snow Bros. 2 - With New Elves - Otenki Paradise</name>
+	<setname>snowbro2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>[Toaplan] Hanafram</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set snowbro2. ROM archive: games/mame2003plus/snowbro2.zip. -->
+</misterromdescription>

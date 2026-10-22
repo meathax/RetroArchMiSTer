@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>King of Boxer (English)</name>
+	<setname>kingofb</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>Woodplace</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kingofb. ROM archive: games/mame2003plus/kingofb.zip. -->
+</misterromdescription>

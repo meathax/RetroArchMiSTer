@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Space Invaders Galactica</name>
+	<setname>galap1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>hack</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set galap1. ROM archive: games/mame2003plus/galap1.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>The Hand</name>
+	<setname>thehand</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>T.I.C.</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set thehand. ROM archive: games/mame2003plus/thehand.zip. -->
+</misterromdescription>

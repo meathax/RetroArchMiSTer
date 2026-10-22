@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aliens (World set 2)</name>
+	<setname>aliens2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aliens2. ROM archive: games/mame2003plus/aliens2.zip. -->
+</misterromdescription>

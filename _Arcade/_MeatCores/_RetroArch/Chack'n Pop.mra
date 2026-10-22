@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Chack'n Pop</name>
+	<setname>chaknpop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set chaknpop. ROM archive: games/mame2003plus/chaknpop.zip. -->
+</misterromdescription>

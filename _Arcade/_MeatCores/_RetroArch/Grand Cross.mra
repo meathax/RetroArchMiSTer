@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Grand Cross</name>
+	<setname>gcpinbal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Excellent System</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gcpinbal. ROM archive: games/mame2003plus/gcpinbal.zip. -->
+</misterromdescription>

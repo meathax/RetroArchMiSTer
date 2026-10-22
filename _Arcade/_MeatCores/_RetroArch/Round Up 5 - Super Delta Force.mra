@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Round Up 5 - Super Delta Force</name>
+	<setname>roundup5</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Tatsumi</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set roundup5. ROM archive: games/mame2003plus/roundup5.zip. -->
+</misterromdescription>

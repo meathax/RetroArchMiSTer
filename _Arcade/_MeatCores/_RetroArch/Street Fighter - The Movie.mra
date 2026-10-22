@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Street Fighter - The Movie (v1.12)</name>
+	<setname>sftm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Capcom/Incredible Technologies</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sftm. ROM archive: games/mame2003plus/sftm.zip. -->
+</misterromdescription>

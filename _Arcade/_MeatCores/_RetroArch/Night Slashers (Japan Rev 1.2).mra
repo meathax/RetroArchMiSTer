@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Night Slashers (Japan Rev 1.2)</name>
+	<setname>nslasherj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nslasherj. ROM archive: games/mame2003plus/nslasherj.zip. -->
+</misterromdescription>

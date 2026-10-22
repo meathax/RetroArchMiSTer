@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Sprint (German, rev 2)</name>
+	<setname>ssprintg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssprintg. ROM archive: games/mame2003plus/ssprintg.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>B.Rap Boys Special (Japan)</name>
+	<setname>brapboysj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set brapboysj. ROM archive: games/mame2003plus/brapboysj.zip. -->
+</misterromdescription>

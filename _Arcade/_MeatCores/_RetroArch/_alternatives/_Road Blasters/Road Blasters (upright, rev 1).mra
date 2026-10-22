@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Road Blasters (upright, rev 1)</name>
+	<setname>roadbls1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set roadbls1. ROM archive: games/mame2003plus/roadbls1.zip. -->
+</misterromdescription>

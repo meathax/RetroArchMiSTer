@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Counter Run (bootleg set 3)</name>
+	<setname>countrunb3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>bootleg</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set countrunb3. ROM archive: games/mame2003plus/countrunb3.zip. -->
+</misterromdescription>

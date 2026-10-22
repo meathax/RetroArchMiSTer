@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cosmo</name>
+	<setname>cosmo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>TDS &amp; Mints</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cosmo. ROM archive: games/mame2003plus/cosmo.zip. -->
+</misterromdescription>

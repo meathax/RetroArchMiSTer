@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ojanko Club (Japan)</name>
+	<setname>ojankoc</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>V-System Co.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ojankoc. ROM archive: games/mame2003plus/ojankoc.zip. -->
+</misterromdescription>

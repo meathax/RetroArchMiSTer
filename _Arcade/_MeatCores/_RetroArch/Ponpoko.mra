@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ponpoko</name>
+	<setname>ponpoko</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Sigma Enterprises Inc.</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ponpoko. ROM archive: games/mame2003plus/ponpoko.zip. -->
+</misterromdescription>

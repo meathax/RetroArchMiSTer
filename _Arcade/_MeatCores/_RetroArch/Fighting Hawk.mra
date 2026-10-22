@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Fighting Hawk (World)</name>
+	<setname>fhawk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fhawk. ROM archive: games/mame2003plus/fhawk.zip. -->
+</misterromdescription>

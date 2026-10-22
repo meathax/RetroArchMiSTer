@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hustle</name>
+	<setname>hustle</setname>
+	<rbf>RetroArch</rbf>
+	<year>1977</year>
+	<manufacturer>Gremlin</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hustle. ROM archive: games/mame2003plus/hustle.zip. -->
+</misterromdescription>

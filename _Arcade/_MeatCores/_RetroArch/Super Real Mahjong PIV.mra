@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Real Mahjong PIV (Japan)</name>
+	<setname>srmp4</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Seta</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set srmp4. ROM archive: games/mame2003plus/srmp4.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Knights of Valour - Sangoku Senki (ver. 115)</name>
+	<setname>kov115</setname>
+	<rbf>RetroArch</rbf>
+	<year>1999</year>
+	<manufacturer>IGS</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kov115. ROM archive: games/mame2003plus/kov115.zip. -->
+</misterromdescription>

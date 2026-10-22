@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Snow Board Championship (set 2)</name>
+	<setname>snowbalt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Gaelco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set snowbalt. ROM archive: games/mame2003plus/snowbalt.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Naughty Mouse (set 1)</name>
+	<setname>nmouse</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>Amenip (Palcom Queen River)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nmouse. ROM archive: games/mame2003plus/nmouse.zip. -->
+</misterromdescription>

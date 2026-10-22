@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Sunset Riders (World 4 Players ver. EAC)</name>
+	<setname>ssriders</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ssriders. ROM archive: games/mame2003plus/ssriders.zip. -->
+</misterromdescription>

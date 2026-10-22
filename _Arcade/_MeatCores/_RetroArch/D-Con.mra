@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>D-Con</name>
+	<setname>dcon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1992</year>
+	<manufacturer>Success</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dcon. ROM archive: games/mame2003plus/dcon.zip. -->
+</misterromdescription>

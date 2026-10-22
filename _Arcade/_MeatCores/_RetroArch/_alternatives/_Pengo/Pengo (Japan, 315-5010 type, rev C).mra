@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pengo (Japan, 315-5010 type, rev C)</name>
+	<setname>pengoja</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pengoja. ROM archive: games/mame2003plus/pengoja.zip. -->
+</misterromdescription>

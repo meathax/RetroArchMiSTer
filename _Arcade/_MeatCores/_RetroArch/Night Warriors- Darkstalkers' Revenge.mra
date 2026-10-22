@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Night Warriors: Darkstalkers' Revenge (Euro 950316)</name>
+	<setname>nwarr</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nwarr. ROM archive: games/mame2003plus/nwarr.zip. -->
+</misterromdescription>

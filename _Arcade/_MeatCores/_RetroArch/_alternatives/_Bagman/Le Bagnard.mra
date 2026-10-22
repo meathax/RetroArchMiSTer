@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Le Bagnard</name>
+	<setname>bagnard</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Valadon Automation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bagnard. ROM archive: games/mame2003plus/bagnard.zip. -->
+</misterromdescription>

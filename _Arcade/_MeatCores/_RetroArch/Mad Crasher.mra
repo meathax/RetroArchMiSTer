@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mad Crasher</name>
+	<setname>madcrash</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set madcrash. ROM archive: games/mame2003plus/madcrash.zip. -->
+</misterromdescription>

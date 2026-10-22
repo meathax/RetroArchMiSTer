@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Toffy</name>
+	<setname>toffy</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Midas</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set toffy. ROM archive: games/mame2003plus/toffy.zip. -->
+</misterromdescription>

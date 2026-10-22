@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>10 Yard Fight (Vs. version World, 11-05-84)</name>
+	<setname>vsyard</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Irem</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set vsyard. ROM archive: games/mame2003plus/vsyard.zip. -->
+</misterromdescription>

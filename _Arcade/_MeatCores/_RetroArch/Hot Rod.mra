@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Hot Rod (turbo 3 player)</name>
+	<setname>hotrod</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hotrod. ROM archive: games/mame2003plus/hotrod.zip. -->
+</misterromdescription>

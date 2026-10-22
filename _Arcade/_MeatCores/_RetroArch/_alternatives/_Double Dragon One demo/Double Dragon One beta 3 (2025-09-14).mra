@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Double Dragon One beta 3 (2025-09-14)</name>
+	<setname>doubled1e</setname>
+	<rbf>RetroArch</rbf>
+	<year>2025</year>
+	<manufacturer>La Casa De Ruivo / Neo Byte Force</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set doubled1e. ROM archive: games/mame2003plus/doubled1e.zip. -->
+</misterromdescription>

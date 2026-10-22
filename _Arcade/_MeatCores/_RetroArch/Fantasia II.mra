@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Fantasia II</name>
+	<setname>fantsia2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Comad</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fantsia2. ROM archive: games/mame2003plus/fantsia2.zip. -->
+</misterromdescription>

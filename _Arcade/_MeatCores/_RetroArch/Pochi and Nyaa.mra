@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pochi and Nyaa</name>
+	<setname>pnyaa</setname>
+	<rbf>RetroArch</rbf>
+	<year>2003</year>
+	<manufacturer>Aiky</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pnyaa. ROM archive: games/mame2003plus/pnyaa.zip. -->
+</misterromdescription>

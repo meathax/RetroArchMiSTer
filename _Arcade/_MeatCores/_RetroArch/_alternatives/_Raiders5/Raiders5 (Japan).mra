@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Raiders5 (Japan)</name>
+	<setname>raidrs5t</setname>
+	<rbf>RetroArch</rbf>
+	<year>1985</year>
+	<manufacturer>UPL (Taito license)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set raidrs5t. ROM archive: games/mame2003plus/raidrs5t.zip. -->
+</misterromdescription>

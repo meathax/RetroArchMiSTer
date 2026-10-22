@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Nekketsu Grand-Prix Gal (Japan)</name>
+	<setname>ngpgal</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ngpgal. ROM archive: games/mame2003plus/ngpgal.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Saturn</name>
+	<setname>saturn</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>[Zilec Electronics] Jaleco</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set saturn. ROM archive: games/mame2003plus/saturn.zip. -->
+</misterromdescription>

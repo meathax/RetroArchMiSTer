@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Lady Frog</name>
+	<setname>ladyfrog</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Mondial Games</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set ladyfrog. ROM archive: games/mame2003plus/ladyfrog.zip. -->
+</misterromdescription>

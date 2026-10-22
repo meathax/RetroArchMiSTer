@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Popeye (revision F)</name>
+	<setname>popeyef</setname>
+	<rbf>RetroArch</rbf>
+	<year>1982</year>
+	<manufacturer>Nintendo</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set popeyef. ROM archive: games/mame2003plus/popeyef.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>APB - All Points Bulletin (French)</name>
+	<setname>apbf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set apbf. ROM archive: games/mame2003plus/apbf.zip. -->
+</misterromdescription>

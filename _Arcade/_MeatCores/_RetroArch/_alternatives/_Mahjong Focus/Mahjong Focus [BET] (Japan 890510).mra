@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Focus [BET] (Japan 890510)</name>
+	<setname>mjfocusm</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mjfocusm. ROM archive: games/mame2003plus/mjfocusm.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Orange Club - Maruhi Kagai Jugyou (Japan 880213)</name>
+	<setname>orangec</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Daiichi Denshi</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set orangec. ROM archive: games/mame2003plus/orangec.zip. -->
+</misterromdescription>

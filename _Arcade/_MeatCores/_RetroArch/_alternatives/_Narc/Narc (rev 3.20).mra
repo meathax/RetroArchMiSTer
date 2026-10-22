@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Narc (rev 3.20)</name>
+	<setname>narc3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Williams</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set narc3. ROM archive: games/mame2003plus/narc3.zip. -->
+</misterromdescription>

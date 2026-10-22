@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Robocop (US revision 0)</name>
+	<setname>robocpu0</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Data East USA</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set robocpu0. ROM archive: games/mame2003plus/robocpu0.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Argus (Gottlieb, prototype)</name>
+	<setname>argusg</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Gottlieb</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set argusg. ROM archive: games/mame2003plus/argusg.zip. -->
+</misterromdescription>

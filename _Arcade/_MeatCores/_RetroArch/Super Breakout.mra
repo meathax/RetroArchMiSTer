@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Super Breakout</name>
+	<setname>sbrkout</setname>
+	<rbf>RetroArch</rbf>
+	<year>1978</year>
+	<manufacturer>Atari</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set sbrkout. ROM archive: games/mame2003plus/sbrkout.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Main Event (1984)</name>
+	<setname>mainsnk</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mainsnk. ROM archive: games/mame2003plus/mainsnk.zip. -->
+</misterromdescription>

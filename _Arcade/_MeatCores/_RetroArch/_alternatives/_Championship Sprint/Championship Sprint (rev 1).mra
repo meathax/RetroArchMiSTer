@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Championship Sprint (rev 1)</name>
+	<setname>csprint1</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set csprint1. ROM archive: games/mame2003plus/csprint1.zip. -->
+</misterromdescription>

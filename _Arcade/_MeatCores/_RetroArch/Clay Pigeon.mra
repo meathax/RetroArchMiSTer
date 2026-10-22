@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Clay Pigeon (version 2.0)</name>
+	<setname>claypign</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Exidy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set claypign. ROM archive: games/mame2003plus/claypign.zip. -->
+</misterromdescription>

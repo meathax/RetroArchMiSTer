@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cadash (Japan)</name>
+	<setname>cadashj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cadashj. ROM archive: games/mame2003plus/cadashj.zip. -->
+</misterromdescription>

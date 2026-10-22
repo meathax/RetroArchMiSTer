@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Taisen Karate Dou (Japan VS version)</name>
+	<setname>karatevs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set karatevs. ROM archive: games/mame2003plus/karatevs.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Shanghai III (Japan)</name>
+	<setname>shangha3</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Sunsoft</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set shangha3. ROM archive: games/mame2003plus/shangha3.zip. -->
+</misterromdescription>

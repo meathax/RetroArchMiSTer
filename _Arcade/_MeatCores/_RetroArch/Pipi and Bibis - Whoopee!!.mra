@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pipi and Bibis - Whoopee!!</name>
+	<setname>pipibibs</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pipibibs. ROM archive: games/mame2003plus/pipibibs.zip. -->
+</misterromdescription>

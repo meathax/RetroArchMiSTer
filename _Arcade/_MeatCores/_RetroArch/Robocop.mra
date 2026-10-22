@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Robocop (World revision 4)</name>
+	<setname>robocop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Data East Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set robocop. ROM archive: games/mame2003plus/robocop.zip. -->
+</misterromdescription>

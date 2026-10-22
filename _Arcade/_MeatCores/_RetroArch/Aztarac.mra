@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Aztarac</name>
+	<setname>aztarac</setname>
+	<rbf>RetroArch</rbf>
+	<year>1983</year>
+	<manufacturer>Centuri</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set aztarac. ROM archive: games/mame2003plus/aztarac.zip. -->
+</misterromdescription>

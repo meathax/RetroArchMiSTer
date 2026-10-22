@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Jan Jan Paradise 2</name>
+	<setname>jjparad2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Electro Design</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set jjparad2. ROM archive: games/mame2003plus/jjparad2.zip. -->
+</misterromdescription>

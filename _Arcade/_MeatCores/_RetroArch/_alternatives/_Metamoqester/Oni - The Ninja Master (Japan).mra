@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Oni - The Ninja Master (Japan)</name>
+	<setname>nmaster</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Banpresto/Pandorabox</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set nmaster. ROM archive: games/mame2003plus/nmaster.zip. -->
+</misterromdescription>

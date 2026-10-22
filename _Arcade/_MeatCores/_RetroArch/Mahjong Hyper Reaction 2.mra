@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mahjong Hyper Reaction 2 (Japan)</name>
+	<setname>hypreac2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Sammy</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set hypreac2. ROM archive: games/mame2003plus/hypreac2.zip. -->
+</misterromdescription>

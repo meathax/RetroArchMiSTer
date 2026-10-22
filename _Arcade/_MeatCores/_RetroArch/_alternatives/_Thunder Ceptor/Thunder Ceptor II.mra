@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Thunder Ceptor II</name>
+	<setname>tceptor2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1986</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set tceptor2. ROM archive: games/mame2003plus/tceptor2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Flying Shark (World)</name>
+	<setname>fshark</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>[Toaplan] Taito Corporation</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set fshark. ROM archive: games/mame2003plus/fshark.zip. -->
+</misterromdescription>

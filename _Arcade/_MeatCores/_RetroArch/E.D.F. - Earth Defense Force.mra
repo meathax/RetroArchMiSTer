@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>E.D.F. - Earth Defense Force</name>
+	<setname>edf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set edf. ROM archive: games/mame2003plus/edf.zip. -->
+</misterromdescription>

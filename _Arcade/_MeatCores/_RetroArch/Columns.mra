@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Columns (US)</name>
+	<setname>columns</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set columns. ROM archive: games/mame2003plus/columns.zip. -->
+</misterromdescription>

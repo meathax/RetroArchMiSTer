@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Columns II - The Voyage Through Time (Japan)</name>
+	<setname>columns2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set columns2. ROM archive: games/mame2003plus/columns2.zip. -->
+</misterromdescription>

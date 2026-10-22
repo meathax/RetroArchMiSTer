@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un</name>
+	<setname>quizmoon</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Banpresto</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set quizmoon. ROM archive: games/mame2003plus/quizmoon.zip. -->
+</misterromdescription>

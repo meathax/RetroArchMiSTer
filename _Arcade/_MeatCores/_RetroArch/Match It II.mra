@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Match It II</name>
+	<setname>matchit2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1993</year>
+	<manufacturer>Tamtex</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set matchit2. ROM archive: games/mame2003plus/matchit2.zip. -->
+</misterromdescription>

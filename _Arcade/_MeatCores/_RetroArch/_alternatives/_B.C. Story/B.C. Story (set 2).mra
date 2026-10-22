@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>B.C. Story (set 2)</name>
+	<setname>bcstrya</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>SemiCom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bcstrya. ROM archive: games/mame2003plus/bcstrya.zip. -->
+</misterromdescription>

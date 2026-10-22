@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kamikaze</name>
+	<setname>kamikaze</setname>
+	<rbf>RetroArch</rbf>
+	<year>1979</year>
+	<manufacturer>Leijac</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kamikaze. ROM archive: games/mame2003plus/kamikaze.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dimahoo (Euro 000121)</name>
+	<setname>dimahoo</setname>
+	<rbf>RetroArch</rbf>
+	<year>2000</year>
+	<manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dimahoo. ROM archive: games/mame2003plus/dimahoo.zip. -->
+</misterromdescription>

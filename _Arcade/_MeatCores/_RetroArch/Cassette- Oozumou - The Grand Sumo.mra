@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Cassette: Oozumou - The Grand Sumo (Japan)</name>
+	<setname>coozumou</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>DECO</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set coozumou. ROM archive: games/mame2003plus/coozumou.zip. -->
+</misterromdescription>

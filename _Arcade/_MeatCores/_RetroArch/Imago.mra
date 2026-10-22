@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Imago (cocktail set)</name>
+	<setname>imago</setname>
+	<rbf>RetroArch</rbf>
+	<year>1984</year>
+	<manufacturer>Acom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set imago. ROM archive: games/mame2003plus/imago.zip. -->
+</misterromdescription>

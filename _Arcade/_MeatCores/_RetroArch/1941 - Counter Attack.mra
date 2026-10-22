@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>1941 - Counter Attack (World)</name>
+	<setname>1941</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set 1941. ROM archive: games/mame2003plus/1941.zip. -->
+</misterromdescription>

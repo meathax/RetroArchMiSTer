@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Pac-Man (Midway, harder)</name>
+	<setname>pacmod</setname>
+	<rbf>RetroArch</rbf>
+	<year>1981</year>
+	<manufacturer>[Namco] (Midway license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set pacmod. ROM archive: games/mame2003plus/pacmod.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Gondomania (US)</name>
+	<setname>gondo</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Data East USA</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gondo. ROM archive: games/mame2003plus/gondo.zip. -->
+</misterromdescription>

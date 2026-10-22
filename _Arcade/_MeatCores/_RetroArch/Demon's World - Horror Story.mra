@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Demon's World - Horror Story</name>
+	<setname>demonwld</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Toaplan</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set demonwld. ROM archive: games/mame2003plus/demonwld.zip. -->
+</misterromdescription>

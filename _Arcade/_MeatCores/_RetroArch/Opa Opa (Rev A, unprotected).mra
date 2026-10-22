@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Opa Opa (Rev A, unprotected)</name>
+	<setname>opaopan</setname>
+	<rbf>RetroArch</rbf>
+	<year>1987</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set opaopan. ROM archive: games/mame2003plus/opaopan.zip. -->
+</misterromdescription>

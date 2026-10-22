@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Magic Sword (Japan 900623)</name>
+	<setname>mswordj</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set mswordj. ROM archive: games/mame2003plus/mswordj.zip. -->
+</misterromdescription>

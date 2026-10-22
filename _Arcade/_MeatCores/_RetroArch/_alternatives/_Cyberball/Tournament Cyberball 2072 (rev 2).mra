@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Tournament Cyberball 2072 (rev 2)</name>
+	<setname>cyberbt</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cyberbt. ROM archive: games/mame2003plus/cyberbt.zip. -->
+</misterromdescription>

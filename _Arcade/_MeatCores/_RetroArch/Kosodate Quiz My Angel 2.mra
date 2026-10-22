@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kosodate Quiz My Angel 2 (Japan)</name>
+	<setname>myangel2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Namco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set myangel2. ROM archive: games/mame2003plus/myangel2.zip. -->
+</misterromdescription>

@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>A.B. Cop (World) (bootleg of FD1094 317-0169b set)</name>
+	<setname>abcop</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set abcop. ROM archive: games/mame2003plus/abcop.zip. -->
+</misterromdescription>

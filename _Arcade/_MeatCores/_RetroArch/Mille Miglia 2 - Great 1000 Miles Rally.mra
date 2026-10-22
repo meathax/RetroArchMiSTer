@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mille Miglia 2 - Great 1000 Miles Rally</name>
+	<setname>gtmr2</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Kaneko</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gtmr2. ROM archive: games/mame2003plus/gtmr2.zip. -->
+</misterromdescription>

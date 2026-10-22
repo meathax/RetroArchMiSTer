@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Altered Beast (Version 1)</name>
+	<setname>altbeast</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set altbeast. ROM archive: games/mame2003plus/altbeast.zip. -->
+</misterromdescription>

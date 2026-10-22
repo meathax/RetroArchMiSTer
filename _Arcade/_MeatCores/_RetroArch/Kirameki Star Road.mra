@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Kirameki Star Road (Japan)</name>
+	<setname>kirameki</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Taito Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kirameki. ROM archive: games/mame2003plus/kirameki.zip. -->
+</misterromdescription>

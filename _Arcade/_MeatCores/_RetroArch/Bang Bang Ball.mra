@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bang Bang Ball (v1.05)</name>
+	<setname>bangball</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Banpresto / Kunihiko Tashiro+Goodhouse</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bangball. ROM archive: games/mame2003plus/bangball.zip. -->
+</misterromdescription>

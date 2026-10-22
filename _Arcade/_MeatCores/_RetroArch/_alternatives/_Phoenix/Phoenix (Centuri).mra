@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Phoenix (Centuri)</name>
+	<setname>phoenixa</setname>
+	<rbf>RetroArch</rbf>
+	<year>1980</year>
+	<manufacturer>Amstar (Centuri license)</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set phoenixa. ROM archive: games/mame2003plus/phoenixa.zip. -->
+</misterromdescription>

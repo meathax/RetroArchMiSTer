@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Diamond Run</name>
+	<setname>diamond</setname>
+	<rbf>RetroArch</rbf>
+	<year>1989</year>
+	<manufacturer>KH Video</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set diamond. ROM archive: games/mame2003plus/diamond.zip. -->
+</misterromdescription>

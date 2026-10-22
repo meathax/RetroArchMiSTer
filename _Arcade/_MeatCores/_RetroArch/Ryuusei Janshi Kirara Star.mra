@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Ryuusei Janshi Kirara Star</name>
+	<setname>kirarast</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Jaleco</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set kirarast. ROM archive: games/mame2003plus/kirarast.zip. -->
+</misterromdescription>

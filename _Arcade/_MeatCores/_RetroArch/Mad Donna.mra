@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Mad Donna (set 1)</name>
+	<setname>maddonna</setname>
+	<rbf>RetroArch</rbf>
+	<year>1995</year>
+	<manufacturer>Tuning</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set maddonna. ROM archive: games/mame2003plus/maddonna.zip. -->
+</misterromdescription>

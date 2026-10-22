@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bubble Buster (US)</name>
+	<setname>bublbust</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bublbust. ROM archive: games/mame2003plus/bublbust.zip. -->
+</misterromdescription>

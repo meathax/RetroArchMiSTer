@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Boulder Dash - Boulder Dash Part 2 (World)</name>
+	<setname>bouldash</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Data East Corporation (licensed from First Star)</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set bouldash. ROM archive: games/mame2003plus/bouldash.zip. -->
+</misterromdescription>

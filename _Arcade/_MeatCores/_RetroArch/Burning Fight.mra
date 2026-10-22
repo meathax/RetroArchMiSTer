@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Burning Fight (set 1)</name>
+	<setname>burningf</setname>
+	<rbf>RetroArch</rbf>
+	<year>1991</year>
+	<manufacturer>SNK</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set burningf. ROM archive: games/mame2003plus/burningf.zip. -->
+</misterromdescription>

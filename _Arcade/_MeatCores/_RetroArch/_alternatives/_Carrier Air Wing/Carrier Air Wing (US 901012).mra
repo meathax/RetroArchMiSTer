@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Carrier Air Wing (US 901012)</name>
+	<setname>cawingu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1990</year>
+	<manufacturer>Capcom</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set cawingu. ROM archive: games/mame2003plus/cawingu.zip. -->
+</misterromdescription>

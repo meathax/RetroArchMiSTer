@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Got-cha</name>
+	<setname>gotcha</setname>
+	<rbf>RetroArch</rbf>
+	<year>1997</year>
+	<manufacturer>Dongsung</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set gotcha. ROM archive: games/mame2003plus/gotcha.zip. -->
+</misterromdescription>

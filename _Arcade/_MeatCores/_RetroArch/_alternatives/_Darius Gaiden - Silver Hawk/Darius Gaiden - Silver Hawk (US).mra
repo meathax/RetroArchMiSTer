@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Darius Gaiden - Silver Hawk (US)</name>
+	<setname>dariusgu</setname>
+	<rbf>RetroArch</rbf>
+	<year>1994</year>
+	<manufacturer>Taito America Corporation</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dariusgu. ROM archive: games/mame2003plus/dariusgu.zip. -->
+</misterromdescription>

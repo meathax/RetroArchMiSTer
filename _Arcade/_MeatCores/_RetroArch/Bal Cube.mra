@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Bal Cube</name>
+	<setname>balcube</setname>
+	<rbf>RetroArch</rbf>
+	<year>1996</year>
+	<manufacturer>Metro</manufacturer>
+	<rotation>horizontal</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set balcube. ROM archive: games/mame2003plus/balcube.zip. -->
+</misterromdescription>

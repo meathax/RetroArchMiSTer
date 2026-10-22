@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Toobin' (rev 3)</name>
+	<setname>toobin</setname>
+	<rbf>RetroArch</rbf>
+	<year>1988</year>
+	<manufacturer>Atari Games</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set toobin. ROM archive: games/mame2003plus/toobin.zip. -->
+</misterromdescription>

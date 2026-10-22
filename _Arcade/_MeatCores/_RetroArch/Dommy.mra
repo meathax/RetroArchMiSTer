@@ -1,0 +1,10 @@
+<misterromdescription>
+	<name>Dommy</name>
+	<setname>dommy</setname>
+	<rbf>RetroArch</rbf>
+	<year>198?</year>
+	<manufacturer>Technos</manufacturer>
+	<rotation>vertical</rotation>
+	<remark>RetroArch core: mame2003plus</remark>
+	<!-- MAME 2003-Plus set dommy. ROM archive: games/mame2003plus/dommy.zip. -->
+</misterromdescription>
