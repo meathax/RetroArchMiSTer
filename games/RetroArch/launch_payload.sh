@@ -121,19 +121,32 @@ lp_core_library() {
     esac
 }
 
+lp_rom_ok() {  # $1 path -> 0 for a non-empty readable regular file (the frontend's readable_rom_file)
+    [[ -f "$1" && -s "$1" && -r "$1" ]]
+}
+
 lp_resolve_content() {  # sets LP_CONTENT (relative path); echoes nothing
     if [[ "$P_content" =~ ^[a-z0-9_]{1,32}$ ]]; then
         case "$P_core" in
             mame2003plus)
-                # User romsets live at /media/fat/games/mame2003plus, beside GAMEDIR.
-                # Keep the older folders as compatibility fallbacks.
-                local c
-                for c in "../mame2003plus/$P_content.zip" "../mame2003plus/clones/$P_content.zip" \
+                # User romsets live in games/mame2003plus. External storage is searched first, in
+                # MiSTer Main's findPrefixDir order (USB 0-5, network, CIFS), then the SD card beside
+                # GAMEDIR; the older SD folders stay as compatibility fallbacks. External hits are
+                # absolute paths (FRONTIER_MEDIA_DIR relocates /media for tests). With copies in
+                # several places the first usable one wins; an empty or unreadable copy (an
+                # interrupted transfer) is skipped exactly as the frontend's list skips it.
+                local c m=${FRONTIER_MEDIA_DIR:-/media} found=""
+                for c in "$m"/usb{0..5}/games/mame2003plus "$m/network/games/mame2003plus" \
+                         "$m/fat/cifs/games/mame2003plus"; do
+                    if lp_rom_ok "$c/$P_content.zip"; then found="$c/$P_content.zip"; break; fi
+                    if lp_rom_ok "$c/clones/$P_content.zip"; then found="$c/clones/$P_content.zip"; break; fi
+                done
+                for c in ${found:+"$found"} "../mame2003plus/$P_content.zip" "../mame2003plus/clones/$P_content.zip" \
                          "roms/MAME2003/$P_content.zip" \
                          "roms/$P_content.zip" "../mame2003/$P_content.zip"; do
-                    LP_CONTENT=$c; [[ -f "$c" ]] && break
+                    LP_CONTENT=$c; lp_rom_ok "$c" && break
                 done
-                [[ -f "$LP_CONTENT" ]] || LP_CONTENT="roms/$P_content.zip"
+                lp_rom_ok "$LP_CONTENT" || LP_CONTENT="roms/$P_content.zip"
                 ;;
             fbneo)
                 LP_CONTENT="roms/FBNeo/$P_content.zip"
@@ -199,6 +212,28 @@ lp_mame_cfg_guard() {  # $1 set name
     done
 }
 
+# Per-game controls survive the next launch (owner, 2026-10-22). RetroArch saves remaps on exit
+# only into the remap file it loaded (input_remapping_deinit), so without a <set>.rmp a change made
+# in Quick Menu > Controls was dropped, and saving into the shared core file would change every
+# game. Seed <set>.rmp from the shared default once; retroarch.cfg remap_save_on_exit then writes
+# this game's own file. An existing file (the user's layout) is never replaced. Failure is harmless:
+# the game still starts with the shared default.
+lp_mame_remap_seed() {  # $1 set name
+    local dir="config/remaps/MAME 2003-Plus" f tmp
+    [[ "$1" =~ ^[a-z0-9_]{1,32}$ ]] || return 0
+    f="$dir/$1.rmp"
+    [[ -e "$f" || -L "$f" ]] && return 0
+    mkdir -p "$dir" 2>/dev/null || return 0
+    tmp="$dir/.$1.rmp.new.$$"
+    if [[ -f "$dir/MAME 2003-Plus.rmp" && ! -L "$dir/MAME 2003-Plus.rmp" ]]; then
+        cp "$dir/MAME 2003-Plus.rmp" "$tmp" 2>/dev/null || { rm -f "$tmp"; return 0; }
+    else
+        : > "$tmp" 2>/dev/null || return 0
+    fi
+    sync "$tmp" 2>/dev/null || true
+    mv -f "$tmp" "$f" 2>/dev/null || rm -f "$tmp"
+}
+
 lp_preflight() {  # after lp_parse_payload
     local lib item rest member crc want_size zi have
     LP_CORE=$P_core
@@ -259,10 +294,12 @@ lp_preflight() {  # after lp_parse_payload
     if [[ "$P_core" == mame2003plus ]]; then
         local cfgset=${LP_CONTENT##*/}; cfgset=${cfgset%.zip}
         lp_mame_cfg_guard "$cfgset"
+        lp_mame_remap_seed "$cfgset"
     fi
     LP_ARGS=(--config "$GAMEDIR/retroarch.cfg")
     [[ -z "$P_cfg" ]] || LP_ARGS+=(--appendconfig "$GAMEDIR/$P_cfg")
-    LP_ARGS+=(-L "$GAMEDIR/$lib" "$GAMEDIR/$LP_CONTENT")
+    if [[ "$LP_CONTENT" == /* ]]; then LP_ARGS+=(-L "$GAMEDIR/$lib" "$LP_CONTENT")
+    else LP_ARGS+=(-L "$GAMEDIR/$lib" "$GAMEDIR/$LP_CONTENT"); fi
     [[ -z "$P_orientation" ]] || export FRONTIER_ORIENTATION="$P_orientation"
     # Qualification note: log only. No on-screen popup (owner, 2026-10-09): a warn
     # result makes Main show the title + "Speed not yet verified" box on every launch.

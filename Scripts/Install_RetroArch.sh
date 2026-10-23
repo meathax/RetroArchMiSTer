@@ -11,16 +11,11 @@
 #   [RetroForge]
 #   main=Mister_RetroForge
 #
-# Both cores then use the MiSTer.ini video settings for HDMI. Display output
-# (HDMI or 15 kHz CRT) is one shared choice in games/RetroArch/config/frontier/
-# display.cfg; with no file it is HDMI. The installer never guesses CRT. It
+# Both cores drive HDMI (MiSTer.ini video settings) and the analog CRT output at
+# the same time, so there is no display choice to make or switch. The installer
 # removes display lines older installers put in [RetroForge] (one was a 15 kHz
-# mode: "no signal" on HDMI). To switch without a picture, run from a terminal
-# (or copy this script to a name ending in _crt.sh or _hdmi.sh and run that
-# copy from the Scripts menu):
-#
-#   Install_RetroArch.sh crt     # 15 kHz CRT on the analog output
-#   Install_RetroArch.sh hdmi    # HDMI (analog output stays dark)
+# mode: "no signal" on HDMI) and never touches games/RetroArch/config/frontier/
+# display.cfg. Old "crt"/"hdmi" arguments are accepted as a plain install.
 #
 # "Install_RetroArch.sh uninstall" removes only the two main= selectors.
 #
@@ -36,18 +31,12 @@ ROOT=${FRONTIER_MISTER_ROOT:-/media/fat}
 INI=${FRONTIER_MISTER_INI:-}
 ACTION=${1:-install}
 PREFLIGHT=""
-DISPLAY_CHOICE=""
-case "${0##*/}" in
-    *_[Cc][Rr][Tt].sh) DISPLAY_CHOICE=crt15 ;;
-    *_[Hh][Dd][Mm][Ii].sh) DISPLAY_CHOICE=hdmi ;;
-esac
 case "$ACTION" in
-    install|--install) ACTION=install ;;
-    crt|--crt) ACTION=install; DISPLAY_CHOICE=crt15 ;;
-    hdmi|--hdmi) ACTION=install; DISPLAY_CHOICE=hdmi ;;
+    # crt/hdmi switched a display choice in older releases; both outputs now run together.
+    install|--install|crt|--crt|hdmi|--hdmi) ACTION=install ;;
     uninstall|--uninstall|remove|--remove) ACTION=uninstall ;;
-    -h|--help) echo "usage: Install_RetroArch.sh [install|crt|hdmi|uninstall]"; exit 0 ;;
-    *) echo "Unknown action: $ACTION (use install, crt, hdmi or uninstall)" >&2; exit 64 ;;
+    -h|--help) echo "usage: Install_RetroArch.sh [install|uninstall]"; exit 0 ;;
+    *) echo "Unknown action: $ACTION (use install or uninstall)" >&2; exit 64 ;;
 esac
 
 if [ -z "$INI" ]; then
@@ -145,6 +134,25 @@ if [ "$ACTION" = install ]; then
         echo "Install stopped: $PREFLIGHT" >&2
         echo "Removing the RetroArch/RetroForge main= selectors so these RBFs cannot hand over to a sidecar that cannot run." >&2
         ACTION=uninstall
+    fi
+fi
+
+# MRA launchers ship as one zip (games/RetroArch/.mamefrontend/mras.zip). Unpack them with the frontend's own
+# unpacker (same safety rules as the snaps: only *.mra under _Arcade/_MeatCores/_RetroArch, .part + CRC + rename,
+# never outside the SD card tree). This runs before anything that needs the MRAs. A failure only warns: the install
+# continues and RetroForge offers the MRA install again at its next start (or Options > Install MRAs).
+if [ "$ACTION" = install ]; then
+    MRAS_ZIP="$ROOT/games/RetroArch/.mamefrontend/mras.zip"
+    MRAS_TOOL="$ROOT/games/RetroArch/.mamefrontend/retroforge"
+    if [ -f "$MRAS_ZIP" ] && [ ! -L "$MRAS_ZIP" ]; then
+        if [ -x "$MRAS_TOOL" ] && [ ! -L "$MRAS_TOOL" ]; then
+            echo "Installing the MRA launchers (about a minute on the first install)..."
+            if MAME2003PLUS_ROOT="$ROOT" "$MRAS_TOOL" --unpack-mras; then :; else
+                echo "Warning: the MRAs were not fully installed; RetroForge offers it again at its next start." >&2
+            fi
+        else
+            echo "Warning: mras.zip is present but the RetroForge program is missing; MRAs not installed." >&2
+        fi
     fi
 fi
 
@@ -252,32 +260,6 @@ if [ "$ACTION" = install ]; then
     for old in Install-RetroArch.sh RetroArch.sh RetroArch_Setup.sh RetroForge.sh RetroForge_Setup.sh; do
         if [ -f "$ROOT/Scripts/$old" ] && [ ! -L "$ROOT/Scripts/$old" ]; then rm -f "$ROOT/Scripts/$old"; fi
     done
-fi
-
-# Shared display choice: only an explicit crt/hdmi request changes it, and it
-# rewrites only output=. There is no auto-detect: analog settings such as
-# composite_sync often sit alongside an HDMI TV, and guessing CRT there gives
-# "no signal" on HDMI. The default (no file) is HDMI.
-if [ "$ACTION" = install ]; then
-    DISPLAY_CFG="$ROOT/games/RetroArch/config/frontier/display.cfg"
-    if [ -f "$DISPLAY_CFG" ] && [ -z "$DISPLAY_CHOICE" ] && grep -q '^output=crt15' "$DISPLAY_CFG"; then
-        echo "Display output is 15 kHz CRT. On an HDMI TV run: Install_RetroArch.sh hdmi"
-    fi
-    if [ -n "$DISPLAY_CHOICE" ]; then
-        [ ! -L "$DISPLAY_CFG" ] && { [ ! -e "$DISPLAY_CFG" ] || [ -f "$DISPLAY_CFG" ]; } || {
-            echo "display.cfg is unsafe: $DISPLAY_CFG" >&2; exit 65;
-        }
-        mkdir -p "${DISPLAY_CFG%/*}"
-        DISPLAY_TMP=$(mktemp "$DISPLAY_CFG.new.XXXXXX")
-        if [ -f "$DISPLAY_CFG" ] && grep -q '^version=' "$DISPLAY_CFG" && grep -q '^output=' "$DISPLAY_CFG"; then
-            sed "s/^output=.*/output=$DISPLAY_CHOICE/" "$DISPLAY_CFG" > "$DISPLAY_TMP"
-        else
-            printf 'version=2\noutput=%s\ncrt_height=fit\ncrt_deflicker=off\ncrt_overscan_x=0\ncrt_overscan_y=0\nhdmi_scale=aspect_integer\n' \
-                "$DISPLAY_CHOICE" > "$DISPLAY_TMP"
-        fi
-        mv -f "$DISPLAY_TMP" "$DISPLAY_CFG"
-        echo "Display output: $DISPLAY_CHOICE"
-    fi
 fi
 
 if cmp -s "$INI" "$TMP"; then
