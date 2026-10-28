@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "PASS_COPY_AUDIT",
-  "retroforge_manifest_sha256": "f232360c663b98aac7d17805b040eb46edfa1ce84f363eb89999c862483f5199",
+  "retroforge_manifest_sha256": "56b71ec20ee3ec01ec313af3101abcd80a0d3a006e432b39cb0e31c91f78b545",
   "frontend_source_snapshot": {
     "launcher/custom_main/build.sh": "5914a69141996ace1c2313134e573eac90dffe9afb888ee860c586c6c5336eb9",
     "launcher/custom_main/frontier_display_page.cpp": "017353621d05b22267d0098960a1de88ba642fac9dd203733d166746654543cf",
@@ -12,12 +12,17 @@
     "retroforge/examples/mame2003master.txt": "b980480fcaeb2fb88adad24ceeaaddb3c5a232850c7c17b4d134f136c481a320",
     "retroforge/examples/mame2003speed.tsv": "c272ef34f62a1872db497454f9dc76a874b8c11e03a7e4d87dd1577a8e138108",
     "retroforge/fpga/sources.lock.json": "06808729f2a03b0e88b730bc8f889476d987ebf61a49ecd3855db3ba9940895a",
-    "retroforge/runtime/Makefile": "e3afb9a300be378c2b410ed39ad16865c232d1adb1efdb3c7e07c34794911505",
+    "retroforge/runtime/Makefile": "9828de7b9c3cf16ae1b0419157c15c0f8d4e2e906481194840ffbe6c9ba5bb33",
     "retroforge/runtime/background_videos.h": "c57b4f6daebde7641b2a5b4f6f987f9d89ce4ac3125debebc929badb2076a913",
+    "retroforge/runtime/developer_digest.h": "e7be888ab12a08a33b282e23570d62bb28e588e4a7c1b48ab74dbb3e1ccf01a2",
+    "retroforge/runtime/developer_downloads.generated.h": "fe8274e5d14a79db848577add47509afc5d7454ae79bdb7c6702c37718880dd3",
+    "retroforge/runtime/developer_downloads.h": "d57c339e87b2dc400ba97f93a1484b54a15039edfb74777ebb692c4ffa0e0c94",
+    "retroforge/runtime/developer_manifest.h": "7dfa67781ec9989122a8b07b22b5fead17f035a2273b8f8566b933ab3f05019f",
+    "retroforge/runtime/distribution_updates.h": "f048360df4db477a53398a5f38bd43289514f17fe65a16090dddb97ecb7fddfa",
     "retroforge/runtime/durable_save.h": "fbb684f76647681ab137a3be3d7075e9d1210deef0fdad413073e8596159bcbd",
-    "retroforge/runtime/game_inventory.h": "f53b98b1567b455f490ed8b57469ca8ab2f73a30fd69c57175ed1245391ededd",
-    "retroforge/runtime/library_refresh.h": "2c8f3366e898a93c8c850eb53775348662b08c5e85fcb47f8f9eab30b6024d22",
-    "retroforge/runtime/mame2003plus.cpp": "06062ef6fe30d8142c2ea2fc7130d1efc4aa993f58865537129b642158db132a",
+    "retroforge/runtime/game_inventory.h": "03f7f927a923b2d25e73eba20a2be27a4e17be8f0148272b4b1a1ec13cc55ee9",
+    "retroforge/runtime/library_refresh.h": "b1bfe3c07157f00b6323ab2a17bdf80a53ff2c6885244f84b78a3b0de37481e3",
+    "retroforge/runtime/mame2003plus.cpp": "9c55efe0162c322fad84f3ef89680e27d414690fcb5b0bf47acb2f21fbfd4cc4",
     "retroforge/runtime/mra_unpack.h": "590017dc3db0041534f5c0f7f4ffb270ab8c9afd8c49d2416a1400159374bf10",
     "retroforge/runtime/packed_snaps.h": "a5846c4617a5f4c2594d78a363fdfa3d0fe1253c8b7588a73ed2bb2c0337810b",
     "retroforge/runtime/snap_audio.h": "071093e41530ccfe2841c8c3a4e52329c48feb28c5689b47d48de13e9d9c2911",
@@ -27,8 +32,8 @@
     "retroforge/runtime/third_party/yxml/yxml.h": "d885e6aed4e3870f06720f5b5ccd9dc3eab4c7e331b4ddb5e4a09706b09d5d52",
     "retroforge/runtime/version_prompt.h": "24d25759d0e4c168326a49ff172f3936d12501855abdb2b7d31f1fdb4746430b",
     "retroforge/runtime/video3_pack_names.h": "234513f01c40c17315c45c7538a5bf7704fc40a2fbc30bf0affaa300424d74d3",
-    "retroforge/runtime/video_install.h": "6cb809424b36a0fb1b7173ab0516a636764a81be94793ac118ec796e4b0bb814",
-    "retroforge/runtime/video_pack_names.h": "4b45dfff458f59049ed5dc7103b22e53be445ee570d8923bc8ef60d0d434a188",
+    "retroforge/runtime/video_install.h": "81524320c6b457ed54eb9873ebc5f7b60289e47e49b3b90e4c4e5a6d782312ec",
+    "retroforge/runtime/video_pack_names.h": "d8923daee5c03ab29dff8743c26a2c09a915ae7f8ba8d50940d69f0cc6deb12a",
     "retroforge/runtime/zip_tree.h": "72b2c750806b523e8c774efa6f66169a9be323bd9d9bc2e8b4c59a3e4fb8ad3a",
     "runtime/games/RetroArch/_handler.sh": "6caaba4e27e82a588a24994a1596f4954ac6ee86c5d52427ae5b827a82faee95",
     "runtime/games/RetroArch/launch_payload.sh": "c858fc53a33cfd91323ff493a7e5e2f21ec808a2c30a818193f087e4041f3112",
@@ -138,8 +143,8 @@
     },
     {
       "path": "games/RetroArch/.mamefrontend/retroforge",
-      "sha256": "10953d18c0e36210a6a53dd464b35ab8edc87ed08074d879966ec5da7b790331",
-      "bytes": 1191564
+      "sha256": "85ee8282f72d8962607e6701ac858c4582408113161ddad70377271592dfe084",
+      "bytes": 2789248
     },
     {
       "path": "games/RetroArch/.payload/Mister_RetroArch.elf",
@@ -158,8 +163,8 @@
     },
     {
       "path": "games/RetroArch/.payload/retroforge.elf",
-      "sha256": "10953d18c0e36210a6a53dd464b35ab8edc87ed08074d879966ec5da7b790331",
-      "bytes": 1191564
+      "sha256": "85ee8282f72d8962607e6701ac858c4582408113161ddad70377271592dfe084",
+      "bytes": 2789248
     },
     {
       "path": "games/RetroArch/RetroArch",
