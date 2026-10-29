@@ -30,12 +30,14 @@ set -eu
 ROOT=${FRONTIER_MISTER_ROOT:-/media/fat}
 INI=${FRONTIER_MISTER_INI:-}
 ACTION=${1:-install}
+CHECK_ONLY=0
 PREFLIGHT=""
 case "$ACTION" in
     # crt/hdmi switched a display choice in older releases; both outputs now run together.
     install|--install|crt|--crt|hdmi|--hdmi) ACTION=install ;;
+    verify|--verify) ACTION=install; CHECK_ONLY=1 ;;
     uninstall|--uninstall|remove|--remove) ACTION=uninstall ;;
-    -h|--help) echo "usage: Install-RetroForge.sh [install|uninstall]"; exit 0 ;;
+    -h|--help) echo "usage: Install-RetroForge.sh [install|verify|uninstall]"; exit 0 ;;
     *) echo "Unknown action: $ACTION (use install or uninstall)" >&2; exit 64 ;;
 esac
 
@@ -50,6 +52,42 @@ fi
     echo "MiSTer.ini is missing or unsafe: $INI" >&2; exit 65;
 }
 
+# Hold the same lock through repairs, unpacking, migration and selector commit.
+# A leftover lock is deliberately not stolen: another installer may still own it.
+LOCK="$INI.retroarch-lock"
+mkdir "$LOCK" 2>/dev/null || { echo "MiSTer.ini setup is already running: $LOCK (after an interrupted run, reboot before removing this lock)." >&2; exit 75; }
+TMP=""
+COMMITTED=0
+LAYOUT_BACKUP="$ROOT/games/RetroArch/.layout-backups/$(date -u +%Y%m%dT%H%M%SZ).$$"
+frontend_layout_restore() { :; }
+cleanup() {
+    rc=$?
+    trap - 0 HUP INT TERM
+    if [ "$ACTION" = install ] && [ "$COMMITTED" -eq 0 ]; then
+        frontend_layout_restore "$LAYOUT_BACKUP" || rc=$?
+    fi
+    [ -z "$TMP" ] || rm -f "$TMP"
+    rm -f "$LOCK/checksums" "$LOCK/verify.log"
+    rmdir "$LOCK" 2>/dev/null || true
+    exit "$rc"
+}
+trap cleanup 0
+trap 'exit 129' HUP
+trap 'exit 130' INT
+trap 'exit 143' TERM
+
+safe_path() {
+    [ ! -L "$ROOT" ] || return 1
+    part=$1
+    while [ "$part" != "$ROOT" ] && [ "$part" != / ] && [ -n "$part" ]; do
+        [ ! -L "$part" ] || return 1
+        part=${part%/*}
+    done
+}
+for directory in "$ROOT" "$ROOT/games/RetroArch" "$ROOT/_Other" "$ROOT/Scripts"; do
+    safe_path "$directory" || { echo "Unsafe linked installation path: $directory" >&2; exit 65; }
+done
+
 RETROFORGE=0
 PROFILE=auto
 PROFILE_FILE="$ROOT/games/RetroArch/package-profile"
@@ -63,7 +101,7 @@ if [ "$ACTION" = install ]; then
         games/RetroArch/_handler.sh games/RetroArch/cores/mame2003_plus_libretro.so
     do
         [ ! -L "$ROOT/$file" ] && [ -s "$ROOT/$file" ] || {
-            echo "Copy the READY package first; missing or unsafe: $file" >&2; exit 67;
+            PREFLIGHT="Incomplete package: missing or unsafe $file. Rerun Downloader successfully, then rerun Install-RetroForge.sh.";
         }
     done
     for marker in SOURCE_ONLY_NOT_BOOTABLE STEP01_NOT_BOOTABLE QUALIFICATION_ONLY_NOT_RELEASE; do
@@ -71,10 +109,10 @@ if [ "$ACTION" = install ]; then
             echo "Qualification guard prevents installation: $marker" >&2; exit 78;
         }
     done
-    if [ "$PROFILE" != retroarch ] && { [ "$PROFILE" = retroforge ] || [ -e "$ROOT/Mister_RetroForge" ] || [ -e "$ROOT/_Other/RetroForge.rbf" ]; }; then
+    if [ "$PROFILE" != retroarch ] && { [ "$PROFILE" = retroforge ] || [ -e "$ROOT/Mister_RetroForge" ] || [ -e "$ROOT/_Other/RetroForge.rbf" ] || { [ -f "$ROOT/READY_MANIFEST.json" ] && grep -q '"path":[[:space:]]*"_Other/RetroForge.rbf"' "$ROOT/READY_MANIFEST.json"; }; }; then
         for file in Mister_RetroForge _Other/RetroForge.rbf; do
             [ ! -L "$ROOT/$file" ] && [ -s "$ROOT/$file" ] || {
-                echo "Incomplete RetroForge payload: $file" >&2; exit 67;
+                PREFLIGHT="Incomplete RetroForge payload: $file. Rerun Downloader successfully, then rerun Install-RetroForge.sh.";
             }
         done
         RETROFORGE=1
@@ -92,46 +130,103 @@ if [ "$ACTION" = install ]; then
     # files an FTP/sync tool in text ("ASCII") mode silently rewrites, which
     # leaves HDMI with no signal; the package carries a .elf copy of each that
     # no tool treats as text, so a damaged one is restored from it.
-    MANIFEST="$ROOT/READY_MANIFEST.json"
+    MANIFEST=${FRONTIER_INSTALL_CHECKSUMS:-"$ROOT/READY_MANIFEST.json"}
+    SUMFILE=0
+    [ -z "${FRONTIER_INSTALL_CHECKSUMS:-}" ] || SUMFILE=1
     manifest_bad() {
-        awk -v root="$ROOT" '
+        while read -r expected file; do
+            if ! safe_path "$ROOT/$file" || [ ! -f "$ROOT/$file" ]; then
+                echo "$file: missing or unsafe"
+                continue
+            fi
+            actual=$(sha256sum "$ROOT/$file") || { echo "$file: read failed"; continue; }
+            actual=${actual%% *}
+            [ "$actual" = "$expected" ] || echo "$file: expected $expected; received $actual"
+        done < "$LOCK/checksums"
+    }
+    if [ -z "$PREFLIGHT" ]; then
+        if [ ! -s "$MANIFEST" ] || [ -L "$MANIFEST" ]; then
+            PREFLIGHT="READY_MANIFEST.json is missing, empty or unsafe; rerun Downloader with the RetroForge database enabled, then rerun this installer"
+        # The package writer emits one path/hash property per line. Reject
+        # unsupported formatting, omitted critical rows and invalid/duplicate hashes.
+        elif ! awk -v rf="$RETROFORGE" -v sums="$SUMFILE" '
+            BEGIN {
+                n=split("Mister_RetroArch _Other/RetroArch.rbf games/RetroArch/RetroArch games/RetroArch/_handler.sh games/RetroArch/cores/mame2003_plus_libretro.so", a, " ")
+                for (i=1;i<=n;i++) required[a[i]]=1
+                if (rf) { required["Mister_RetroForge"]=1; required["_Other/RetroForge.rbf"]=1; required["games/RetroArch/.mamefrontend/retroforge"]=1 }
+            }
+            function record(p,s) {
+                if ((p in required) || p ~ /^games\/RetroArch\/\.payload\/[A-Za-z_]+\.elf$/ || p ~ /^games\/RetroArch\/[A-Za-z_]+\.sh$/ || p == "_Arcade/cores/RetroArch.rbf") {
+                    if (seen[p]++ || length(s)!=64 || s ~ /[^0-9a-f]/) bad=1
+                    print s "  " p
+                }
+            }
+            sums { record($2,$1); next }
             /"path":/ { p=$0; sub(/^[^:]*: *"/, "", p); sub(/".*$/, "", p); next }
             /"sha256":/ && p != "" {
                 s=$0; sub(/^[^:]*: *"/, "", s); sub(/".*$/, "", s)
-                if (p ~ /^(Mister_RetroArch|Mister_RetroForge|_Other\/RetroArch\.rbf|_Other\/RetroForge\.rbf|games\/RetroArch\/RetroArch|games\/RetroArch\/_handler\.sh|games\/RetroArch\/cores\/mame2003_plus_libretro\.so|games\/RetroArch\/\.mamefrontend\/retroforge|games\/RetroArch\/\.payload\/[A-Za-z_]+\.elf)$/)
-                    print s "  " root "/" p
-                p=""
-            }' "$MANIFEST" | sha256sum -c 2>/dev/null | grep -v ': OK$' || true
-    }
-    if [ -z "$PREFLIGHT" ] && [ -f "$MANIFEST" ] && [ ! -L "$MANIFEST" ]; then
+                record(p,s); p=""
+            }
+            NF { last=$0 }
+            END { for (p in required) if (!seen[p]) bad=1; if (!sums && last !~ /^}[\r ]*$/) bad=1; exit bad }
+        ' "$MANIFEST" > "$LOCK/checksums"; then
+            PREFLIGHT="READY_MANIFEST.json is incomplete or unsupported; rerun Downloader to obtain a complete matching package"
+        fi
+    fi
+    if [ -z "$PREFLIGHT" ]; then
         BAD=$(manifest_bad)
-        if [ -n "$BAD" ]; then
+        if [ -n "$BAD" ] && [ "$CHECK_ONLY" -eq 0 ]; then
             for file in Mister_RetroArch Mister_RetroForge games/RetroArch/RetroArch games/RetroArch/.mamefrontend/retroforge; do
                 SAFE="$ROOT/games/RetroArch/.payload/${file##*/}.elf"
-                echo "$BAD" | grep -q "/$file: " || continue
-                echo "$BAD" | grep -q "/${SAFE#$ROOT/}: " && continue
-                [ ! -L "$SAFE" ] && [ -s "$SAFE" ] && [ ! -L "$ROOT/$file" ] || continue
-                cp -f "$SAFE" "$ROOT/$file.new" && mv -f "$ROOT/$file.new" "$ROOT/$file" \
-                    && echo "Restored $file from the binary-safe copy (it was altered in transfer; copy READY in binary mode)."
+                echo "$BAD" | grep -F -q "$file: " || continue
+                safe_path "$SAFE" && safe_path "$ROOT/$file" || continue
+                expected=$(awk -v p="$file" '$2==p {print $1}' "$LOCK/checksums")
+                backup_hash=$(awk -v p="${SAFE#$ROOT/}" '$2==p {print $1}' "$LOCK/checksums")
+                [ -n "$expected" ] && [ "$expected" = "$backup_hash" ] && [ -s "$SAFE" ] || continue
+                actual=$(sha256sum "$SAFE") || continue
+                [ "${actual%% *}" = "$expected" ] || continue
+                TMP=$(mktemp "$ROOT/$file.repair.XXXXXX")
+                if cp "$SAFE" "$TMP" && actual=$(sha256sum "$TMP") && [ "${actual%% *}" = "$expected" ]; then
+                    mv -f "$TMP" "$ROOT/$file"
+                    TMP=""
+                    echo "Restored $file from its verified binary-safe copy."
+                else
+                    rm -f "$TMP"; TMP=""
+                fi
             done
             BAD=$(manifest_bad)
         fi
-        [ -z "$BAD" ] || PREFLIGHT="copied files do not match the package (copy READY again in binary mode: an FTP/sync tool in text mode corrupts the extensionless programs): $(echo "$BAD" | sed "s#$ROOT/##" | tr '\n' ' ')"
+        [ -z "$BAD" ] || PREFLIGHT="copied files do not match the package:
+$BAD
+Rerun Downloader with the RetroForge database enabled, wait for successful completion, then rerun Install-RetroForge.sh. For damaged files, set file_checking = verify_integrity under [MiSTer] in /media/fat/downloader.ini before rerunning Downloader. Check download filters and free SD-card space. For manual copies, replace the complete READY package in binary mode. Do not edit checksums or mix releases."
     fi
     # The sidecars must load on this MiSTer Linux (libraries, glibc symbols).
     LDSO=${FRONTIER_LDSO:-/lib/ld-linux-armhf.so.3}
-    if [ -z "$PREFLIGHT" ] && [ -x "$LDSO" ]; then
-        for file in Mister_RetroArch Mister_RetroForge; do
+    if [ -z "$PREFLIGHT" ] && [ ! -x "$LDSO" ]; then
+        PREFLIGHT="ARM runtime loader is missing: $LDSO; update MiSTer Linux before installing"
+    fi
+    if [ -z "$PREFLIGHT" ]; then
+        for file in Mister_RetroArch Mister_RetroForge games/RetroArch/RetroArch games/RetroArch/.mamefrontend/retroforge games/RetroArch/cores/mame2003_plus_libretro.so; do
             [ "$file" != Mister_RetroForge ] || [ "$RETROFORGE" -eq 1 ] || continue
+            [ "$file" != games/RetroArch/.mamefrontend/retroforge ] || [ "$RETROFORGE" -eq 1 ] || continue
             [ -e "$ROOT/$file" ] || continue
             if ! OUT=$("$LDSO" --list "$ROOT/$file" 2>&1) || echo "$OUT" | grep -q 'not found'; then
-                PREFLIGHT="$file cannot run on this MiSTer Linux: $(echo "$OUT" | grep 'not found' | head -n 3 | tr '\n' ' ')"
+                PREFLIGHT="$file cannot run on this MiSTer Linux: $(echo "$OUT" | head -n 6 | tr '\n' ' ')"
                 break
             fi
         done
     fi
+    if [ "$CHECK_ONLY" -eq 1 ]; then
+        [ -z "$PREFLIGHT" ] || { printf '%s\n' "$PREFLIGHT" >&2; exit 70; }
+        echo "RetroForge installation integrity and ARM dependencies verified. Physical boot is a separate check."
+        exit 0
+    fi
     if [ -n "$PREFLIGHT" ]; then
         echo "Install stopped: $PREFLIGHT" >&2
+        if safe_path "$ROOT/games/RetroArch/logs" && mkdir -p "$ROOT/games/RetroArch/logs"; then
+            LOG="$ROOT/games/RetroArch/logs/retroforge-install.log"
+            if [ ! -L "$LOG" ]; then printf '%s\n' "$PREFLIGHT" > "$LOG" || true; fi
+        fi
         echo "Removing the RetroArch/RetroForge main= selectors so these RBFs cannot hand over to a sidecar that cannot run." >&2
         ACTION=uninstall
     fi
@@ -142,6 +237,7 @@ fi
 # never outside the SD card tree). This runs before anything that needs the MRAs. A failure only warns: the install
 # continues and RetroForge offers the MRA install again at its next start (or Options > Install MRAs).
 if [ "$ACTION" = install ]; then
+    [ "$RETROFORGE" -eq 0 ] || chmod 755 "$ROOT/games/RetroArch/.mamefrontend/retroforge"
     MRAS_ZIP="$ROOT/games/RetroArch/.mamefrontend/mras.zip"
     MRAS_TOOL="$ROOT/games/RetroArch/.mamefrontend/retroforge"
     if [ -f "$MRAS_ZIP" ] && [ ! -L "$MRAS_ZIP" ]; then
@@ -173,26 +269,7 @@ if [ "$ACTION" = install ] && [ "$RETROFORGE" -eq 1 ]; then
     fi
 fi
 
-# One lock for every MiSTer.ini writer; never expose a partially written INI.
-LOCK="$INI.retroarch-lock"
-mkdir "$LOCK" 2>/dev/null || { echo "MiSTer.ini setup is already running: $LOCK" >&2; exit 75; }
-TMP=""
-COMMITTED=0
-LAYOUT_BACKUP="$ROOT/games/RetroArch/.layout-backups/$(date -u +%Y%m%dT%H%M%SZ).$$"
-cleanup() {
-    rc=$?
-    trap - 0 HUP INT TERM
-    if [ "$ACTION" = install ] && [ "$COMMITTED" -eq 0 ]; then
-        frontend_layout_restore "$LAYOUT_BACKUP" || rc=$?
-    fi
-    [ -z "$TMP" ] || rm -f "$TMP"
-    rmdir "$LOCK" 2>/dev/null || true
-    exit "$rc"
-}
-trap cleanup 0
-trap 'exit 129' HUP
-trap 'exit 130' INT
-trap 'exit 143' TERM
+# Never expose a partially written INI.
 if [ "$ACTION" = install ]; then
     frontend_layout_migrate "$LAYOUT_BACKUP"
     if [ -d "$LAYOUT_BACKUP" ]; then cp -p "$INI" "$LAYOUT_BACKUP/MiSTer.ini"; fi
@@ -257,7 +334,7 @@ if [ "$ACTION" = install ]; then
     chmod 755 "$ROOT/Mister_RetroArch" "$ROOT/games/RetroArch/RetroArch" "$ROOT/games/RetroArch/_handler.sh"
     [ "$RETROFORGE" -eq 0 ] || chmod 755 "$ROOT/Mister_RetroForge"
     # Older releases shipped several setup/launcher scripts; this one replaces them all.
-    for old in Install-RetroArch.sh RetroArch.sh RetroArch_Setup.sh RetroForge.sh RetroForge_Setup.sh; do
+    for old in Install_RetroArch.sh Install-RetroArch.sh RetroArch.sh RetroArch_Setup.sh RetroForge.sh RetroForge_Setup.sh; do
         if [ -f "$ROOT/Scripts/$old" ] && [ ! -L "$ROOT/Scripts/$old" ]; then rm -f "$ROOT/Scripts/$old"; fi
     done
 fi
@@ -274,5 +351,9 @@ cp -p "$INI" "$BACKUP"
 mv -f "$TMP" "$INI"
 TMP=""
 COMMITTED=1
-echo "RetroArch package $ACTION complete (RetroForge=$RETROFORGE). Backup: $BACKUP"
+if [ -n "$PREFLIGHT" ]; then
+    echo "Unsafe launch selectors disabled. INI backup: $BACKUP"
+else
+    echo "RetroArch package $ACTION complete (RetroForge=$RETROFORGE). Backup: $BACKUP"
+fi
 [ -z "$PREFLIGHT" ] || { echo "Install stopped: $PREFLIGHT" >&2; exit 70; }
