@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "PASS_COPY_AUDIT",
-  "retroforge_manifest_sha256": "a373f0b50d8373fadc758a055cb5432f07db6da09842e2b18149627e63a3c279",
+  "retroforge_manifest_sha256": "08a94efc4a664656bd53b585545ca1715521b23e585888e090424d1045b3faf7",
   "frontend_source_snapshot": {
     "launcher/custom_main/build.sh": "5914a69141996ace1c2313134e573eac90dffe9afb888ee860c586c6c5336eb9",
     "launcher/custom_main/frontier_display_page.cpp": "017353621d05b22267d0098960a1de88ba642fac9dd203733d166746654543cf",
@@ -15,7 +15,7 @@
     "retroforge/runtime/Makefile": "9dac8dae61f2226cf807747530600d95a252ae683f68c4a109cba03bea05cd5d",
     "retroforge/runtime/background_videos.h": "c57b4f6daebde7641b2a5b4f6f987f9d89ce4ac3125debebc929badb2076a913",
     "retroforge/runtime/developer_digest.h": "e7be888ab12a08a33b282e23570d62bb28e588e4a7c1b48ab74dbb3e1ccf01a2",
-    "retroforge/runtime/developer_downloads.generated.h": "fe8274e5d14a79db848577add47509afc5d7454ae79bdb7c6702c37718880dd3",
+    "retroforge/runtime/developer_downloads.generated.h": "e5ec55b70c848ad4861606383cbf4cf4c3be139a3b36d00cba354c964892e340",
     "retroforge/runtime/developer_downloads.h": "e4d351e593512ac1a0abf7acf4b84a7b642d94b60d6f93238d7e087cf046eaef",
     "retroforge/runtime/developer_manifest.h": "a2265c0156ed7fa1bf23fcbac154205ee8fa0065be256cfdae690dad9c66c351",
     "retroforge/runtime/distribution_updates.h": "f048360df4db477a53398a5f38bd43289514f17fe65a16090dddb97ecb7fddfa",
@@ -149,8 +149,8 @@
     },
     {
       "path": "games/RetroArch/.mamefrontend/retroforge",
-      "sha256": "ce7acb9cbde39b6fb8839834d4651305dadd6b4d90056a1c32b05f0ac262a94c",
-      "bytes": 2805664
+      "sha256": "9aece502668824634301528a5f8540dfe0555f86c3e4d0102e0af2196eabd738",
+      "bytes": 2834336
     },
     {
       "path": "games/RetroArch/.payload/Mister_RetroArch.elf",
@@ -169,8 +169,8 @@
     },
     {
       "path": "games/RetroArch/.payload/retroforge.elf",
-      "sha256": "ce7acb9cbde39b6fb8839834d4651305dadd6b4d90056a1c32b05f0ac262a94c",
-      "bytes": 2805664
+      "sha256": "9aece502668824634301528a5f8540dfe0555f86c3e4d0102e0af2196eabd738",
+      "bytes": 2834336
     },
     {
       "path": "games/RetroArch/RetroArch",
