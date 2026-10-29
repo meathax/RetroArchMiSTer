@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "PASS_COPY_AUDIT",
-  "retroforge_manifest_sha256": "af21d7753734ace050b202bfb18becdde60e975b082e14bc4285c160fb9d0735",
+  "retroforge_manifest_sha256": "7558494ce0575b060e0eef3d1579509ce75d9d8216bd24911d4a0481cb82ee36",
   "frontend_source_snapshot": {
     "launcher/custom_main/build.sh": "5914a69141996ace1c2313134e573eac90dffe9afb888ee860c586c6c5336eb9",
     "launcher/custom_main/frontier_display_page.cpp": "017353621d05b22267d0098960a1de88ba642fac9dd203733d166746654543cf",
@@ -17,7 +17,7 @@
     "retroforge/runtime/developer_digest.h": "e7be888ab12a08a33b282e23570d62bb28e588e4a7c1b48ab74dbb3e1ccf01a2",
     "retroforge/runtime/developer_downloads.generated.h": "e5ec55b70c848ad4861606383cbf4cf4c3be139a3b36d00cba354c964892e340",
     "retroforge/runtime/developer_downloads.h": "e4d351e593512ac1a0abf7acf4b84a7b642d94b60d6f93238d7e087cf046eaef",
-    "retroforge/runtime/developer_manifest.h": "a2265c0156ed7fa1bf23fcbac154205ee8fa0065be256cfdae690dad9c66c351",
+    "retroforge/runtime/developer_manifest.h": "0c70b72f97ad3393e067bb9b55081e6d96303db92ef3f72e2c9962558084195f",
     "retroforge/runtime/distribution_updates.h": "f048360df4db477a53398a5f38bd43289514f17fe65a16090dddb97ecb7fddfa",
     "retroforge/runtime/durable_save.h": "fbb684f76647681ab137a3be3d7075e9d1210deef0fdad413073e8596159bcbd",
     "retroforge/runtime/game_inventory.h": "03f7f927a923b2d25e73eba20a2be27a4e17be8f0148272b4b1a1ec13cc55ee9",
@@ -149,7 +149,7 @@
     },
     {
       "path": "games/RetroArch/.mamefrontend/retroforge",
-      "sha256": "31134c72d464077aa3559bfface22cdc5cc79542e190155caf8d95e289435e91",
+      "sha256": "133d6ab37d689244a911dd09bb498f86ed1c5b7befc4b34fdfd27c91ae623967",
       "bytes": 2834336
     },
     {
@@ -169,7 +169,7 @@
     },
     {
       "path": "games/RetroArch/.payload/retroforge.elf",
-      "sha256": "31134c72d464077aa3559bfface22cdc5cc79542e190155caf8d95e289435e91",
+      "sha256": "133d6ab37d689244a911dd09bb498f86ed1c5b7befc4b34fdfd27c91ae623967",
       "bytes": 2834336
     },
     {
