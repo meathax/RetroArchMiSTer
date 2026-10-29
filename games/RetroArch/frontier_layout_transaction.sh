@@ -19,7 +19,7 @@ frontier_tx_intent_matches() (
   intent=$1; state=$2; target=$3
   test -f "$intent" && test ! -L "$intent" || return 1
   case "$state" in present|absent|staged) ;; *) return 65;; esac
-  case "$target" in Mister_RetroArch|_Other/RetroArch.rbf|games/RetroArch|Scripts/RetroArch_Setup.sh|Scripts/Install_RetroArch.sh|_Other/.mamefrontend|_Arcade/_MeatCores/_RetroArch) ;; *) return 65;; esac
+  case "$target" in Mister_RetroArch|_Other/RetroArch.rbf|games/RetroArch|Scripts/RetroArch_Setup.sh|Scripts/Install_RetroArch.sh|Scripts/Install-RetroForge.sh|_Other/.mamefrontend|_Arcade/_MeatCores/_RetroArch) ;; *) return 65;; esac
   printf '%s\n' "$state|$target" | cmp -s - "$intent"
 )
 
