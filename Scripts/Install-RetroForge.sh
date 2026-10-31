@@ -29,9 +29,23 @@ set -eu
 
 ROOT=${FRONTIER_MISTER_ROOT:-/media/fat}
 INI=${FRONTIER_MISTER_INI:-}
+EXPLICIT_INI=$INI
 ACTION=${1:-install}
 CHECK_ONLY=0
 PREFLIGHT=""
+show_error() {
+    MESSAGE="RetroForge installation FAILED. Do not launch RetroForge yet.
+
+$1
+
+Fix the error above, then rerun Scripts/Install-RetroForge.sh. For missing or damaged package files, rerun Downloader with file_checking = verify_integrity and the RetroForge database enabled first. Check SD-card free space and write access.
+
+An RBF without its main= selector can show an empty RetroForge OSD; rebooting will not repair the installation."
+    printf '%s\n' "$MESSAGE" >&2
+    if [ -t 0 ] && [ -t 1 ] && command -v dialog >/dev/null 2>&1; then
+        dialog --clear --title "RetroForge installation failed" --msgbox "$MESSAGE" 22 76 || true
+    fi
+}
 case "$ACTION" in
     # crt/hdmi switched a display choice in older releases; both outputs now run together.
     install|--install|crt|--crt|hdmi|--hdmi) ACTION=install ;;
@@ -49,13 +63,17 @@ if [ -z "$INI" ]; then
     fi
 fi
 [ ! -L "$INI" ] && [ -f "$INI" ] || {
-    echo "MiSTer.ini is missing or unsafe: $INI" >&2; exit 65;
+    show_error "MiSTer.ini is missing or unsafe: $INI"; exit 65;
 }
+PRIMARY_INI=$INI
 
 # Hold the same lock through repairs, unpacking, migration and selector commit.
 # A leftover lock is deliberately not stolen: another installer may still own it.
-LOCK="$INI.retroarch-lock"
-mkdir "$LOCK" 2>/dev/null || { echo "MiSTer.ini setup is already running: $LOCK (after an interrupted run, reboot before removing this lock)." >&2; exit 75; }
+LOCK="$ROOT/.retroforge-install-lock"
+if [ -e "$INI.retroarch-lock" ] || ! mkdir "$LOCK" 2>/dev/null; then
+    show_error "MiSTer.ini setup is already running or its lock cannot be created: $LOCK. After an interrupted run, reboot and confirm no installer is running before removing a leftover lock."
+    exit 75
+fi
 TMP=""
 COMMITTED=0
 LAYOUT_BACKUP="$ROOT/games/RetroArch/.layout-backups/$(date -u +%Y%m%dT%H%M%SZ).$$"
@@ -69,6 +87,9 @@ cleanup() {
     [ -z "$TMP" ] || rm -f "$TMP"
     rm -f "$LOCK/checksums" "$LOCK/verify.log"
     rmdir "$LOCK" 2>/dev/null || true
+    if [ "$rc" -ne 0 ]; then
+        show_error "${PREFLIGHT:-The configuration was not confirmed (exit $rc). See the preceding error. INI: $INI}"
+    fi
     exit "$rc"
 }
 trap cleanup 0
@@ -88,7 +109,23 @@ for directory in "$ROOT" "$ROOT/games/RetroArch" "$ROOT/_Other" "$ROOT/Scripts";
     safe_path "$directory" || { echo "Unsafe linked installation path: $directory" >&2; exit 65; }
 done
 
+# Main can select any of these alternate files. Configure the same selectors
+# in each one, rather than reporting success for an unused default INI.
+check_ini_paths() {
+    for candidate in "$PRIMARY_INI" "$ROOT"/[Mm][Ii][Ss][Tt][Ee][Rr]_*.[Ii][Nn][Ii]; do
+        [ -z "$EXPLICIT_INI" ] || [ "$candidate" = "$PRIMARY_INI" ] || continue
+        [ -e "$candidate" ] || [ -L "$candidate" ] || continue
+        if ! safe_path "$candidate" || [ ! -f "$candidate" ]; then
+            PREFLIGHT="Unsafe INI file: $candidate. No launch selectors were installed."
+            exit 65
+        fi
+    done
+}
+check_ini_paths
+
 RETROFORGE=0
+RETROFORGE_CRT=0
+[ ! -e "$ROOT/_Other/RetroForge CRT.rbf" ] || RETROFORGE_CRT=1
 PROFILE=auto
 PROFILE_FILE="$ROOT/games/RetroArch/package-profile"
 if [ -e "$PROFILE_FILE" ] || [ -L "$PROFILE_FILE" ]; then
@@ -149,11 +186,12 @@ if [ "$ACTION" = install ]; then
             PREFLIGHT="READY_MANIFEST.json is missing, empty or unsafe; rerun Downloader with the RetroForge database enabled, then rerun this installer"
         # The package writer emits one path/hash property per line. Reject
         # unsupported formatting, omitted critical rows and invalid/duplicate hashes.
-        elif ! awk -v rf="$RETROFORGE" -v sums="$SUMFILE" '
+        elif ! awk -v rf="$RETROFORGE" -v crt="$RETROFORGE_CRT" -v sums="$SUMFILE" '
             BEGIN {
                 n=split("Mister_RetroArch _Other/RetroArch.rbf games/RetroArch/RetroArch games/RetroArch/_handler.sh games/RetroArch/cores/mame2003_plus_libretro.so", a, " ")
                 for (i=1;i<=n;i++) required[a[i]]=1
                 if (rf) { required["Mister_RetroForge"]=1; required["_Other/RetroForge.rbf"]=1; required["games/RetroArch/.mamefrontend/retroforge"]=1 }
+                if (rf && crt) required["_Other/RetroForge CRT.rbf"]=1
             }
             function record(p,s) {
                 if ((p in required) || p ~ /^games\/RetroArch\/\.payload\/[A-Za-z_]+\.elf$/ || p ~ /^games\/RetroArch\/[A-Za-z_]+\.sh$/ || p == "_Arcade/cores/RetroArch.rbf") {
@@ -232,6 +270,28 @@ Rerun Downloader with the RetroForge database enabled, wait for successful compl
     fi
 fi
 
+want_mras() {
+    case "${FRONTIER_INSTALL_MRAS:-ask}" in
+        yes) return 0 ;;
+        no) return 1 ;;
+        ask) ;;
+        *) PREFLIGHT="Invalid FRONTIER_INSTALL_MRAS value (use ask, yes or no)."; exit 64 ;;
+    esac
+    if [ -t 0 ] && [ -t 1 ] && command -v dialog >/dev/null 2>&1; then
+        if dialog --clear --title "RetroForge: optional MRA files" --defaultno \
+            --yes-label "Yes" --no-label "No" --yesno \
+            "Install the optional MRA game launchers now?\n\nYou can also install them later in RetroForge Options.\n\nController: D-pad Left/Right selects Yes or No; the confirm button accepts; Back skips." 15 72; then
+            return 0
+        else
+            choice_status=$?
+            case "$choice_status" in 1|255) ;; *) echo "MRA menu unavailable (exit $choice_status); skipping optional files." >&2 ;; esac
+            return 1
+        fi
+    fi
+    echo "MRA files skipped: no interactive menu is available. Install them later in RetroForge Options, or rerun with FRONTIER_INSTALL_MRAS=yes."
+    return 1
+}
+
 # MRA launchers ship as one zip (games/RetroArch/.mamefrontend/mras.zip). Unpack them with the frontend's own
 # unpacker (same safety rules as the snaps: only *.mra under _Arcade/_MeatCores/_RetroArch, .part + CRC + rename,
 # never outside the SD card tree). This runs before anything that needs the MRAs. A failure only warns: the install
@@ -242,10 +302,14 @@ if [ "$ACTION" = install ]; then
     MRAS_TOOL="$ROOT/games/RetroArch/.mamefrontend/retroforge"
     if [ -f "$MRAS_ZIP" ] && [ ! -L "$MRAS_ZIP" ]; then
         if [ -x "$MRAS_TOOL" ] && [ ! -L "$MRAS_TOOL" ]; then
+          if want_mras; then
             echo "Installing the MRA launchers (about a minute on the first install)..."
             if MAME2003PLUS_ROOT="$ROOT" "$MRAS_TOOL" --unpack-mras; then :; else
                 echo "Warning: the MRAs were not fully installed; RetroForge offers it again at its next start." >&2
             fi
+          else
+            echo "Optional MRA installation skipped."
+          fi
         else
             echo "Warning: mras.zip is present but the RetroForge program is missing; MRAs not installed." >&2
         fi
@@ -274,16 +338,39 @@ if [ "$ACTION" = install ]; then
     frontend_layout_migrate "$LAYOUT_BACKUP"
     if [ -d "$LAYOUT_BACKUP" ]; then cp -p "$INI" "$LAYOUT_BACKUP/MiSTer.ini"; fi
 fi
+verify_selectors() {
+    awk -v action="$ACTION" -v rf="$RETROFORGE" -v crt="$RETROFORGE_CRT" '
+        { line=$0; sub(/\r$/, "", line); sub(/^\357\273\277/, "", line) }
+        line ~ /^[ \t]*\[/ {
+            section=tolower(line); sub(/^[ \t]*\[[ \t]*/, "", section); sub(/[ \t]*\].*$/, "", section)
+        }
+        section ~ /^(retroarch|retroforge|retroforge crt)$/ && tolower(line) ~ /^[ \t]*main[ \t]*=/ {
+            value=line; sub(/^[^=]*=[ \t]*/, "", value); sub(/[ \t]*$/, "", value)
+            expected=(section == "retroarch" ? "Mister_RetroArch" : "Mister_RetroForge")
+            if (value != expected) bad=1
+            count[section]++
+        }
+        END {
+            install=(action == "install")
+            if (count["retroarch"] != install || count["retroforge"] != (install && rf) || count["retroforge crt"] != (install && rf && crt)) bad=1
+            exit bad
+        }
+    ' "$1"
+}
+
+configure_ini() {
+INI=$1
 TMP=$(mktemp "$INI.retroarch-new.XXXXXX")
 
 # One AWK pass handles both sections, duplicate sections/keys, case, BOM and CRLF.
 # The sidecars choose the display themselves; only the selectors are written.
-awk -v action="$ACTION" -v retroforge="$RETROFORGE" '
+awk -v action="$ACTION" -v retroforge="$RETROFORGE" -v crt="$RETROFORGE_CRT" '
 function emit(value) { printf "%s%s\n", value, cr }
 function selector() {
     installed[target]=1
-    if (action != "install" || (target == "RetroForge" && !retroforge)) return
-    emit("main=Mister_" target)
+    if (action != "install" || (target ~ /^RetroForge/ && !retroforge)) return
+    if (target == "RetroForge CRT" && !crt) return
+    emit("main=Mister_" (target == "RetroForge CRT" ? "RetroForge" : target))
 }
 {
     line=$0
@@ -297,7 +384,7 @@ function selector() {
         sub(/\].*$/, "", header)
         gsub(/^[ \t]+|[ \t]+$/, "", header)
         header=tolower(header)
-        target=(header == "retroforge" ? "RetroForge" : header == "retroarch" ? "RetroArch" : "")
+        target=(header == "retroforge crt" ? "RetroForge CRT" : header == "retroforge" ? "RetroForge" : header == "retroarch" ? "RetroArch" : "")
         if (target) seen[target]=1
     }
     if (target && tolower(line) ~ /^[ \t]*main[ \t]*=/) {
@@ -319,9 +406,10 @@ function selector() {
 END {
     if (target && !installed[target]) selector()
     if (action != "install") exit
-    for (i=1; i<=2; i++) {
-        target=(i == 1 ? "RetroArch" : "RetroForge")
-        if (target == "RetroForge" && !retroforge) continue
+    for (i=1; i<=3; i++) {
+        target=(i == 1 ? "RetroArch" : i == 2 ? "RetroForge" : "RetroForge CRT")
+        if (target ~ /^RetroForge/ && !retroforge) continue
+        if (target == "RetroForge CRT" && !crt) continue
         if (!seen[target]) {
             if (NR > 0 || i > 1) emit("")
             emit("[" target "]")
@@ -329,6 +417,27 @@ END {
         }
     }
 }' "$INI" > "$TMP"
+if ! verify_selectors "$TMP"; then
+    PREFLIGHT="Could not write the required main= selector lines correctly in $INI. The original file was kept."
+    exit 74
+fi
+
+if ! cmp -s "$INI" "$TMP"; then
+    chmod "$(stat -c '%a' "$INI" 2>/dev/null || echo 644)" "$TMP"
+    BACKUP="$INI.retroarch-backup.$(date -u +%Y%m%dT%H%M%SZ).$$"
+    cp -p "$INI" "$BACKUP"
+    mv -f "$TMP" "$INI"
+    TMP=""
+    echo "INI backup: $BACKUP"
+else
+    rm -f "$TMP"; TMP=""
+fi
+if ! verify_selectors "$INI"; then
+    PREFLIGHT="Selector readback failed for $INI. Check SD-card write errors and restore its .retroarch-backup file if necessary."
+    exit 74
+fi
+echo "Verified launch selectors ($ACTION): $INI"
+}
 
 if [ "$ACTION" = install ]; then
     chmod 755 "$ROOT/Mister_RetroArch" "$ROOT/games/RetroArch/RetroArch" "$ROOT/games/RetroArch/_handler.sh"
@@ -339,21 +448,15 @@ if [ "$ACTION" = install ]; then
     done
 fi
 
-if cmp -s "$INI" "$TMP"; then
-    COMMITTED=1
-    echo "RetroArch package is already configured ($ACTION; RetroForge=$RETROFORGE)."
-    [ -z "$PREFLIGHT" ] || exit 70
-    exit 0
-fi
-chmod "$(stat -c '%a' "$INI" 2>/dev/null || echo 644)" "$TMP"
-BACKUP="$INI.retroarch-backup.$(date -u +%Y%m%dT%H%M%SZ).$$"
-cp -p "$INI" "$BACKUP"
-mv -f "$TMP" "$INI"
-TMP=""
+for candidate in "$PRIMARY_INI" "$ROOT"/[Mm][Ii][Ss][Tt][Ee][Rr]_*.[Ii][Nn][Ii]; do
+    [ -z "$EXPLICIT_INI" ] || [ "$candidate" = "$PRIMARY_INI" ] || continue
+    [ -f "$candidate" ] || continue
+    configure_ini "$candidate"
+done
 COMMITTED=1
 if [ -n "$PREFLIGHT" ]; then
-    echo "Unsafe launch selectors disabled. INI backup: $BACKUP"
+    echo "Unsafe launch selectors disabled. RetroForge is NOT ready to launch."
 else
-    echo "RetroArch package $ACTION complete (RetroForge=$RETROFORGE). Backup: $BACKUP"
+    echo "RetroArch package $ACTION complete (RetroForge=$RETROFORGE)."
 fi
 [ -z "$PREFLIGHT" ] || { echo "Install stopped: $PREFLIGHT" >&2; exit 70; }
