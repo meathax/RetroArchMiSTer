@@ -270,50 +270,10 @@ Rerun Downloader with the RetroForge database enabled, wait for successful compl
     fi
 fi
 
-want_mras() {
-    case "${FRONTIER_INSTALL_MRAS:-ask}" in
-        yes) return 0 ;;
-        no) return 1 ;;
-        ask) ;;
-        *) PREFLIGHT="Invalid FRONTIER_INSTALL_MRAS value (use ask, yes or no)."; exit 64 ;;
-    esac
-    if [ -t 0 ] && [ -t 1 ] && command -v dialog >/dev/null 2>&1; then
-        if dialog --clear --title "RetroForge: optional MRA files" --defaultno \
-            --yes-label "Yes" --no-label "No" --yesno \
-            "Install the optional MRA game launchers now?\n\nYou can also install them later in RetroForge Options.\n\nController: D-pad Left/Right selects Yes or No; the confirm button accepts; Back skips." 15 72; then
-            return 0
-        else
-            choice_status=$?
-            case "$choice_status" in 1|255) ;; *) echo "MRA menu unavailable (exit $choice_status); skipping optional files." >&2 ;; esac
-            return 1
-        fi
-    fi
-    echo "MRA files skipped: no interactive menu is available. Install them later in RetroForge Options, or rerun with FRONTIER_INSTALL_MRAS=yes."
-    return 1
-}
-
-# MRA launchers ship as one zip (games/RetroArch/.mamefrontend/mras.zip). Unpack them with the frontend's own
-# unpacker (same safety rules as the snaps: only *.mra under _Arcade/_MeatCores/_RetroArch, .part + CRC + rename,
-# never outside the SD card tree). This runs before anything that needs the MRAs. A failure only warns: the install
-# continues and RetroForge offers the MRA install again at its next start (or Options > Install MRAs).
+# Optional MRA installation is exclusively an explicit frontend Options action.
+# Do not inspect/unpack the archive or prompt during installation/startup.
 if [ "$ACTION" = install ]; then
     [ "$RETROFORGE" -eq 0 ] || chmod 755 "$ROOT/games/RetroArch/.mamefrontend/retroforge"
-    MRAS_ZIP="$ROOT/games/RetroArch/.mamefrontend/mras.zip"
-    MRAS_TOOL="$ROOT/games/RetroArch/.mamefrontend/retroforge"
-    if [ -f "$MRAS_ZIP" ] && [ ! -L "$MRAS_ZIP" ]; then
-        if [ -x "$MRAS_TOOL" ] && [ ! -L "$MRAS_TOOL" ]; then
-          if want_mras; then
-            echo "Installing the MRA launchers (about a minute on the first install)..."
-            if MAME2003PLUS_ROOT="$ROOT" "$MRAS_TOOL" --unpack-mras; then :; else
-                echo "Warning: the MRAs were not fully installed; RetroForge offers it again at its next start." >&2
-            fi
-          else
-            echo "Optional MRA installation skipped."
-          fi
-        else
-            echo "Warning: mras.zip is present but the RetroForge program is missing; MRAs not installed." >&2
-        fi
-    fi
 fi
 
 if [ "$ACTION" = install ]; then
