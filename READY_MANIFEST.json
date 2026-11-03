@@ -8,7 +8,7 @@
     "launcher/custom_main/frontier_display_page.h": "c311a8fcc56788884f39c8d36cc2933cb0ef6a20ccfd1c5fc545356ae81ab910",
     "launcher/custom_main/frontier_hdmi_guard.cpp": "a7603f95193bd6caf781481623a01b28293800f61d094502effbe926c3543781",
     "launcher/custom_main/frontier_hdmi_guard.h": "bcc873d9914136ed5206a216334f3ade790dece23731f0d7f1a432a392e2f7c2",
-    "launcher/custom_main/hdmi_compat_patch.py": "a4a0531610736480166056be16072c1cd2f111b5534caa8efdfe989aa299c946",
+    "launcher/custom_main/hdmi_compat_patch.py": "8dda19d053dd3391b5715972f8a68533dda60605803f37d4271b8e5e8ec355d8",
     "launcher/custom_main/menu_frontier_patch.py": "ae94d3113dd144778f9f062644485a8b1527b1fcee817d68faee9a0c351a6d89",
     "launcher/custom_main/native_refresh_patch.py": "89b23af3372f38e36b09febd732782099c2302bcbe3d1ce036cd14e8654bba21",
     "launcher/custom_main/retroarch_main.cpp": "bf387e31634c173143e2c88ec3b6e5f8ae66dd39f897dab6b673b28fdc392add",
@@ -67,7 +67,7 @@
     },
     {
       "path": "Mister_RetroArch",
-      "sha256": "314c72b51a52fbcb01bf8850936ecde975e27022314c1abd0bd159b5210bc28d",
+      "sha256": "964937bbae5f57cce5a7ff02d2762a982b8eb49eab1584ab6b5447a5079d553f",
       "bytes": 2208372
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "path": "games/RetroArch/.payload/Mister_RetroArch.elf",
-      "sha256": "314c72b51a52fbcb01bf8850936ecde975e27022314c1abd0bd159b5210bc28d",
+      "sha256": "964937bbae5f57cce5a7ff02d2762a982b8eb49eab1584ab6b5447a5079d553f",
       "bytes": 2208372
     },
     {
