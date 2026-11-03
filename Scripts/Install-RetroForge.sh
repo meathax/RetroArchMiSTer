@@ -11,6 +11,9 @@
 #   [RetroForge]
 #   main=Mister_RetroForge
 #
+#   [RetroForge CRT]
+#   main=Mister_RetroForge
+#
 # Both cores drive HDMI (MiSTer.ini video settings) and the analog CRT output at
 # the same time, so there is no display choice to make or switch. The installer
 # removes display lines older installers put in [RetroForge] (one was a 15 kHz
@@ -124,8 +127,12 @@ check_ini_paths() {
 check_ini_paths
 
 RETROFORGE=0
+# [RetroForge CRT] is written whenever RetroForge is installed, so CRT users
+# always have its main= selector (without it stock Main runs the CRT RBF with
+# no frontend). CRT_RBF only decides whether that RBF's checksum is verified.
 RETROFORGE_CRT=0
-[ ! -e "$ROOT/_Other/RetroForge CRT.rbf" ] || RETROFORGE_CRT=1
+CRT_RBF=0
+[ ! -e "$ROOT/_Other/RetroForge CRT.rbf" ] || CRT_RBF=1
 PROFILE=auto
 PROFILE_FILE="$ROOT/games/RetroArch/package-profile"
 if [ -e "$PROFILE_FILE" ] || [ -L "$PROFILE_FILE" ]; then
@@ -153,6 +160,7 @@ if [ "$ACTION" = install ]; then
             }
         done
         RETROFORGE=1
+        RETROFORGE_CRT=1
     fi
     # Preflight. After stock Main loads one of these RBFs it hands over to the
     # sidecar named by main=; until that sidecar sets the video mode nothing
@@ -186,7 +194,7 @@ if [ "$ACTION" = install ]; then
             PREFLIGHT="READY_MANIFEST.json is missing, empty or unsafe; rerun Downloader with the RetroForge database enabled, then rerun this installer"
         # The package writer emits one path/hash property per line. Reject
         # unsupported formatting, omitted critical rows and invalid/duplicate hashes.
-        elif ! awk -v rf="$RETROFORGE" -v crt="$RETROFORGE_CRT" -v sums="$SUMFILE" '
+        elif ! awk -v rf="$RETROFORGE" -v crt="$CRT_RBF" -v sums="$SUMFILE" '
             BEGIN {
                 n=split("Mister_RetroArch _Other/RetroArch.rbf games/RetroArch/RetroArch games/RetroArch/_handler.sh games/RetroArch/cores/mame2003_plus_libretro.so", a, " ")
                 for (i=1;i<=n;i++) required[a[i]]=1
