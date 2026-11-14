@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "status": "PASS_COPY_AUDIT",
-  "retroforge_manifest_sha256": "1386918cfdd24485b7b06af9a8948a1b3ec529afafebffa534434b40502ab92c",
+  "retroforge_manifest_sha256": "efaa570b5f0fee7206c5ac38942aeff6bed605c18980318c325324df3dbb2939",
   "frontend_source_snapshot": {
-    "launcher/custom_main/build.sh": "26d541a285aed9418b4a4a4335d24b6d57d5ec21f4b9b880dc794c63f94c1e7e",
+    "launcher/custom_main/build.sh": "eabbb0efa38f3f1a1f9e1b4b0d2777d0e2804e1495cd3b7b2ba1a5bfd43b3cd7",
     "launcher/custom_main/frontier_display_page.cpp": "017353621d05b22267d0098960a1de88ba642fac9dd203733d166746654543cf",
     "launcher/custom_main/frontier_display_page.h": "c311a8fcc56788884f39c8d36cc2933cb0ef6a20ccfd1c5fc545356ae81ab910",
     "launcher/custom_main/frontier_hdmi_guard.cpp": "a7603f95193bd6caf781481623a01b28293800f61d094502effbe926c3543781",
@@ -11,15 +11,17 @@
     "launcher/custom_main/hdmi_compat_patch.py": "8dda19d053dd3391b5715972f8a68533dda60605803f37d4271b8e5e8ec355d8",
     "launcher/custom_main/menu_frontier_patch.py": "ae94d3113dd144778f9f062644485a8b1527b1fcee817d68faee9a0c351a6d89",
     "launcher/custom_main/native_refresh_patch.py": "89b23af3372f38e36b09febd732782099c2302bcbe3d1ce036cd14e8654bba21",
-    "launcher/custom_main/retroarch_main.cpp": "bf387e31634c173143e2c88ec3b6e5f8ae66dd39f897dab6b673b28fdc392add",
+    "launcher/custom_main/retroarch_main.cpp": "919357d5912ae8a1a63ee9c7b94371ecf96211a7cde8c803887baced83adbaba",
     "launcher/custom_main/retroforge_main.cpp": "9540ed827f4ca4c803701ff402525585b37a29fa1bc73a6d850020f7547765c0",
     "retroforge/examples/mame2003master.txt": "b980480fcaeb2fb88adad24ceeaaddb3c5a232850c7c17b4d134f136c481a320",
     "retroforge/examples/mame2003speed.tsv": "c272ef34f62a1872db497454f9dc76a874b8c11e03a7e4d87dd1577a8e138108",
     "retroforge/fpga/sources.lock.json": "06808729f2a03b0e88b730bc8f889476d987ebf61a49ecd3855db3ba9940895a",
+    "retroforge/runtime/amigavision_artwork.generated.h": "1021043ed982a8266cf4fca7f95899b12f11bff51949bed234ca1783166b2858",
+    "retroforge/runtime/amigavision_artwork.h": "b155b1cc85c47628824c2198dd1036601bbb1bf5791b9f974cf300d739e0ca65",
     "retroforge/runtime/amigavision_titles.generated.h": "c57a7d03e86e1aba600cf9313c6b7148d40c89484e400c327ab7b81c74adb46c",
     "retroforge/runtime/background_videos.h": "bf65cc20c292b3e480ec636ec3f4d994d7697e95c5f1e4d5dd7e94fc5321c8f7",
     "retroforge/runtime/console_db.generated.h": "fc9cdb5c889523859660f1cfe2f92e8647e27da044045ec4ffb5c077bfe041c5",
-    "retroforge/runtime/console_library.h": "b6793ff145f5511fef55f7b72d0799c866e93899179f4595d7b1e9d889cd9888",
+    "retroforge/runtime/console_library.h": "c74226ec989ddc5511a9b8e83f34b4ede84e59ba0bbf70b59cb0739a9ebef685",
     "retroforge/runtime/console_systems_extra.inc": "5ec2a21d74da0aa08c43d48413cfef74565775ef50b2a97c1cf12311393eaaa8",
     "retroforge/runtime/developer_bulk.h": "e0be8f1db050a9ec97358528cf045de618cfbaae92f44370eb477dc26e291ed3",
     "retroforge/runtime/developer_bulk_ui.h": "0c1bcc3fc696779eea37ce068e5a9814a90b43c1fef586abf93b31fcefd56854",
@@ -34,8 +36,8 @@
     "retroforge/runtime/durable_save.h": "4f229337902e77b381886ea582ebbd62afb7d1294cd576460ea4acc7720e1baa",
     "retroforge/runtime/game_inventory.h": "b653231156e46a88907c0d6cd796f0c42903f610e6ad229e4ac674eace03e63f",
     "retroforge/runtime/library_refresh.h": "2b5c62d9c6592a726c78ed288dee576d4d2598f14b6d89f8e438dad911ba90c8",
-    "retroforge/runtime/Makefile": "ed009f33d90b1b880da48f5c14efff1a620dd3fa93c819ca74fd0f2fbc701e08",
-    "retroforge/runtime/mame2003plus.cpp": "cef7ec955a048fcccfcd9826a34861f3cfdead1f74d9486bdbb15622fa23f9b0",
+    "retroforge/runtime/Makefile": "421149f2c0400c833a29e6ab6ae848abb014c729954b1516e014cc9361ac3332",
+    "retroforge/runtime/mame2003plus.cpp": "bb3f6544b8f76beca128af390b51db33f62d1e4c905467465ca07762d561af63",
     "retroforge/runtime/menu_sfx.h": "1ca37c6ffb44d7d0b20f5223668f543caae4a0f1cf1f4639dacbe78e70a136fb",
     "retroforge/runtime/mra_rom_downloads.h": "d28d79f86553270b5e7e82afcd5b0d1cb0f54b168859deadbd4df5400c82f70a",
     "retroforge/runtime/mra_unpack.h": "145d7dd4efdd4f93eecd6230b6478ec3102a4a9c7acb0a6c924b6cd0fb83917a",
@@ -45,6 +47,7 @@
     "retroforge/runtime/snap_audio.h": "00d3351dd49560d38f1e029e2b05c7ddde0490a1edd751c033c4a654342922af",
     "retroforge/runtime/snap_unpack.h": "d6087d765c17905943311eae2056551d7e1b40bb2265d72a2d931034da3b4687",
     "retroforge/runtime/storage_io.h": "ecbe7e6112697b364fe97146c12d46990fdcb03d067996cd605cca89f623fbc4",
+    "retroforge/runtime/system_tip.h": "454509fb4943ecd4222a6954a4bca035b3ede992952c8f136f373167ac1a39d4",
     "retroforge/runtime/theme_knightrider.h": "deb5556fc0de870c219834bc41ae27d656c54e090cd190ccceff2690e78feaa0",
     "retroforge/runtime/third_party/pl_mpeg.h": "3a8cb30c83c2a1147719c30fe0c8b93da2987aa43140077c575b39aaa75fc2c9",
     "retroforge/runtime/third_party/yxml/yxml.c": "330219359cc97d976ed19d3f8ae7c8c161fd087f346f6528298044790b9f9115",
@@ -73,7 +76,7 @@
     },
     {
       "path": "Mister_RetroArch",
-      "sha256": "964937bbae5f57cce5a7ff02d2762a982b8eb49eab1584ab6b5447a5079d553f",
+      "sha256": "7c211bf0b46e730b07464c0c9e1065dc57372b118f06414e1215e096ad858e9d",
       "bytes": 2208372
     },
     {
@@ -173,8 +176,8 @@
     },
     {
       "path": "games/RetroArch/.mamefrontend/retroforge",
-      "sha256": "a16d7aa6a140e24b05b39a768f594681821437821e8aab9b9be41a4d2442f339",
-      "bytes": 18231332
+      "sha256": "8e8eeff807a1f67b208bc8fdbbca744918a03196cc862e6c5dbdccc48f88ccd5",
+      "bytes": 19914796
     },
     {
       "path": "games/RetroArch/.mamefrontend/snap1-001.zip",
@@ -283,7 +286,7 @@
     },
     {
       "path": "games/RetroArch/.payload/Mister_RetroArch.elf",
-      "sha256": "964937bbae5f57cce5a7ff02d2762a982b8eb49eab1584ab6b5447a5079d553f",
+      "sha256": "7c211bf0b46e730b07464c0c9e1065dc57372b118f06414e1215e096ad858e9d",
       "bytes": 2208372
     },
     {
@@ -298,8 +301,8 @@
     },
     {
       "path": "games/RetroArch/.payload/retroforge.elf",
-      "sha256": "a16d7aa6a140e24b05b39a768f594681821437821e8aab9b9be41a4d2442f339",
-      "bytes": 18231332
+      "sha256": "8e8eeff807a1f67b208bc8fdbbca744918a03196cc862e6c5dbdccc48f88ccd5",
+      "bytes": 19914796
     },
     {
       "path": "games/RetroArch/RetroArch",
